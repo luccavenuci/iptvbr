@@ -364,109 +364,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62310f66d
 https://live.cgtn.com/1000/prog_index.m3u8
 
 ############################# TV PLUS E SÉRIES #############################################################
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+http://192.99.148.73:8080/live/play/play/90.ts
 
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY H&H
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TRUTV
-https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
-https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
-https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-#EXTINF:-1  group-title="Bics Extra", NICK
-https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1  group-title="Bics Extra", NICK JR 
-https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TOONCAST 
-https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#EXTINF:-1  group-title="Bics Extra", BABY TV
-https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", CARTOONITO
-https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1  group-title="Bics Extra", A&E
-https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1  group-title="Bics Extra", CINECANAL 
-https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TNT
-https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TNT SERIES
-https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-#EXTINF:-1  group-title="Bics Extra", AXN
-https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SYFY
-https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FX
-https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SPACE
-https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1  group-title="Bics Extra", PARAMOUNT NETWORK
-https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SONY
-https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TBS
-https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
-#EXTINF:-1  group-title="Bics Extra", WARNER
-https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TCM
-https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HISTORY
-https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HISTORY 2
-http://tvstarlife.com:25461/live/geovany/geovany/158.m3u8
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY
-https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ISAT
-https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HTV
-https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", MTV
-https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", GOURMET
-https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY TURBO
-https://cotesma02.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY WORLD
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY KIDS
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1  group-title="Bics Extra", GLITZ
-https://cotesma02.cdn.rcs.net.ar/mnp/glitz/output.mpd
-#EXTINF:-1  group-title="Bics Extra", Telemundo Internacional
-https://cotesma02.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
+http://192.99.148.73:8080/live/play/play/92.ts
 
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO FHD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/355045
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/355046
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/355727
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923173
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/355728
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923174
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/355729
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923175
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/355730
-#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4 HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923176
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI FHD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/5239
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/5087
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI SD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923558
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923015
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png",HBO PLUS SD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923455
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP FHD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/5241
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/5089
-#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP SD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923559
+#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
+http://192.99.148.73:8080/live/play/play/91.ts
