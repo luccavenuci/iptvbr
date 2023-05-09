@@ -300,47 +300,23 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN RJ | Brasil
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews em português
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews em português | Plex
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9/variant.m3u8?url=d7b7225898854ac85a9d21175e745956-041f5701542b04aac1f7ac5a87285654aceb7f9d6adc8b2e051bf9daa1836dfbdf4cdb17fa83b3a9920def664457c5e8763b57e2e7738e3d23dfb6e0613696e76ba25bd669433caefc93ecf03d2936b70bb8ee5bb37374619deeedef3bb1eddaeea7253d5b44bb98c975194d021b54bf8816c7689f1ccfa8c0eece670d7d48ae68ea3e80fa57417403f17bb2952faaad8dd8655356c9fcb3762c92adf14fb47a610bde31ecf78da5e0e38509997c32356474c317921d04aecda5d5d7d0fb1d6aa5d0b952cfead5770a253b998e0cf377&x-plex-token=bUeJaWMoTt4Towr8A86_
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews | Rakuten
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Notícias",Euronews | Rakuten
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews | Samsung
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews | Pluto TV Brasil
+#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Notícias",Euronews Pluto TV | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews Pluto TV | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | Espírito Santo
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | Espírito Santo
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Notícias",Euronews English (720p)
 https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Notícias",Record News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Notícias",Record News | Link 2
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Notícias",Record News | Link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="GBBA33000299M" tvg-logo="https://i.imgur.com/p2nEd5g.png" group-title="Notícias",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -389,4 +365,189 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 ############################# TV PLUS E SÉRIES #############################################################
 
-https://list.iptvcat.com/my_list/s/46fe526717d68e26701cf4ed683fc206.m3u8
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY H&H
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TRUTV
+https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
+https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1  group-title="Bics Extra", NICK
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1  group-title="Bics Extra", NICK JR 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TOONCAST 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1  group-title="Bics Extra", BABY TV
+https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", CARTOONITO
+https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1  group-title="Bics Extra", A&E
+https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1  group-title="Bics Extra", CINECANAL 
+https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TNT
+https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TNT SERIES
+https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1  group-title="Bics Extra", AXN
+https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1  group-title="Bics Extra", SYFY
+https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FX
+https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1  group-title="Bics Extra", SPACE
+https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1  group-title="Bics Extra", PARAMOUNT NETWORK
+https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1  group-title="Bics Extra", SONY
+https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TBS
+https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1  group-title="Bics Extra", WARNER
+https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TCM
+https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1  group-title="Bics Extra", HISTORY
+https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1  group-title="Bics Extra", HISTORY 2
+http://tvstarlife.com:25461/live/geovany/geovany/158.m3u8
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY
+https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1  group-title="Bics Extra", ISAT
+https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1  group-title="Bics Extra", HTV
+https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", MTV
+https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", GOURMET
+https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY TURBO
+https://cotesma02.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY WORLD
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY KIDS
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+#EXTINF:-1  group-title="Bics Extra", GLITZ
+https://cotesma02.cdn.rcs.net.ar/mnp/glitz/output.mpd
+#EXTINF:-1  group-title="Bics Extra", Telemundo Internacional
+https://cotesma02.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+
+#EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA SIETE
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Bics Extra", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1  group-title="Bics Extra", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Bics Extra", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="Bics Extra", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELEMAX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1  group-title="Bics Extra", MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1  group-title="Bics Extra", MARIA VISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV USA
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", AMERICA AR
+https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1 group-title="Bics Extra", TELEFE AR
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 group-title="Bics Extra", CINCO TV AR
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra", C5N AR
+https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1 group-title="Bics Extra", LA NACION+ AR
+https://cotesma02.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELE ONCE PR
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 34 PR
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 11 HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVMAX PA
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVMAX PA
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVN PA
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELEMAX DO
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 12 SV
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 6 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 group-title="Bics Extra", TICAVISION CR
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", GLOBAL PE
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=775952547&_cdn_timestamp=1683436800&_cdn_token=7989fad495116a654c26fa5bfb7be1f0b99dd4c3
+#EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=775945171&_cdn_timestamp=1683436527&_cdn_token=f0114f5f0eb98c24c4e94d375b79e496eb2920c3
+#EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=775944187&_cdn_timestamp=1683436492&_cdn_token=c228d027e3ee5f580ebedc54d2fcd55b19cca96d
+#EXTINF:-1 group-title="Bics Extra", TELE 13 CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELE 13 ENTRETENCION CL
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELE 13 PRIME CL
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELE 13 TELESERIES CL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", BBC AMERICA UK
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CCTV-13 CH
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 group-title="Bics Extra", NHK WORLD JP
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", NIPPON NEWS JP
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", 24 HORAS ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="Bics Extra", ABC PY
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 group-title="Bics Extra", RAI NEWS IT
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 group-title="Bics Extra", REUTERS NEWS
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
+#EXTINF:-1 group-title="Bics Extra", CBS NEWS
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Bics Extra", NBC NEWS
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
