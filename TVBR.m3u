@@ -364,11 +364,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62310f66d
 https://live.cgtn.com/1000/prog_index.m3u8
 
 ############################# TV PLUS E SÉRIES #############################################################
-#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
-http://192.99.148.73:8080/live/play/play/90.ts
-
-#EXTINF:-1 tvg-id="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
-http://192.99.148.73:8080/live/play/play/92.ts
-
-#EXTINF:-1 tvg-id="SexyHot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
-http://192.99.148.73:8080/live/play/play/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
+http://live.adultiptv.net/bigdick.m3u8
