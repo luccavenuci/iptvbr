@@ -2,34 +2,31 @@
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/ozxkJhG.png" tvg-name="GLOBO SP HD"  group-title="CANAIS ABERTOS",GLOBO SP HD
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Bem TV
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="CANAIS ABERTOS",Band | RBA TV
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="CANAIS ABERTOS",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record | TV Conquista
+#EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS ABERTOS",RedeTV! | TO
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="CANAIS ABERTOS",Futura | Unisc TV
-https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="CANAIS ABERTOS",Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="CANAIS ABERTOS",TV Brasil | TVE
+#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://img1.gratispng.com/20181117/qya/kisspng-rtve-portable-network-graphics-television-channel-5bf0b32f746f85.9849469115425011674769.jpg" group-title="CANAIS ABERTOS",TV Brasil | TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="CANAIS ABERTOS",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 
-#EXTINF:-1 tvg-id"=Fandom.br" tvg-logo="https://peganet.com.br/wp-content/uploads/2020/11/136-FANDOM.jpg" group-title="CANAIS ABERTOS", Fandom TV
+#EXTINF:-1 tvg-id"=Fandom.br" tvg-logo="https://logowik.com/content/uploads/images/fandom2086.jpg" group-title="CANAIS ABERTOS", Fandom TV
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="CANAIS ABERTOS",TV Diário do Sertão
+#EXTINF:-1 tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao.png" group-title="CANAIS ABERTOS",TV Diário do Sertão
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
 
 #EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="CANAIS ABERTOS",CWB TV
@@ -47,13 +44,13 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="CANAIS CRISTÃOS",Fonte TV | Goiânia - Brasil
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
-#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="CANAIS CRISTÃOS",Gospel Cartoon
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://img.favpng.com/25/8/3/rede-aparecida-television-m3u-logo-png-favpng-LDFCYsxRKCWz0Q0dCXWUNQAKW.jpg" group-title="CANAIS CRISTÃOS",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GospelMovies.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="CANAIS CRISTÃOS",Gospel Movies
+#EXTINF:-1 tvg-id="GospelMovies.br" tvg-logo="https://img.favpng.com/25/8/3/rede-aparecida-television-m3u-logo-png-favpng-LDFCYsxRKCWz0Q0dCXWUNQAKW.jpg" group-title="CANAIS CRISTÃOS",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 
-#EXTINF:-1 tvg-id="GospelMusic.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="CANAIS CRISTÃOS",Gospel Music
+#EXTINF:-1 tvg-id="GospelMusic.br" tvg-logo="https://img.favpng.com/25/8/3/rede-aparecida-television-m3u-logo-png-favpng-LDFCYsxRKCWz0Q0dCXWUNQAKW.jpg" group-title="CANAIS CRISTÃOS",Gospel Music
 https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
 
 #EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="CANAIS CRISTÃOS",Ideal TV | Brasil
@@ -62,7 +59,7 @@ https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 ################################# CANAIS CRISTÃOS #################################
 ################################# ESPORTES #################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="ESPORTES",TNT Sports HD
+#EXTINF:-1 tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="ESPORTES",TNT Sports HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnJQE2V.png" group-title="ESPORTES",Arena Games Triathlon
@@ -160,26 +157,20 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="NOTÍCIAS",Black News Channel | Local Now
 https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS News (ENG) 
-https://CBS News-us.CBS Newsstream.CBS Newsews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS News (ENG) 2
+#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS News (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f0007534342livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS NY
-http://tvmedia2.com:8080/Majdi1/Majdi1/164341.ts?checkedby:dailyfreeiptvlist.com
 
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="NOTÍCIAS",CGTN em inglês | China
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTÍCIAS",France 24 HD em inglês 1
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTÍCIAS",France 24 HD 1
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTÍCIAS",France 24 HD em inglês 2
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTÍCIAS",France 24 HD 2
+https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/Tj0KCYI.png" group-title="NOTÍCIAS",France 24 SD em inglês
-http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/Tj0KCYI.png" group-title="NOTÍCIAS",France 24 SD
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61f9a80643ec158c3a3eb296" tvg-logo="https://i.imgur.com/FeY6aUe.png" group-title="NOTÍCIAS",Fox 23 Tulsa | EUA
 https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/89305481-8a86-42f2-8921-4a38895c2b19/0.m3u8
@@ -196,19 +187,16 @@ https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="NOTÍCIAS",NBC News NOW | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1, tvg-id="Jovem Pan News" tvg-logo="https://i.imgur.com/MWGAfvV.png" tvg-name="Jovem Pan News"  group-title="NOTÍCIAS",Jovem Pan News
+#EXTINF:-1, tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="NOTÍCIAS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jovem Pan News (1080p)"  group-title="NOTÍCIAS",Jovem Pan News (1080p)
+#EXTINF:-1, tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="NOTÍCIAS",Jovem Pan News (1080p)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YZtFGG5.png" tvg-name="BAND News HD"  group-title="NOTICÍAS",BAND News HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="NOTICÍAS",BAND News HD
 http://srv.vitrizamper.com:80/e3jytb9w1x/5arjl84kcy/20
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YZtFGG5.png" tvg-name="BAND News FHD [H265]"  group-title="NOTICÍAS",BAND News FHD [H265]
-http://srv.vitrizamper.com:80/e3jytb9w1x/5arjl84kcy/19
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OdGSecB.jpg" tvg-name="GLOBO NEWS HD"  group-title="NOTÍCIAS",GLOBO NEWS HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="NOTÍCIAS",GLOBO NEWS HD
 http://50.7.34.155:2200/BR/Globo_News_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 ################################# NOTÍCIAS #################################
@@ -256,10 +244,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba000070201
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Família
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="Channel1.br" tvg-logo="https://iconape.com/wp-content/png_logo_vector/c1-full-logo.png" group-title="CANAIS DE FILMES",Channel 1
+#EXTINF:-1 tvg-id="Channel1.br" tvg-logo="https://seeklogo.com/images/C/channel-one-russia-worldwide-logo-0B4341E5C0-seeklogo.com.png" group-title="CANAIS DE FILMES",Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-id"NovaPlay.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/800px-Nova_Play_logo.svg.png?20210405142024" group-title="CANAIS DE FILMES",TV Nova Play HD
+#EXTINF:-1 tvg-id"NovaPlay.br" tvg-logo="https://girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png" group-title="CANAIS DE FILMES",TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 tvg-id"CinePix.br" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/cinepix-33359-0.jpg" group-title="CANAIS DE FILMES",CinePIX TV
