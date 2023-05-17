@@ -62,8 +62,8 @@ https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
  
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 1² HD
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", Estádio TNT
+https://origin.esporteone.com/TNTSD/tracks-v1a1/mono.m3u8?md5=mY0wm5t7S-oF9h8_0WtaPQ&expires=1684361672
  
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
