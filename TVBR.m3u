@@ -2,7 +2,7 @@
 
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2022 | 19-09-2023
+## 🆕 07-05-2023 | 19-09-2023
 
 ################################# CANAIS ABERTOS #################################
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
@@ -342,5 +342,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8
 
 #EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-chno="735" tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="ANIME E INFANTIL",As Aventuras de Jackie Chan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="ANIME E INFANTIL", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
 
 ################################# ANIME E INFANTIL #################################
