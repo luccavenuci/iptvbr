@@ -137,24 +137,6 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="CANAIS DE FILMES",CinePIX TV
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime CinEspanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
 #EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS DE FILMES",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
@@ -196,9 +178,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Diff’rent Strokes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-chno="129" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",La Otra Cara del Alma
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-chno="154" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",BET Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -207,9 +186,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 
 #EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",MTV Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-chno="173" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",People are Awesome
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -247,9 +223,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c74
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Natureza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="604a8dedbca75b0007b1c753" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Paisagens por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-chno="274" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",O Encantador de Cães
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -264,9 +237,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adb
 
 #EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",A culpa é do cabral | SÉRIES E ENTRETENIMENTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",FailArmy
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -285,12 +255,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba
 
 #EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Fashionstream
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="SÉRIES E ENTRETENIMENTO",AniTV
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Os-dez-mandamentos_o_filme.png/revision/latest/scale-to-width-down/300?cb=20210514190458" group-title="SÉRIES E ENTRETENIMENTO",Os Dez Mandamentos - 24h HD
-https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 ################################# SÉRIES E ENTRETENIMENTO #################################
 ################################# ANIME E INFANTIL #################################
@@ -348,6 +312,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="ANIME E INFANTIL", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
 
 ################################# ANIME E INFANTIL #################################
