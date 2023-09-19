@@ -19,7 +19,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="CANAIS ABERTOS",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/08/ABC-Logo.png" group-title="CANAIS ABERTOS",ABC Brasil
+#EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="CANAIS ABERTOS",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 
 ################################# CANAIS ABERTOS #################################
@@ -88,9 +88,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f00075343
 ################################# NOTÍCIAS #########################################
 ################################# CANAIS DE FILMES #################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES",RunTime | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -150,24 +147,6 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="CANAIS DE FILMES",Canela TV | Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="CANAIS DE FILMES",Canela TV | Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://i.imgur.com/qIPX1zk.png" group-title="CANAIS DE FILMES",Chiquilines
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="CANAIS DE FILMES",Cindie Lite - Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=820
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="CANAIS DE FILMES",La Corriente
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="CANAIS DE FILMES",Runtime Español
-https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
 ################################# CANAIS DE FILMES #################################
 ################################# SÉRIES E ENTRETENIMENTO #################################
