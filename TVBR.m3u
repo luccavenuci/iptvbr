@@ -135,7 +135,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="CANAIS DE FILMES",CinePIX TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
