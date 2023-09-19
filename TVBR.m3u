@@ -13,29 +13,14 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="CANAIS ABERTOS",TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="CANAIS ABERTOS",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="CANAIS ABERTOS",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
-
-#EXTINF:-1 tvg-id"=Fandom.br" tvg-logo="https://logowik.com/content/uploads/images/fandom2086.jpg" group-title="CANAIS ABERTOS", Fandom TV
-http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao.png" group-title="CANAIS ABERTOS",TV Diário do Sertão
-https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
-
-#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="CANAIS ABERTOS",CWB TV
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Amazonsat.br" tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png" group-title="CANAIS ABERTOS", Amazon Sat HD
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ROGERIOTORRES
 
 ################################# CANAIS ABERTOS #################################
 ################################# CANAIS CRISTÃOS #################################
@@ -52,58 +37,23 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovies.br" tvg-logo="https://img.favpng.com/25/8/3/rede-aparecida-television-m3u-logo-png-favpng-LDFCYsxRKCWz0Q0dCXWUNQAKW.jpg" group-title="CANAIS CRISTÃOS",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 
-#EXTINF:-1 tvg-id="GospelMusic.br" tvg-logo="https://img.favpng.com/25/8/3/rede-aparecida-television-m3u-logo-png-favpng-LDFCYsxRKCWz0Q0dCXWUNQAKW.jpg" group-title="CANAIS CRISTÃOS",Gospel Music
-https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
-
-#EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="CANAIS CRISTÃOS",Ideal TV | Brasil
-https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
-
 ################################# CANAIS CRISTÃOS #################################
 ################################# ESPORTES #################################
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
- 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", Estádio TNT
-https://origin.esporteone.com/TNTSD/tracks-v1a1/mono.m3u8?md5=mY0wm5t7S-oF9h8_0WtaPQ&expires=1684361672
- 
+  
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
  
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 3 HD
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8?ROGERIOTORRES
- 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 4 HD
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRES
  
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 5 HD
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 4 HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bnJQE2V.png" group-title="ESPORTES",Arena Games Triathlon
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-
-#EXTINF:-1 tvg-id="CAAJ34000107T" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/CAAJ34000107T_20210525T053256.png" group-title="Esportes em inglês",Fuel TV | Brasil
-
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Esportes em inglês",Fox Sports | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Esportes em inglês",MLB - Beisebol | EUA
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="ESPORTES",MLB - Beisebol | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="Esportes em inglês",RealMadrid TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QweV0BP.png" group-title="Esportes em inglês",Sky Racing 1 | Reino Unido
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-
-#EXTINF:-1 group-title="ESPORTES", All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -111,29 +61,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Fight TV HD (ENG)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESPORTES", MMA TV HD (ENG)
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", MotorRacing HD (ENG)
-https://motorracingchannel-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d0c11c6c6042f12c5d32_motorracingchannel-live-1/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Nitro TV HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
-
 ################################# ESPORTES #################################
 ################################# NOTÍCIAS #################################
-
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS",Bloomberg | Brasil
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="NOTÍCIAS",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS",Bloomberg | Brasil
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -141,75 +76,23 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews | Link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="NOTÍCIAS em inglês",ABC News | Austrália
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="NOTÍCIAS em inglês",ABC News 2 | Austrália
-https://c.mjh.nz/101002210220/
-
-#EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/uiAG1Tb.png" group-title="NOTÍCIAS em inglês",AfricaNews
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1428
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uiAG1Tb.png" group-title="NOTÍCIAS em inglês",AfricaNews em inglês
-https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="NOTÍCIAS",Al Jazeera | Inglês
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="NOTÍCIAS",Austrália Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="NOTÍCIAS",Black News Channel | Local Now
-https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
-
 #EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS News (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f0007534342livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="NOTÍCIAS",CGTN em inglês | China
-https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTÍCIAS",France 24 HD 1
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-
-#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTÍCIAS",France 24 HD 2
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/Tj0KCYI.png" group-title="NOTÍCIAS",France 24 SD
-https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61f9a80643ec158c3a3eb296" tvg-logo="https://i.imgur.com/FeY6aUe.png" group-title="NOTÍCIAS",Fox 23 Tulsa | EUA
-https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/89305481-8a86-42f2-8921-4a38895c2b19/0.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="NOTÍCIAS",FOX News NOW | EUA 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBA300032J7" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="NOTÍCIAS",Fox Soul
-http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png" group-title="NOTÍCIAS",i24 News Updates | Israel
-https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/baeacf0d-fca2-4578-bc6b-083e78622b19.m3u8?adMethod=3&sessionId=i24Plex&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.channel_id=61e9af453508a50f84213dd6&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.app_domain=app.plex.tv&ads.channel_name=i24News&ads.gdpr=0&ads.us_privacy=1---&ads.consent=0
-
-#EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="NOTÍCIAS",NBC News NOW | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="NOTÍCIAS",Jovem Pan | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="NOTÍCIAS",Jovem Pan | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-################################# NOTÍCIAS #################################
+################################# NOTÍCIAS #########################################
 ################################# CANAIS DE FILMES #################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES",RunTime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="CANAIS DE FILMES",Run Time Tv e Filmes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS DE FILMES",Filmelier
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -252,9 +135,6 @@ https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 tvg-id"NovaPlay.br" tvg-logo="https://girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png" group-title="CANAIS DE FILMES",TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 tvg-id"CinePix.br" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/cinepix-33359-0.jpg" group-title="CANAIS DE FILMES",CinePIX TV
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="CANAIS DE FILMES",Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
