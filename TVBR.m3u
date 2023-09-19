@@ -1,5 +1,9 @@
 #EXTM3U
 
+## 📺 TV gratis e legal
+## 👨🏻‍💻 Editor: Lucca Venuci
+## 🆕 07-05-2022 | 19-09-2023
+
 ################################# CANAIS ABERTOS #################################
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
@@ -127,11 +131,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba000070201
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Família
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="Channel1.br" tvg-logo="https://seeklogo.com/images/C/channel-one-russia-worldwide-logo-0B4341E5C0-seeklogo.com.png" group-title="CANAIS DE FILMES",Channel 1
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-id"TVNovaPlay" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.jpg" group-title="CANAIS DE FILMES",TV Nova Play HD
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id"NovaPlay.br" tvg-logo="https://girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png" group-title="CANAIS DE FILMES",TV Nova Play HD
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="CANAIS DE FILMES",CinePIX TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime CinEspanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="CANAIS DE FILMES",Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
@@ -147,6 +169,12 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bons Tempos Web TV" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="CANAIS DE FILMES",Bons Tempos TV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="CANAIS DE FILMES",TV Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 ################################# CANAIS DE FILMES #################################
 ################################# SÉRIES E ENTRETENIMENTO #################################
