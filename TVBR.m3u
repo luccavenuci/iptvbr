@@ -83,7 +83,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="NOTÍCIAS em inglês",ABC News | Austrália
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="NOTÍCIAS",ABC News | Austrália
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS News (ENG)
@@ -155,9 +155,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS DE FILMES", RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="CANAIS DE FILMES",Fronteira Movies
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
-
 #EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS DE FILMES",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
@@ -169,6 +166,12 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAracati.Br" tvg-logo="https://logicahost.com.br/aracati.png" group-title="CANAIS DE FILMES",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineTvHits" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png" group-title="CANAIS DE FILMES",Cine TV Hits
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bons Tempos Web TV" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="CANAIS DE FILMES",Bons Tempos TV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
