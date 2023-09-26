@@ -92,43 +92,43 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f00075343
 ################################# NOTÍCIAS #########################################
 ################################# CANAIS DE FILMES #################################
 
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Sucessos
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS DE FILMES",Filmelier
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Filmelier
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS DE FILMES",Filmes Ação
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Filmes Ação
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS DE FILMES",Adrenalina Freezone
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Adrenalina Freezone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Comédia
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Comédia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Comédia Romântica
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Comédia Romântica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Drama
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Romance
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS DE FILMES",Suspense
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Suspense
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS DE FILMES",Ficção Científica
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Ficção Científica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS DE FILMES",Filmes Nacionais
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Filmes Nacionais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Clássicos
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Clássicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Cine Família
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Família
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id"TVNovaPlay" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Tv%20nova%20play%20.jpg" group-title="CANAIS DE FILMES",TV Nova Play HD
@@ -149,11 +149,11 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WebTVCine" tvg-logo="https://i.imgur.com/ThwXXkl.jpeg" group-title="CANAIS DE FILMES",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVAracati.Br" tvg-logo="https://logicahost.com.br/aracati.png" group-title="CANAIS DE FILMES",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineTvHits" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png" group-title="CANAIS DE FILMES",Cine TV Hits
-https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bons Tempos Web TV" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="CANAIS DE FILMES",Bons Tempos TV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -161,99 +161,93 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elegantthemes.com/blog/wp-content/uploads/2022/01/lazy-loading.png" group-title="CANAIS DE FILMES",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RuntimeAção" tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CANAIS DE FILMES",Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
 ################################# CANAIS DE FILMES #################################
 ################################# SÉRIES E ENTRETENIMENTO #################################
-#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Paramount+ Apresenta
+#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Paramount+ Apresenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Séries
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Séries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Jeannie é um Gênio
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Jeannie é um Gênio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-chno="106" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Retrô
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-chno="106" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Retrô
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Diff’rent Strokes
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Diff’rent Strokes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-chno="154" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",BET Pluto TV
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-chno="154" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | BET
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-chno="155" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",BET Being Mary Jane
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-chno="155" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | BET Being Mary Jane
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",MTV Pluto TV
+#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | MTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Younger
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Nick Teen
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Nick Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-chno="177" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Kenan & Kel
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-chno="177" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Kenan & Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Nickelodeon iCarly
+#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Nickelodeon iCarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",MasterChef
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="626c2a3502d84a0007cec817" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Catfish: The TV Show U.S
+#EXTINF:-1 tvg-id="626c2a3502d84a0007cec817" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Catfish: The TV Show U.S
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",O Homem Que Veio do Céu
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | O Homem Que Veio do Céu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Mistérios
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Mistérios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-chno="265" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pronto-socorro: Histórias De Emergência
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-chno="265" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Pronto-socorro: Histórias De Emergência
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-chno="266" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Minha Obsessão Favorita
+#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-chno="266" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Minha Obsessão Favorita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Vida Real
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Natureza
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Natureza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-chno="274" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",O Encantador de Cães
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Turbo
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Turbo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="288" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Documentários
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="288" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Documentários
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Investigação
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Investigação
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",A culpa é do cabral | SÉRIES E ENTRETENIMENTO
+#EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | A culpa é do cabral
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",The Pet Collective
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Comédia
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Comédia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Schitt's Creek
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Schitt's Creek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="60f8841a4865da0007421177" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Estilo de Vida
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Tastemade
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Tastemade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Fashionstream
+#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Fashionstream
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 ################################# SÉRIES E ENTRETENIMENTO #################################
