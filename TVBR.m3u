@@ -5,11 +5,9 @@
 ## 🆕 07-05-2023 | 19-09-2023
 
 ################################# CANAIS ABERTOS #################################
-#EXTINF:-1,H2 History (Link1)
-https://cdn2.connectbr.com.br/h2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,H2 History (Link2)
-http://187.95.95.247/h2/index.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://i.imgur.com/hqUiip9.png" group-title="CANAIS ABERTOS",Globo SP
+http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
@@ -61,9 +59,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRE
  
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 4 HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="ESPORTES",MLB - Beisebol | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -166,6 +161,10 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 ################################# CANAIS DE FILMES #################################
 ################################# SÉRIES E ENTRETENIMENTO #################################
+
+#EXTINF:-1 tvg-id="H2.br" tvg-chno"" tvg-logo="https://i.imgur.com/CdwVOUC.png" group-title="SÉRIES E ENTRETENIMENTO", History H2
+http://187.95.95.247/h2/index.m3u8
+
 #EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Paramount+ Apresenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
