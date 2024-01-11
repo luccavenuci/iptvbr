@@ -143,9 +143,6 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS DE FILMES",DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="CANAIS DE FILMES",Dark Matter TV
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
