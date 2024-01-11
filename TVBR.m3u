@@ -90,25 +90,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBS News (ENG)
+#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS" tvg-name="CBS News"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f0007534342livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ################################# NOTÍCIAS #########################################
 ################################# CANAIS DE FILMES #################################
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",A&E 1
+#EXTINF:-1 group-title="CANAIS DE FILMES",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",A&E 2
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",A&E 3
-http://187.95.95.247/AE/index.m3u8
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",Paramount 1
-https://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",Paramount 2
+#EXTINF:-1 group-title="CANAIS DE FILMES",Paramount
 http://187.95.95.247/paramount/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DE FILMES",Sony Movies
