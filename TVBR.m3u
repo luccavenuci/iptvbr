@@ -111,38 +111,53 @@ https://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS DE FILMES",Paramount 2
 http://187.95.95.247/paramount/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",ADRENALINA FREE ZONE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",RUNTIME.ᴴᴰ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",RUNTIME (FAMILIA).ᴴᴰ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",Sony Movies.ᴴᴰ
+#EXTINF:-1 group-title="CANAIS DE FILMES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",Sony Channel.ᴴᴰ
+#EXTINF:-1 group-title="CANAIS DE FILMES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",Bora Filmes.ᴴᴰ
+#EXTINF:-1 group-title="CANAIS DE FILMES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS DE FILMES",ENTRETENDO FILMES
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",TNT.ᴴᴰ
+#EXTINF:-1 group-title="CANAIS DE FILMES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DE FILMES",Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",AMC.ᴴᴰ
+#EXTINF:-1 group-title="CANAIS DE FILMES",AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",AXN.ᴴᴰ
+#EXTINF:-1 group-title="CANAIS DE FILMES",AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 tvg-id"TVNovaPlay" tvg-logo="https://i.imgur.com/p47TGhe.png" group-title="CANAIS DE FILMES",TV Nova Play HD
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="CANAIS DE FILMES",CinePIX TV
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WebTVCine" tvg-logo="https://i.imgur.com/ThwXXkl.jpeg" group-title="CANAIS DE FILMES",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAracati.Br" tvg-logo="https://logicahost.com.br/aracati.png" group-title="CANAIS DE FILMES",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bons Tempos Web TV" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="CANAIS DE FILMES",Bons Tempos TV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS DE FILMES",CineMonde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS DE FILMES",DarkFlix HD
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -182,33 +197,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba000070201
 
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Família
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id"TVNovaPlay" tvg-logo="https://i.imgur.com/p47TGhe.png" group-title="CANAIS DE FILMES",TV Nova Play HD
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="CANAIS DE FILMES",CinePIX TV
-https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS DE FILMES",CineMonde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS DE FILMES",DarkFlix HD
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS DE FILMES",MyTime Movie Network
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WebTVCine" tvg-logo="https://i.imgur.com/ThwXXkl.jpeg" group-title="CANAIS DE FILMES",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVAracati.Br" tvg-logo="https://logicahost.com.br/aracati.png" group-title="CANAIS DE FILMES",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bons Tempos Web TV" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="CANAIS DE FILMES",Bons Tempos TV
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.elegantthemes.com/blog/wp-content/uploads/2022/01/lazy-loading.png" group-title="CANAIS DE FILMES",TV Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 ################################# CANAIS DE FILMES #################################
 ################################# SÉRIES E ENTRETENIMENTO #################################
@@ -309,8 +297,14 @@ https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLive.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="ANIME E INFANTIL",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
+#EXTINF:-1 group-title="ANIME E INFANTIL",Nickelodeon
+https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="ANIME E INFANTIL", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.elegantthemes.com/blog/wp-content/uploads/2022/01/lazy-loading.png" group-title="CANAIS DE FILMES",TV Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-chno="327" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="ANIME E INFANTIL",Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
