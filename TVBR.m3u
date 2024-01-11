@@ -27,8 +27,11 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="CANAIS ABERTOS",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="CANAIS ABERTOS",ABC Brasil
-https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
+#EXTINF:-1 tvg-id="TV DIARIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TV_Di%C3%A1rio_logo_2015.png/revision/latest/scale-to-width-down/1000?cb=20200829194227" group-title="CANAIS ABERTOS",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV DIARIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TV_Di%C3%A1rio_logo_2015.png/revision/latest/scale-to-width-down/1000?cb=20200829194227" group-title="CANAIS ABERTOS",TV DIARIO
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 
 ################################# CANAIS ABERTOS #################################
 ################################# CANAIS CRISTÃOS #################################
