@@ -6,6 +6,9 @@
 
 ################################# CANAIS ABERTOS #################################
 
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD **" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="FILMES",TELECINE PIPOCA HD
+http://159.203.66.6/telecinepipoca/tracks-v1a1/index.m3u8?pxAuth=0DZdmROLGFwTm3I4Aqdn09vrR2oyUBov
+
 #EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://i.imgur.com/hqUiip9.png" group-title="CANAIS ABERTOS",Globo SP
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
