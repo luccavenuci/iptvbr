@@ -6,6 +6,9 @@
 
 ################################# CANAIS ABERTOS #################################
 
+#EXTINF:-1 group-title="CANAIS DE FILMES",RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
 #EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",Globo
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
