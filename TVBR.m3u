@@ -96,6 +96,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f00075343
 ################################# NOTÍCIAS #########################################
 ################################# CANAIS DE FILMES #################################
 
+#EXTINF:-1 group-title="CANAIS DE FILMES",🎬.A&E 1 (Filmes..24H).ᴴᴰ
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",A&E 2
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",A&E 3
+http://187.95.95.247/AE/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",Paramount 1
+https://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",Paramount 2
+http://187.95.95.247/paramount/index.m3u8
+
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS DE FILMES",Pluto TV | Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
