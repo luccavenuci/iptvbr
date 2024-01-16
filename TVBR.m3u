@@ -18,9 +18,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
@@ -28,13 +25,19 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 ################################# CANAIS ABERTOS #################################
-################################# REALITY ########################################
+################################# BBB 2024 ########################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD 
- https://cr7v.short.gy/live/BBB1/Index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="BBB 2024",Camera 1
+https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=MDV_wylno89iQK85Zni3IQ&3U1G7qaTxrPbalZnEx=1705395020
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
-https://cr7v.short.gy/live/BBB2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="BBB 2024",Camera 2
+https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=RBj9ogGZ--hDzl9vLjwmyg&3U1G7qaTxrPbalZnEx=1705395182
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="BBB 2024",Camera 3
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/bbb01/edge-cache-token=Expires=1705453068&KeyName=media-cdn-keyset-prod&IPRanges=MTY3LjI1MC4xOC4xMjkvMzI=&Signature=OqHL5ta0SqFkQwbIn0YMC_zr6n69R_OYqQI7-1NOY8eTXK5nZ29qOsHhqvZUmmrULSf5qTl0MM_dokdgpWPaCg==/bbb01-audio_1=96000-video=2262976.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgzyFw5.png" group-title="BBB 2024",Camera 4
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/bbb11/edge-cache-token=Expires=1705453277&KeyName=media-cdn-keyset-prod&IPRanges=MTY3LjI1MC4xOC4xMjkvMzI=&Signature=TbqV8gkf_oxM4Pf4eY9fFC3iM1cHwnDHzHAiNwUUVyag8DHrvflGvVm7SMqp-K5556QlD-i0_MMbLRpAFHhXCQ==/bbb11-audio_1=96000-video=2262976.m3u8?WithCaption
 
 ################################# REALITY #########################################
 ################################# CANAIS CRISTÃOS #################################
@@ -60,18 +63,6 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES", TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="ESPORTES",TNT Sports 
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV HD
-https://cr7v.short.gy/live2/SporTV24h/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV FHD
-https://cr7v.short.gy/live/SporTVFHD/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN HD
-https://cr7v.short.gy/live2/iESPNHD/Index.m3u8
-
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -87,6 +78,9 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 group-title="NOTÍCIAS",Band News HD
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
@@ -96,22 +90,19 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News FHD
 http://209.222.97.92:16436/
 
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS",Bloomberg | Brasil
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+################################# NOTÍCIAS #########################################
+################################# INTERNACIONAL #################################
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews | Link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3 | Portugal
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="INTERNACIONAL",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="5a6b92f6e22a617379789618" tvg-chno="204" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="NOTÍCIAS",CBSN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69b2ea6b192c5a330b5418ce0f3f0138.webp" group-title="INTERNACIONAL",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-################################# NOTÍCIAS #########################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmcHhWRiH_CeAbAj2QCK2-7Xa6YUuAeq2SSNFI2iQiI9ioKpO0CIGf1PdlYQHzoTMeqGa6NqblLMo0Kuz5vuHR5PlTV3YoWMi-e_oSn0M6j8yVjHA3YK9vYaQ-PIRSAtNoOCKL4tSMnbDCgKmcs6DOPMsii21C4waV109iSYMEGf22905TTmejpZmJ/w200-h100/DW.jpg" group-title="INTERNACIONAL",DW (Inglês)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+
+################################# INTERNACIONAL #########################################
 ################################# CANAIS DE FILMES #################################
 
 #EXTINF:-1 group-title="CANAIS DE FILMES",A&E
