@@ -2,7 +2,7 @@
 
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2023 | 11-01-2024
+## 🆕 07-05-2023 | 16-01-2024
 
 ################################# CANAIS ABERTOS #################################
 
@@ -27,10 +27,16 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="CANAIS ABERTOS",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV DIARIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TV_Di%C3%A1rio_logo_2015.png/revision/latest/scale-to-width-down/1000?cb=20200829194227" group-title="CANAIS ABERTOS",TV DIARIO
-https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
-
 ################################# CANAIS ABERTOS #################################
+################################# REALITY ########################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD 
+ https://cr7v.short.gy/live/BBB1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
+https://cr7v.short.gy/live/BBB2/Index.m3u8
+
+################################# REALITY #########################################
 ################################# CANAIS CRISTÃOS #################################
 
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="CANAIS CRISTÃOS",Evangelizar TV
@@ -48,17 +54,23 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ################################# CANAIS CRISTÃOS #################################
 ################################# ESPORTES #################################
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 1 HD
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
   
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 2 HD
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES", TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
- 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 3 HD
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRES
- 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title = "ESPORTES", TNT Sports 4 HD
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="ESPORTES",TNT Sports 
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV HD
+https://cr7v.short.gy/live2/SporTV24h/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV FHD
+https://cr7v.short.gy/live/SporTVFHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN HD
+https://cr7v.short.gy/live2/iESPNHD/Index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -77,6 +89,12 @@ http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News FHD
+http://209.222.97.92:16436/
 
 #EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS",Bloomberg | Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
@@ -99,6 +117,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a6173797896
 #EXTINF:-1 group-title="CANAIS DE FILMES",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CANAIS DE FILMES",AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
 #EXTINF:-1 group-title="CANAIS DE FILMES",Paramount
 http://187.95.95.247/paramount/index.m3u8
 
@@ -108,23 +132,59 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="CANAIS DE FILMES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",Bora Filmes
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="CANAIS DE FILMES",ENTRETENDO FILMES
-http://cdn.connectbr.com.br/Entretendo/index.m3u8
-
 #EXTINF:-1 group-title="CANAIS DE FILMES",TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS DE FILMES",Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="CANAIS DE FILMES",MEGAPIX HD
+http://64.31.40.14:14048/
 
-#EXTINF:-1 group-title="CANAIS DE FILMES",AXN
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="CANAIS DE FILMES",Telecine Premium HD
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="CANAIS DE FILMES",Telecine Action HD
+http://64.31.40.14:14056/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="CANAIS DE FILMES",Telecine Pipoca HD
+http://51.83.238.223:16763/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djKFAI7.png" group-title="CANAIS DE FILMES",TELECINE TOUCH HD
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCuXzXV.png" group-title="CANAIS DE FILMES",TELECINE FUN HD
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="CANAIS DE FILMES",Warner Channel HD
+http://208.115.225.174:14132/
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="CANAIS DE FILMES",HBO HD
+http://208.115.225.174:14136/
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="CANAIS DE FILMES",HBO 2 HD
+http://208.115.225.174:14140/
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="CANAIS DE FILMES",HBO SIGNATURE 
+http://208.115.225.174:14160/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="CANAIS DE FILMES",HBO Family FHD
+http://208.115.225.174:14144/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QzbWqis.png" group-title="CANAIS DE FILMES",HBO Xtreme HD
+http://208.115.225.174:14165/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="CANAIS DE FILMES",Universal Channel HD
+http://208.115.225.174:14128/
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",Bora Filmes
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS DE FILMES",ENTRETENDO FILMES
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="CANAIS DE FILMES",CHANNEL ONE 
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
 #EXTINF:-1 tvg-id"TVNovaPlay" tvg-logo="https://i.imgur.com/p47TGhe.png" group-title="CANAIS DE FILMES",TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
@@ -138,8 +198,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAracati.Br" tvg-logo="https://logicahost.com.br/aracati.png" group-title="CANAIS DE FILMES",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bons Tempos Web TV" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="CANAIS DE FILMES",Bons Tempos TV
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="CANAIS DE FILMES",Moon Plus TV
+https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS DE FILMES",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
@@ -190,10 +250,49 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba000070201
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 ################################# CANAIS DE FILMES #################################
-################################# SÉRIES E ENTRETENIMENTO #################################
+################################# VARIEDADES #######################################
 
-#EXTINF:-1 tvg-id="H2.br" tvg-chno"" tvg-logo="https://i.imgur.com/CdwVOUC.png" group-title="SÉRIES E ENTRETENIMENTO", History H2
+#EXTINF:-1 tvg-id="History.br"tvg-logo="https://imgur.com/0rNNqVy.png" group-title="VARIEDADES",History HD
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="H2.br" tvg-chno"" tvg-logo="https://i.imgur.com/CdwVOUC.png" group-title="VARIEDADES", History H2
 http://187.95.95.247/h2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c157XoV.png" group-title="VARIEDADES",E! HD
+http://dns.p2.wtf/live/Marcelo210586/Marcelotv153045/144489.ts 
+
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="VARIEDADES",Discovery ID HD
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="VARIEDADES",Discovery Turbo HD
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="VARIEDADES",Discovery h&h HD
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel SD
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel HD
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV | Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV | Natureza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV | Turbo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="288" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV | Documentários
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV | Investigação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+################################# VARIEDADES #######################################
+################################# SÉRIES E ENTRETENIMENTO #################################
 
 #EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Paramount+ Apresenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -231,54 +330,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Nickelodeon iCarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | MasterChef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="626c2a3502d84a0007cec817" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Catfish: The TV Show U.S
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | O Homem Que Veio do Céu
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Mistérios
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-chno="265" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Pronto-socorro: Histórias De Emergência
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-chno="266" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Minha Obsessão Favorita
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Vida Real
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Natureza
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Turbo
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="288" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Documentários
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Investigação
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | A culpa é do cabral
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Comédia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Schitt's Creek
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Tastemade
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png" group-title="SÉRIES E ENTRETENIMENTO",Pluto TV | Fashionstream
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 ################################# SÉRIES E ENTRETENIMENTO #################################
 ################################# ANIME E INFANTIL #################################
 
@@ -290,6 +341,12 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
 #EXTINF:-1 group-title="ANIME E INFANTIL",Nickelodeon
 https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel HD
+http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/356.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel FHD
+http://51.83.238.223:16274/
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="ANIME E INFANTIL", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
