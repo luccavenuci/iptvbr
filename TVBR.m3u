@@ -201,18 +201,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES E SERIES",SONY ONE EMOCOES
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="FILMES E SERIES",Todo Mundo Odeia O Cris 24h
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="FILMES E SERIES",2 homens e meio 24h
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
-
 ################################# FILMES E SERIES #################################
 ################################# VARIEDADES #######################################
 
@@ -273,9 +261,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
 #EXTINF:-1 group-title="ANIME E INFANTIL",Nickelodeon
 https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel HD
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/356.m3u8
-
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel FHD
 http://51.83.238.223:16274/
 
@@ -288,10 +273,34 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elegantthemes.com/blog/wp-content/uploads/2022/01/lazy-loading.png" group-title="ANIME E INFANTIL",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="ANIME E INFANTIL",Os Simpsons 24h
+################################# ANIME E INFANTIL #################################
+################################# CANAIS 24H #################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Os Simpsons 24h
 http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="ANIME E INFANTIL",Chaves 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="CANAIS 24H",Chaves 24h
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 
-################################# ANIME E INFANTIL #################################
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Todo Mundo Odeia O Cris 24h
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="CANAIS 24H",2 homens e meio 24h
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",PicaPau 24h
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Os Flistony 24h
+http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Scoobdoo 24h
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Popeye 24h
+http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Caverna do Dragão 24h
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
+################################# CANAIS 24H #################################
