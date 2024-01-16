@@ -207,7 +207,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CFILMES E SERIES",Todo Mundo Odeia O Cris 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="FILMES E SERIES",Todo Mundo Odeia O Cris 24h
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="FILMES E SERIES",2 homens e meio 24h
