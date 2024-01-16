@@ -45,11 +45,14 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ################################# CANAIS CRISTÃOS #################################
 ################################# ESPORTES #################################
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES", TNT Sports 1 HD
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
   
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES", TNT Sports 2 HD
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
+
+#EXTINF: -1 group-title ="ESPORTES",Estádio TNT Sports
+http://dns-onplaytv.fun:80/865283/969466/24134
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/bellator-mma-logo-0-1536x1536.png" group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
