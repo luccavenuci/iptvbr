@@ -78,8 +78,8 @@ http://209.222.97.92:16436/
 ################################# NOTÍCIAS #########################################
 ################################# INTERNACIONAL #################################
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="INTERNACIONAL",EuroNews | Portugal
-https://encurtador.com.br/fjKU0
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="INTERNACIONAL",EURONEWS PT
+https://euronews.alteox.app/hls/pt_stream.m3u8
 
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="INTERNACIONAL",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
