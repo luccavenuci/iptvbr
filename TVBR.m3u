@@ -147,13 +147,13 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="ESPORTES",Premiere Clubes | Link 2 HD
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes | Link 2 HD
 http://208.115.225.174:14460/
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/498
 
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="ESPORTES",Premiere 2 | Link 2 HD
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 2 | Link 2 HD
 http://208.115.225.174:14464/
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 3 HD
@@ -177,31 +177,31 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
 ################################# ESPORTES #################################
 ################################# NOTÍCIAS #################################
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News 1 HD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News 2 FHD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News | Link 2 FHD
 http://209.222.97.92:16436/
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News 3 HD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News | Link 3 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/478
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN Brasil 2 HD
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN Brasil | Link 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
 
-#EXTINF:-1 group-title="NOTÍCIAS",Band News 1 SD
+#EXTINF:-1 group-title="NOTÍCIAS",Band News
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 group-title="NOTÍCIAS",Band News 2 HD
+#EXTINF:-1 group-title="NOTÍCIAS",Band News | Link 2 HD
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="NOTÍCIAS",Record News 2 HD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="NOTÍCIAS",Record News | Link 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
 
 #EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="NOTÍCIAS",Jovem Pan News HD
