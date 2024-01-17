@@ -21,14 +21,14 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2382
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="CANAIS ABERTOS",SBT SP
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244166
-
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="CANAIS ABERTOS",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
+
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="CANAIS ABERTOS",Band RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
