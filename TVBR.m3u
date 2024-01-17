@@ -271,7 +271,10 @@ http://64.31.40.14:14056/
 http://51.83.238.223:16763/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RbcyI2c" group-title="FILMES E SERIES",Telecine Touch
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
+http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RbcyI2c" group-title="FILMES E SERIES",Telecine Touch
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/614
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pxat0iT" group-title="FILMES E SERIES",Telecine Fun
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
@@ -428,6 +431,12 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2636
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="VARIEDADES",Animal Planet HD
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel SD
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel HD
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="VARIEDADES",Discovery ID HD
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
@@ -440,12 +449,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="VARIEDADES",Discovery h&h HD
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel SD
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel HD
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="VARIEDADES",Discovery Science HD 
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
