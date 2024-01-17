@@ -2,12 +2,15 @@
 
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2023 | 16-01-2024
+## 🆕 07-05-2023 | 17-01-2024
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://i.imgur.com/fmuRJEf.png" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://i.imgur.com/fmuRJEf.png" group-title="CANAIS ABERTOS",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="CANAIS ABERTOS",Globo SP | Link 2 HD
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",Globo TV TEM
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
@@ -210,8 +213,14 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="INTERNACIONAL",CNN International
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="INTERNACIONAL",Euronews | Rakuten
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="INTERNACIONAL",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/11aNWuU.png" group-title="INTERNACIONAL",Sic TV
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="INTERNACIONAL",CBS NEWS | USA
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
@@ -360,6 +369,27 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/717
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" group-title="FILMES E SERIES",TBS HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/722
 
+#EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="FILMES E SERIES",Runtime Ação HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="FILMES E SERIES",Runtime TV e Filmes HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="FILMES E SERIES",Runtime Comédia HD 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES E SERIES",Runtime Família 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="FILMES E SERIES",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="FILMES E SERIES",Runtime Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES E SERIES",Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",CINE SKY PLAY 1
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18253
 
@@ -441,6 +471,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="VARIEDADES",Multishow HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
 
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="VARIEDADES",Multishow | Link 2 FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
+
 #EXTINF:-1 tvg-id="Bishd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="VARIEDADES",BIS HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
 
@@ -498,9 +531,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 ################################# ANIME E INFANTIL #################################
 ################################# CANAIS 24H #################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Os Simpsons 24h
-http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
-
 #EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="CANAIS 24H",Chaves 24h
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 
@@ -510,19 +540,34 @@ http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="CANAIS 24H",2 homens e meio 24h
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Um Maluco no Pedaço 24h
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Os Simpsons 24h
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",PicaPau 24h
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Os Flistony 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Os Flistony 24h
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Scoobdoo 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Scoobdoo 24h
 http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Popeye 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Popeye 24h
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Caverna do Dragão 24h
 http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="CANAIS 24H",DRAGON BALL Z
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",X-Men Evolution 24h
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="CANAIS 24H",Tom & Jerry 24h
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 
 ################################# CANAIS 24H #################################
