@@ -213,9 +213,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="INTERNACIONAL",CNN International
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="INTERNACIONAL",Euronews | Rakuten
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="INTERNACIONAL",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
@@ -242,9 +239,6 @@ https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",Paramount
 http://187.95.95.247/paramount/index.m3u8
-
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",Paramount Network HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21265
 
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
