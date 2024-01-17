@@ -195,7 +195,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
 #EXTINF:-1 group-title="NOTÍCIAS",Band News
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 group-title="NOTÍCIAS",Band News | Link 2 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/eZnt3Ja" group-title="NOTÍCIAS",Band News | Link 2 HD
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
@@ -204,7 +204,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="NOTÍCIAS",Record News | Link 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
 
-#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="NOTÍCIAS",Jovem Pan News HD
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News" tvg-logo="https://imgur.com/4B90ej8" group-title="NOTÍCIAS",Jovem Pan News HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
 
 ################################# NOTÍCIAS #########################################
