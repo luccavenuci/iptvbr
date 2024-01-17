@@ -42,16 +42,13 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 ################################# CANAIS ABERTOS #################################
 ################################# CANAIS REALITY #################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 Principal
-https://cr7v.short.gy/live/BBB1/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 1
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 | CAM 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 2
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 | CAM 2
 http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 3
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="CANAIS REALITY",BBB 24 | CAM 3
 http://khtro2.com/live/69754975141604/526502448518/493844.ts
 
 ################################# CANAIS REALITY #################################
@@ -78,14 +75,59 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18591
+
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports 01
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports 02
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 03" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports 03
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 04" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports 04
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 05" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports 05
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV | Link 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 2 | Link 2 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118704
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 3 | Link 2 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118706
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN FHD
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN 4K
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN | Link 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN 2 4K
 http://94.130.165.243:14515/
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN 2 | Link 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="ESPORTES",OFF HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
@@ -237,6 +279,9 @@ http://208.115.225.174:14136/
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="FILMES E SERIES",HBO 2 HD
 http://208.115.225.174:14140/
 
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO + HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18765
+
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="FILMES E SERIES",HBO SIGNATURE 
 http://208.115.225.174:14160/
 
@@ -245,6 +290,12 @@ http://208.115.225.174:14144/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QzbWqis.png" group-title="FILMES E SERIES",HBO Xtreme HD
 http://208.115.225.174:14165/
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO MUNDI HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO POP HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18781
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",Warner Channel HD
 http://208.115.225.174:14132/
@@ -387,11 +438,20 @@ http://dns.p2.wtf/live/Marcelo210586/Marcelotv153045/144489.ts
 #EXTINF:-1 tvg-id="Trutv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png" group-title="VARIEDADES",Tru TV HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="CANAIS ABERTOS",VIVA HD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="VARIEDADES",Multishow HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+
+#EXTINF:-1 tvg-id="Bishd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="VARIEDADES",BIS HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="VARIEDADES",VIVA HD
 http://64.31.40.14:14884/
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="VARIEDADES",Multishow HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="VARIEDADES",TNT Novelas HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
 
 ################################# VARIEDADES #######################################
 ################################# ANIME E INFANTIL #################################
@@ -414,8 +474,17 @@ https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="ANIME E INFANTIL",Nick Jr. HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
 
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOB.png" group-title="ANIME E INFANTIL",Gloob 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/380
+
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png" group-title="ANIME E INFANTIL",Gloobinho HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/383
+
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel FHD
 http://51.83.238.223:16274/
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="ANIME E INFANTIL",Discovery Kids HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="ANIME E INFANTIL",Tooncast HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
