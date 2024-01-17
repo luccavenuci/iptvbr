@@ -273,6 +273,9 @@ http://51.83.238.223:16763/
 #EXTINF:-1 tvg-logo="https://imgur.com/RbcyI2c" group-title="FILMES E SERIES",Telecine Touch
 http://45.235.0.78/TELECINETOUCH-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
+
 #EXTINF:-1 tvg-logo="https://imgur.com/pxat0iT" group-title="FILMES E SERIES",Telecine Fun
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 
