@@ -33,6 +33,12 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record TV Conquista
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="NOTÍCIAS",Record News | Link 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
+
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
@@ -90,20 +96,20 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 3
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports HD
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
-
-#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN BRASIL HD
 http://94.130.165.243:14515/
 
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN International
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports HD
-http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN BRASIL
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
@@ -119,11 +125,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 
 #EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
-
-
 
 ################################# ESPORTES #################################
 ################################# NOTÍCIAS #################################
@@ -148,12 +149,6 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://imgur.com/eZnt3Ja" group-title="NOTÍCIAS",Band News | Link 2
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="NOTÍCIAS",Record News | Link 2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
 
 #EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News" tvg-logo="https://imgur.com/4B90ej8" group-title="NOTÍCIAS",Jovem Pan News
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
@@ -517,6 +512,9 @@ http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 
 ################################# CANAIS 24H #################################
 ################################# PREMIERE #################################
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes
 http://208.115.225.174:14460/
