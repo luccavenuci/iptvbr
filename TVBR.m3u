@@ -84,15 +84,6 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
-
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
@@ -107,6 +98,15 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="ESPORTES",OFF HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
