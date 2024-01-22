@@ -6,17 +6,14 @@
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://i.imgur.com/fmuRJEf.png" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",Globo TV TEM
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="Globo" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",Globo TV TEM
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-logo="https://i.imgur.com/fmuRJEf.png" group-title="CANAIS ABERTOS",Globo EPTV
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2382
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
@@ -126,47 +123,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes
-http://208.115.225.174:14460/
-
-#EXTINF:-1 tvg-id="PREMIERE2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 2
-http://208.115.225.174:14464/
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/508
-
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 5
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 6
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
-
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 7
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
-
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 8
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ESPORTES",JOGO 
-https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ESPORTES",JOGO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ESPORTES",JOGO 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ESPORTES",JOGO 4
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ESPORTES",JOGO 5
-https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ESPORTES",JOGO 6
-https://live.seo.tv.bo/live/SEO-5.m3u8
 
 
 ################################# ESPORTES #################################
@@ -190,7 +146,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
 #EXTINF:-1 group-title="NOTÍCIAS",Band News
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eZnt3Ja" group-title="NOTÍCIAS",Band News | Link 2 HD
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://imgur.com/eZnt3Ja" group-title="NOTÍCIAS",Band News | Link 2
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News
@@ -560,3 +516,30 @@ http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?tok
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 
 ################################# CANAIS 24H #################################
+################################# PREMIERE #################################
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere Clubes
+http://208.115.225.174:14460/
+
+#EXTINF:-1 tvg-id="PREMIERE2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 2
+http://208.115.225.174:14464/
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/508
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 6
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 7
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="ESPORTES",Premiere 8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
+
+################################# PREMIERE #################################
