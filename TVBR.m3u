@@ -84,9 +84,6 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-id="Estadio.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="ESPORTES",Estadio TNT Sports
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18591
-
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SporTV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
 
@@ -102,14 +99,11 @@ http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN BRASIL HD
-http://94.130.165.243:14515/
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
-
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN BRASIL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN+
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
