@@ -241,7 +241,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="FILMES E SERIES",TNT Series HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
 
-#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX HD
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX
 http://199.127.60.83:16043/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX HD
@@ -253,10 +253,10 @@ http://64.31.40.14:14031/
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="FILMES E SERIES",SyFy HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/717
 
-#EXTINF:-1 group-title="FILMES E SERIES",Bora Filmes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f39gFw4.png" group-title="FILMES E SERIES",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",ENTRETENDO FILMES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVo3qh4.png" group-title="FILMES E SERIES",ENTRETENDO FILMES
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
 #EXTINF:-1 tvg-id"TVNovaPlay" tvg-logo="https://i.imgur.com/p47TGhe.png" group-title="FILMES E SERIES",TV Nova Play HD
@@ -268,7 +268,7 @@ https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="WebTVCine" tvg-logo="https://i.imgur.com/ThwXXkl.jpeg" group-title="FILMES E SERIES",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="FILMES E SERIES",Moon Plus TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="FILMES E SERIES",Moon Plus TV
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES E SERIES",CineMonde
@@ -439,7 +439,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="ANIME E INFANTIL",Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
-#EXTINF:-1 group-title="ANIME E INFANTIL",Nickelodeon 2 SD
+#EXTINF:-1 group-title="ANIME E INFANTIL",Nickelodeon SD
 https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="ANIME E INFANTIL",Nick Jr. HD
