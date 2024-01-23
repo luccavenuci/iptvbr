@@ -2,7 +2,7 @@
 
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2023 | 22-01-2024
+## 🆕 07-05-2023 | 23-01-2024
 
 ################################# CANAIS ABERTOS #################################
 
@@ -232,7 +232,7 @@ http://208.115.225.174:14128/
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="FILMES E SERIES",Studio Universal
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21276
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
+#EXTINF:-1 tvg-ID="fox.br" tvg-name="STAR CHANNEL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21238
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="FILMES E SERIES",STAR LIFE
@@ -244,7 +244,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX HD
 http://199.127.60.83:16043/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX HD 2
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX HD
 http://64.31.40.14:14043/
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX
@@ -418,22 +418,22 @@ http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="CANAIS CRISTÃOS",Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
-#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://imgur.com/WTR3XH6" group-title="CANAIS CRISTÃOS",Gospel Cartoon
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/WTR3XH6.png" group-title="CANAIS CRISTÃOS",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GospelMovies.br" tvg-logo="https://imgur.com/7Nbnasm" group-title="CANAIS CRISTÃOS",Gospel Movies
+#EXTINF:-1 tvg-id="GospelMovies.br" tvg-logo="https://i.imgur.com/7Nbnasm.png" group-title="CANAIS CRISTÃOS",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 
 ################################# CANAIS CRISTÃOS #################################
 ################################# ANIME E INFANTIL #################################
 
-#EXTINF:-1 tvg-id="CartoonNetworkLive2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="ANIME E INFANTIL",Cartoon Network 2
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkLive.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="ANIME E INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkLive.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="ANIME E INFANTIL",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="ANIME E INFANTIL",CARTOONITO HD
+#EXTINF:-1 tvg-id="CartoonNetworkLive2.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="ANIME E INFANTIL",Cartoon Network HD
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="ANIME E INFANTIL",CARTOONITO HD
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="ANIME E INFANTIL",Nickelodeon HD
