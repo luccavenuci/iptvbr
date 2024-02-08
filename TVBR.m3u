@@ -93,8 +93,14 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN+ HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2 HD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN Extra
+http://181.78.8.90:16123/play/a064
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
+
+#EXTINF:-1 tvg-id="Foxsports3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 3
+http://181.78.8.90:16123/play/ch21
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
