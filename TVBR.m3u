@@ -348,7 +348,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES E SERIES",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 1
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",CINE SKY Play
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18253
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 2
@@ -571,3 +571,24 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
 
 ################################# PREMIERE #################################
+################################# ao vivo | FUTEBOL #################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 1
+https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 3
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
+https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
+https://live.seo.tv.bo/live/SEO-5.m3u8
+
+################################# ao vivo | FUTEBOL #################################
