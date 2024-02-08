@@ -279,7 +279,7 @@ http://208.115.225.174:14128/
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="FILMES E SERIES",Studio Universal
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21276
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="https://mi.tv/br/canais/fox-hd" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21238
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL
