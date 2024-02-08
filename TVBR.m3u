@@ -138,6 +138,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="ESPORTES", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass
+http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass HD
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
+
 ################################# ESPORTES #################################
 ################################# NOTÍCIAS #################################
 
