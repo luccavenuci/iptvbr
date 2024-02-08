@@ -79,7 +79,7 @@ http://khtro2.com/live/69754975141604/526502448518/493844.ts
 ################################# ESPORTES #################################
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports
-http://177.128.113.8:1/play/a07f
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
   
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
@@ -107,6 +107,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 3
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ESPORTES",CazéTV HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="ESPORTES",OFF HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
@@ -159,6 +162,9 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="NOTÍCIAS",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmcHhWRiH_CeAbAj2QCK2-7Xa6YUuAeq2SSNFI2iQiI9ioKpO0CIGf1PdlYQHzoTMeqGa6NqblLMo0Kuz5vuHR5PlTV3YoWMi-e_oSn0M6j8yVjHA3YK9vYaQ-PIRSAtNoOCKL4tSMnbDCgKmcs6DOPMsii21C4waV109iSYMEGf22905TTmejpZmJ/w200-h100/DW.jpg" group-title="NOTÍCIAS",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 
@@ -183,7 +189,10 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT SD
+https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES E SERIES",TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="FILMES E SERIES",TNT
@@ -455,6 +464,9 @@ http://51.83.238.223:16274/
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="ANIME E INFANTIL",Discovery Kids HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="ANIME E INFANTIL",TV RA TIM BUM HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/375
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="ANIME E INFANTIL",Tooncast HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
