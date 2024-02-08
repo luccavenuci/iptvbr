@@ -84,13 +84,13 @@ http://177.128.113.8:1/play/a07f
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
-#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN BRASIL SD
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN BRASIL
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN BRASIL HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN+ HD
+#EXTINF:-1 tvg-id="Espn2brasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN Extra
