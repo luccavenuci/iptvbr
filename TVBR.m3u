@@ -429,7 +429,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="VARIEDADES",VIVA HD
 http://64.31.40.14:14884/
 
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="VARIEDADES",TNT Novelas HD
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="VARIEDADES",TNT Novelas HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
@@ -450,17 +450,23 @@ https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2F9asSD.png" group-title="VARIEDADES",TLC HD
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c157XoV.png" group-title="VARIEDADES",E! HD
+http://dns.p2.wtf/live/Marcelo210586/Marcelotv153045/144489.ts 
+
+#EXTINF:-1 tvg-id="Trutv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png" group-title="VARIEDADES",Tru TV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
+
 #EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="VARIEDADES",Receita Fast HD
 https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="VARIEDADES",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c157XoV.png" group-title="VARIEDADES",E! HD
-http://dns.p2.wtf/live/Marcelo210586/Marcelotv153045/144489.ts 
+#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://imgur.com/qKwrAUT.png" group-title="VARIEDADES",MasterChef
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Trutv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png" group-title="VARIEDADES",Tru TV HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
+#EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="VARIEDADES",SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
 ################################# VARIEDADES #######################################
 ################################# ANIME E INFANTIL #################################
