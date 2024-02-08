@@ -423,17 +423,20 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="VARIEDADES",MULTISHOW HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" group-title="VARIEDADES",TBS HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/722
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="VARIEDADES",GNT HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="VARIEDADES",VIVA HD
 http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="VARIEDADES",TNT Novelas HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" group-title="VARIEDADES",TBS HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/722
 
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="VARIEDADES",ID HD
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
@@ -446,6 +449,12 @@ https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2F9asSD.png" group-title="VARIEDADES",TLC HD
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="VARIEDADES",Receita Fast HD
+https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="VARIEDADES",Food Network HD
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c157XoV.png" group-title="VARIEDADES",E! HD
 http://dns.p2.wtf/live/Marcelo210586/Marcelotv153045/144489.ts 
@@ -571,24 +580,3 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
 
 ################################# PREMIERE #################################
-################################# ao vivo | FUTEBOL #################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 1
-https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
-https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
-https://live.seo.tv.bo/live/SEO-5.m3u8
-
-################################# ao vivo | FUTEBOL #################################
