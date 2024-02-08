@@ -6,10 +6,10 @@
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo SD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo HD
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",TV TEM
@@ -21,13 +21,13 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="CANAIS ABERTOS",SBT
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244166
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV
+#EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
 
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV
@@ -36,7 +36,7 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS",Record News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS",Record News HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV!
@@ -78,11 +78,8 @@ http://khtro2.com/live/69754975141604/526502448518/493844.ts
 ################################# PAY PER VIEW #################################
 ################################# ESPORTES #################################
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
-  
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports HD
+http://177.128.113.8:1/play/a07f
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
@@ -93,7 +90,7 @@ http://51.83.238.223:16515/
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN BRASIL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="ESPORTES",ESPN Extra HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2 HD
@@ -132,13 +129,13 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://imgur.com/eZnt3Ja" group-title="NOTÍCIAS",Band News
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News | Link 2 FHD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News SD
 http://209.222.97.92:16436/
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News | Link 3 HD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/478
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
