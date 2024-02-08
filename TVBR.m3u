@@ -222,6 +222,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
 #EXTINF:-1 group-title="FILMES E SERIES",Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",SPACE HD
+https://cdn-2.nxplay.com.br/SPACE_TK/index.m3u8
+
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FILMES E SERIES",MEGAPIX
 http://64.31.40.14:14048/
 
