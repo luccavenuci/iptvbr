@@ -207,7 +207,7 @@ https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Paramount
 http://187.95.95.247/paramount/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY" group-title="FILMES E SERIES",Sony Movies
+#EXTINF:-1 group-title="FILMES E SERIES",Sony Movies Hd
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
@@ -247,22 +247,22 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO
-http://208.115.225.174:14136/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="FILMES E SERIES",HBO 2
-http://208.115.225.174:14140/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
-http://208.115.225.174:14152/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18765
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="FILMES E SERIES",HBO Signature 
-http://208.115.225.174:14160/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="FILMES E SERIES",HBO Family
-http://208.115.225.174:14144/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QzbWqis.png" group-title="FILMES E SERIES",HBO Xtreme
-http://208.115.225.174:14165/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO MUNDI
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
