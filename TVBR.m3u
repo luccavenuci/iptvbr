@@ -1,8 +1,8 @@
 #EXTM3U
 
-## 📺 TV gratis e legal
+## 📺 TV gratis
 ## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2023 | 23-01-2024
+## 🆕 07-05-2023 | 19-02-2024
 
 ################################# CANAIS ABERTOS #################################
 
@@ -67,19 +67,13 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ################################# PAY PER VIEW #################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 2
 http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 3
-http://khtro2.com/live/69754975141604/526502448518/493844.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 2
+https://cr7v.short.gy/ManoITV/BBB2/Index.m3u8
 
 ################################# PAY PER VIEW #################################
 ################################# ESPORTES #################################
-
-#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title ="ESPORTES",TNT Sports
-http://177.128.113.8:1/play/a07f
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
@@ -87,25 +81,25 @@ http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN Brasil
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN Brasil SD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN Brasil
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2 SD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2 HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3 HD [Alter]
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3 HD
 http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 FHD
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 HD
 http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2
@@ -114,17 +108,26 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
 #EXTINF:-1 tvg-id="Foxsports3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 3
 http://181.78.8.90:16123/play/ch21
 
+#EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="ESPORTES",Sky Sports 
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="ESPORTES",Sky Sports 1
+http://176.10.117.3:5000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="ESPORTES",Sky Sports 3
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73127
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SPORTV HD
+https://cr7v.short.gy/mano/SporTV-HD/Index.m3u8
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 3
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ESPORTES",CazéTV HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="ESPORTES",OFF HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
@@ -137,12 +140,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 
 #EXTINF:-1 group-title="ESPORTES", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass
-http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass HD
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
 
 ################################# ESPORTES #################################
 ################################# NOTÍCIAS #################################
@@ -168,6 +165,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4B90ej8.png" group-title="NOTÍCIAS",Jovem Pan News
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
 
+#EXTINF:-1 tvg-logo="https://imgur.com/63xr9fk.png" group-title="NOTÍCIAS",24h News HD
+http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
+
 #EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NOTÍCIAS",BBC News
 http://livetv.ktv.zone/60/play.m3u8
 
@@ -177,16 +177,19 @@ https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/11aNWuU.png" group-title="NOTÍCIAS",Sic TV
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://imgur.com/11aNWuU.png" group-title="NOTÍCIAS",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="NOTÍCIAS",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews
+#EXTINF:-1 tvg-id="tv5-monde.fr" tvg-logo="https://i.imgur.com/6V5YvdC.png" group-title="NOTÍCIAS",TV5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="euronews.info" tvg-logo="https://imgur.com/iOPJzQq" group-title="NOTÍCIAS",Euronews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmcHhWRiH_CeAbAj2QCK2-7Xa6YUuAeq2SSNFI2iQiI9ioKpO0CIGf1PdlYQHzoTMeqGa6NqblLMo0Kuz5vuHR5PlTV3YoWMi-e_oSn0M6j8yVjHA3YK9vYaQ-PIRSAtNoOCKL4tSMnbDCgKmcs6DOPMsii21C4waV109iSYMEGf22905TTmejpZmJ/w200-h100/DW.jpg" group-title="NOTÍCIAS",DW
+#EXTINF:-1 tvg-logo="https://imgur.com/MDjGnaP" group-title="NOTÍCIAS",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 
 ################################# NOTÍCIAS #########################################
@@ -209,9 +212,6 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT SD
-https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
@@ -279,11 +279,8 @@ http://208.115.225.174:14128/
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="FILMES E SERIES",Studio Universal
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21276
 
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
+#EXTINF:-1 tvg-id="fox.movie" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21238
-
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/101
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="FILMES E SERIES",STAR LIFE
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
