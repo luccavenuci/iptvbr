@@ -156,8 +156,8 @@ http://209.222.97.92:16436/
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/478
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL
-http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL FHD
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
@@ -253,7 +253,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18756
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18764
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="FILMES E SERIES",HBO Signature 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
