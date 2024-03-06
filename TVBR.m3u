@@ -30,6 +30,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",RecordTV SP
 http://51.83.238.223:16141/
 
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTOS",RecordTV SP HD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV Conquista
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
@@ -213,9 +216,6 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",Paramount
-http://187.95.95.247/paramount/index.m3u8
-
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
@@ -225,11 +225,14 @@ https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",TNT HD
+#EXTINF:-1 group-title="FILMES E SERIES",TNT
+https://cr7v.short.gy/manotv/TNT/Index.m3u8
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="FILMES E SERIES",TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="FILMES E SERIES",TNT
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="FILMES E SERIES",TNT Séries HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83269
 
 #EXTINF:-1 group-title="FILMES E SERIES",Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
@@ -244,7 +247,7 @@ http://64.31.40.14:14048/
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fXfUGVs" group-title="FILMES E SERIES",Telecine Action
-http://51.83.238.223:16703/
+http://64.31.40.14:14056/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Np8r7fZ" group-title="FILMES E SERIES",Telecine Pipoca
 http://51.83.238.223:16763/
@@ -253,28 +256,31 @@ http://51.83.238.223:16763/
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pxat0iT" group-title="FILMES E SERIES",Telecine Fun
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9dH0iYT" group-title="FILMES E SERIES",Telecine Cult
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83572
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="FILMES E SERIES",HBO 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83223
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18764
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="FILMES E SERIES",HBO Signature 
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83227
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="FILMES E SERIES",HBO Family
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QzbWqis.png" group-title="FILMES E SERIES",HBO Xtreme
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO MUNDI
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
@@ -285,20 +291,26 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18781
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER HD
 http://208.115.225.174:14132/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",UNIVERSAL
+#EXTINF:-1 group-title="FILMES E SERIES",Paramount
+http://187.95.95.247/paramount/index.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount HD
+http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83274
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
 http://208.115.225.174:14128/
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="FILMES E SERIES",Studio Universal
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21276
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83258
 
 #EXTINF:-1 tvg-id="fox.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",Star Channel
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21238
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83212
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="FILMES E SERIES",Star Life
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
-
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="FILMES E SERIES",TNT Series HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX
 http://199.127.60.83:16043/
@@ -372,33 +384,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES E SERIES",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 1
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18253
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18254
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18255
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18256
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 5
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18257
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 6
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18258
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 7
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18259
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 8
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18260
-
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="FILMES E SERIES",SKY Play 9
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18261
-
 ################################# FILMES E SERIES #################################
 ################################# CULTURA #######################################
 
@@ -427,7 +412,7 @@ https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2636
 
 #EXTINF:-1 tvg-id="Smithsonian.au" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="CULTURA",SMITHSONIAN HD
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="CULTURA",Discovery World HD
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
@@ -442,25 +427,25 @@ http://vp-txpro.com:80/dsuki.junac.glaba.franji.papi.kurac.laslavic.dundus.toni.
 ################################# VARIEDADES #######################################
 
 #EXTINF:-1 tvg-id="Bishd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="VARIEDADES",BIS HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83190
 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="VARIEDADES",MULTISHOW
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83587
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="VARIEDADES",MULTISHOW HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
+http://s.apkwuv.xyz/live/demopadexchange/demopad/83237.ts
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="VARIEDADES",GNT HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83222
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="VARIEDADES",VIVA HD
 http://64.31.40.14:14884/
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="VARIEDADES",TNT Novelas HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxeZ11e.png" group-title="VARIEDADES",Televisa
+https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8?ads.wurl_channel=819&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
+http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" group-title="VARIEDADES",TBS HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/722
@@ -486,26 +471,32 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
 #EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="VARIEDADES",Receita Fast HD
 https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="VARIEDADES",Food Network HD
+#EXTINF:-1 tvg-logo="https://imgur.com/AH3uBDj.png" group-title="VARIEDADES",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://imgur.com/qKwrAUT.png" group-title="VARIEDADES",MasterChef
+#EXTINF:-1 tvg-logo="https://imgur.com/qKwrAUT.png" group-title="VARIEDADES",MasterChef
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="VARIEDADES",SONY ONE SHARK TANK
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
 ################################# VARIEDADES #######################################
 ################################# ANIME E INFANTIL #################################
 
+EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83545
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83204
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel FHD
+http://51.83.238.223:16274/
+
 #EXTINF:-1 tvg-id="CartoonNetworkLive.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="ANIME E INFANTIL",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkLive2.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="ANIME E INFANTIL",Cartoon Network HD
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="ANIME E INFANTIL",CARTOONITO HD
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
+http://s.apkwuv.xyz:80/demopadexchange/demopad/176172
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="ANIME E INFANTIL",Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
@@ -514,22 +505,19 @@ http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="ANIME E INFANTIL",Nick Jr. HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83242
 
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOB.png" group-title="ANIME E INFANTIL",Gloob 
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/380
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83221
 
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png" group-title="ANIME E INFANTIL",Gloobinho HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/383
-
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel FHD
-http://51.83.238.223:16274/
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83666
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="ANIME E INFANTIL",Discovery Kids HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="ANIME E INFANTIL",TV RA TIM BUM HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/375
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83272
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="ANIME E INFANTIL",Tooncast HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
@@ -585,50 +573,49 @@ http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 ################################# CANAIS 24H #################################
 ################################# PREMIERE #################################
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere Clubes
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83601
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 1
-http://208.115.225.174:14460/
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD
+https://cr7v.short.gy/manoiptv/PFCCLUBEHD/Index.m3u8
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 2
-http://208.115.225.174:14464/
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes FHD
+https://cr7v.short.gy/manoiptv/PremiereClube/Index.m3u8
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="PREMIERE",Premiere 2 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83602
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/508
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="PREMIERE",Premiere 2 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/87323
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 5
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83603
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 6
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 HD
+http://185.150.190.225:16468/
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 7
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83604
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="PREMIERE",Premiere 8
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83247
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD
+http://185.150.190.225:16472/
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="PREMIERE",Premiere 5 SD
+http://185.150.190.225:16476/
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="PREMIERE",Premiere 5 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83248
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="PREMIERE",Premiere 6 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83249
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="PREMIERE",Premiere 6 HD [Alter]
+http://185.150.190.225:16482/
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="PREMIERE",Premiere 7 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83250
 
 ################################# PREMIERE #################################
-############################################################################ CANAIS ADULTOS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhtoIRL.png" group-title="Canais | CANAIS ADULTOS",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSdCeei.png" group-title="Canais | CANAIS ADULTOS",Private
-http://146.59.54.163/356/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uN10hOS.png" group-title="Canais | CANAIS ADULTOS",Erox
-http://178.219.128.68:64888/EROXHD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkQhqcM.png" group-title="Canais | CANAIS ADULTOS",Dorcel tv
-http://146.59.54.163/345/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="Canais | CANAIS ADULTOS",Visit-X TV
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tdqn23R.png" group-title="Canais | CANAIS ADULTOS",OLALA EU
-http://streaming.tv-teleport.ru/O-la-la/index.m3u8
