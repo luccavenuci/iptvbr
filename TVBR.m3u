@@ -444,6 +444,9 @@ http://64.31.40.14:14884/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxeZ11e.png" group-title="VARIEDADES",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="VARIEDADES",TNT Novelas
+http://51.79.17.168:14613/
+
 #EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
