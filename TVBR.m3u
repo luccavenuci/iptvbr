@@ -442,7 +442,7 @@ http://s.apkwuv.xyz:80/demopadexchange/demopad/83222
 http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxeZ11e.png" group-title="VARIEDADES",Televisa
-https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8?ads.wurl_channel=819&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="VARIEDADES",MTV HD
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
