@@ -282,6 +282,9 @@ http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
 
+#EXTINF:-1 tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO Comedy
+http://23.237.104.26:8080/HBO_COMEDY/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO MUNDI
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
 
