@@ -219,11 +219,11 @@ http://187.95.95.247/paramount/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
@@ -324,9 +324,6 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="FILMES E SERIES",CinePIX TV
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFm4Bmx.png" group-title="FILMES E SERIES",Web Tv Clássicos do Cinema HD
-https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCTplnu.png" group-title="FILMES E SERIES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 
@@ -339,11 +336,11 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="FILMES E SERIES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="FILMES E SERIES",Moon Plus TV
-https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="moviespherebrazil" tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFm4Bmx.png" group-title="FILMES E SERIES",Web Tv Clássicos do Cinema HD
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="FILMES E SERIES",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -616,3 +613,22 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
 
 ################################# PREMIERE #################################
+############################################################################ CANAIS ADULTOS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhtoIRL.png" group-title="Canais | CANAIS ADULTOS",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSdCeei.png" group-title="Canais | CANAIS ADULTOS",Private
+http://146.59.54.163/356/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uN10hOS.png" group-title="Canais | CANAIS ADULTOS",Erox
+http://178.219.128.68:64888/EROXHD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkQhqcM.png" group-title="Canais | CANAIS ADULTOS",Dorcel tv
+http://146.59.54.163/345/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="Canais | CANAIS ADULTOS",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdqn23R.png" group-title="Canais | CANAIS ADULTOS",OLALA EU
+http://streaming.tv-teleport.ru/O-la-la/index.m3u8
