@@ -2,48 +2,48 @@
 
 ## 📺 TV gratis
 ## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2023 | 19-02-2024
+## 🆕 07-05-2023 | 06-03-2024
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo SP HD
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
-#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",TV TEM
-http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",Globo TV TEM
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT Bem TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="CANAIS ABERTOS",SBT
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244166
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="CANAIS ABERTOS",Band RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
+#EXTINF:-1 tvg-id="RedeRecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",RecordTV SP
+http://51.83.238.223:16141/
 
-#EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV
+#EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",Record TV Conquista
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS",Record News HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV!
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="CANAIS ABERTOS",Futura
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="CANAIS ABERTOS",TV DIARIO
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
@@ -67,10 +67,13 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ################################# PAY PER VIEW #################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 1
-http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
+https://cr7v.short.gy/manoiptv/BBBc1/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 2
-https://cr7v.short.gy/ManoITV/BBB2/Index.m3u8
+https://cr7v.short.gy/manoiptv/BBBc2/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 3
+https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
 
 ################################# PAY PER VIEW #################################
 ################################# ESPORTES #################################
@@ -78,29 +81,35 @@ https://cr7v.short.gy/ManoITV/BBB2/Index.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN Brasil
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil
+http://150.136.62.38:8880/channel/n3ae00fb/index.m3u8?q=1704444391508
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN Brasil
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil HD
+https://cr7v.short.gy/manoiptv/ESPN/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil FHD
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD [Alter]
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83209
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3 HD
-http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83207
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83560
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 HD
-http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83217
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 FHD
+http://51.83.238.223:16575/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPORTES",ESPN 5 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83561
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
@@ -210,6 +219,9 @@ http://187.95.95.247/paramount/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
@@ -312,14 +324,14 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePix" tvg-logo="https://i.imgur.com/bM0dvdy.png" group-title="FILMES E SERIES",CinePIX TV
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WebTVCine" tvg-logo="https://i.imgur.com/ThwXXkl.jpeg" group-title="FILMES E SERIES",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFm4Bmx.png" group-title="FILMES E SERIES",Web Tv Clássicos do Cinema HD
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="FILMES E SERIES",Moon Plus TV
-https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCTplnu.png" group-title="FILMES E SERIES",CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES E SERIES",CineMonde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/spark/app/spark.app_1.png" group-title="FILMES E SERIES",Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="FILMES E SERIES",DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -327,8 +339,20 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="FILMES E SERIES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="FILMES E SERIES",Moon Plus TV
+https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="moviespherebrazil" tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="FILMES E SERIES",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES E SERIES",CineMonde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="FILMES E SERIES",Adrenalina Free Zone
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="FILMES E SERIES",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
