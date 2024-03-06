@@ -1,2 +1,2 @@
 # iptvbr
-Lista de IPTV 2023
+Lista de IPTV 2024
