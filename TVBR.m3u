@@ -189,6 +189,15 @@ http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="NOTÍCIAS",CNN International
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT9yYjr.png" group-title="NOTÍCIAS",FOX 5 NEW YORK
+https://lnc-wnyw.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT9yYjr.png" group-title="NOTÍCIAS",FOX NEWS
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT9yYjr.png" group-title="NOTÍCIAS",FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 
@@ -323,6 +332,9 @@ http://64.31.40.14:14043/
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX
 http://64.31.40.14:14031/
+
+#EXTINF:-1 tvg-id="CINEMAX.US" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX (US)
+http://170.254.18.106/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="FILMES E SERIES",SyFy HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/717
