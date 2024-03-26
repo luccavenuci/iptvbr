@@ -206,6 +206,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 #EXTINF:-1 group-title="FILMES E SERIES",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES E SERIES",A&E HD
+http://199.127.60.83:16002/
+
 #EXTINF:-1 group-title="FILMES E SERIES",AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
