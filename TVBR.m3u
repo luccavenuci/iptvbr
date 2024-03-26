@@ -1,15 +1,11 @@
-#EXTM3U
-
-## 📺 TV gratis
-## 👨🏻‍💻 Editor: Lucca Venuci
-## 🆕 07-05-2023 | 06-03-2024
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo" tvg-logo="https://imgur.com/TFHu5rS" group-title="CANAIS ABERTOS",Globo SP HD
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-logo="https://i.imgur.com/nejMAwn.png" group-title="CANAIS ABERTOS",Globo TV TEM
@@ -67,18 +63,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 
 ################################# CANAIS CRISTÃOS #################################
-################################# PAY PER VIEW #################################
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 1
-https://cr7v.short.gy/manoiptv/BBBc1/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81?Billybob.Billybob.Billybob.Billybob.Billybob!
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="PAY PER VIEW",BBB 24 | CAM 3
-http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1249?Billybob.can.really.sing.and.dance!
-
-################################# PAY PER VIEW #################################
 ################################# ESPORTES #################################
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
@@ -234,6 +218,9 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
+#EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
+http://64.31.40.14:14063/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -273,17 +260,23 @@ http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
 #EXTINF:-1 tvg-logo="https://imgur.com/9dH0iYT" group-title="FILMES E SERIES",Telecine Cult
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83572
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18836.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83223
 
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/42932.m3u8
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18764
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/22683.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83227
@@ -307,7 +300,7 @@ http://208.115.225.174:14132/
 http://187.95.95.247/paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount HD
-http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
+http://64.31.40.14:14058/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83274
@@ -333,7 +326,7 @@ http://64.31.40.14:14043/
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX
 http://64.31.40.14:14031/
 
-#EXTINF:-1 tvg-id="CINEMAX.US" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX (US)
+#EXTINF:-1 tvg-id="CINEMAX.US" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX (US)
 http://170.254.18.106/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="FILMES E SERIES",SyFy HD
@@ -418,7 +411,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="H2.br" tvg-chno"" tvg-logo="https://i.imgur.com/CdwVOUC.png" group-title="CULTURA",H2
-http://187.95.95.247/h2/index.m3u8
+http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="History.br"tvg-logo="https://imgur.com/0rNNqVy.png" group-title="CULTURA",History HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
