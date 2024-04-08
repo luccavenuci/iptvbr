@@ -140,7 +140,7 @@ https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="FILMES E SERIES",Canal Sony HD
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
@@ -188,26 +188,26 @@ http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
 #EXTINF:-1 tvg-logo="https://imgur.com/9dH0iYT" group-title="FILMES E SERIES",Telecine Cult
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83223
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="FILMES E SERIES",HBO 2
+http://195.128.248.216:8080/tim334/as514d5as/22548
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18764
+http://195.128.248.216:8080/tim334/as514d5as/22552
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83227
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="FILMES E SERIES",HBO SIGNATURE HD
+http://195.128.248.216:8080/tim334/as514d5as/22358
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="FILMES E SERIES",HBO Family HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="FILMES E SERIES",HBO Xtreme HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO MUNDI
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
+http://195.128.248.216:8080/tim334/as514d5as/22551
 
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO POP
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18781
@@ -333,7 +333,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="History.br"tvg-logo="https://imgur.com/0rNNqVy.png" group-title="CULTURA",History HD
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+http://195.128.248.216:8080/tim334/as514d5as/22557
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="CULTURA",National Geographic HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2636
@@ -381,7 +381,7 @@ http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/722
 
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="VARIEDADES",Discovery ID
-https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+http://195.128.248.216:8080/tim334/as514d5as/22558
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="VARIEDADES",Discovery Turbo HD
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
