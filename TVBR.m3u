@@ -59,26 +59,20 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://imgur.com/N1u1P0D.png" group-title="CANAIS ABERTOS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Record News" tvg-logo="https://imgur.com/N1u1P0D.png" group-title="CANAIS ABERTOS",Record News HD
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://imgur.com/N1u1P0D.png" group-title="CANAIS ABERTOS",Record News HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 
 #EXTINF:-1 group-title="NOTÍCIAS",Band News
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://imgur.com/eZnt3Ja" group-title="NOTÍCIAS",Band News
-http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News SD
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News
 http://209.222.97.92:16436/
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NOTÍCIAS",Globo News HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/478
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 
-#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL FHD
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil"  tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/472
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4B90ej8.png" group-title="NOTÍCIAS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
@@ -96,12 +90,12 @@ http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
 http://livetv.ktv.zone/60/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="INTERNACIONAL",CNN International
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox News-US" tvg-name="Fox News-US" tvg-logo="https://i.imgur.com/Xi2vt20.png" group-title="INTERNACIONAL",FOX News HD
+#EXTINF:-1 tvg-id="Fox News-US" tvg-name="Fox News-US" tvg-logo="https://imgur.com/NkMmHxh.png" group-title="INTERNACIONAL",FOX News
 https://cvtv.cvalley.net/hls/FoxNewsHD/FoxNewsHD.m3u8
 
-#EXTINF:-1 tvg-id="KDFWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gjIKpMJ.png" group-title="INTERNACIONAL",FOX 4 Dallas
+#EXTINF:-1 tvg-id="KDFWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/KP5r4ld.png" group-title="INTERNACIONAL",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="INTERNACIONAL",RTP 3
