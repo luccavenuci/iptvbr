@@ -20,7 +20,7 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/ZoIjN2J" group-title="CANAIS ABERTOS",Band HD
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://imgur.com/ZoIjN2J" group-title="CANAIS ABERTOS",Band RBA TV
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/ZoIjN2J" group-title="CANAIS ABERTOS",Band RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTOS",RecordTV SP HD
