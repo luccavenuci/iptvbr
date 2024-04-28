@@ -162,26 +162,20 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="FILMES E SERIES",Canal Sony HD
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",Sony Channel
-http://64.31.40.14:14063/
+#EXTINF:-1 group-title="FILMES E SERIES",Sony Movies
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",TNT
-https://cr7v.short.gy/manotv/TNT/Index.m3u8
-
-#EXTINF:-1 group-title="FILMES E SERIES",TNT
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
+http://138.255.0.30:80/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="FILMES E SERIES",TNT HD
-https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="FILMES E SERIES",TNT Séries HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83269
@@ -208,47 +202,28 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/94
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pxat0iT" group-title="FILMES E SERIES",Telecine Fun
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9dH0iYT" group-title="FILMES E SERIES",Telecine Cult
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83572
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 alta definição
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83223
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES", ASSINATURA HBO HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83227
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
-
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="FILMES E SERIES",HBO 2
-http://195.128.248.216:8080/tim334/as514d5as/22548
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/113
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO Plus
 http://195.128.248.216:8080/tim334/as514d5as/22552
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="FILMES E SERIES",HBO SIGNATURE HD
-http://195.128.248.216:8080/tim334/as514d5as/22358
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="FILMES E SERIES",HBO Family HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="FILMES E SERIES",HBO Xtreme HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
+http://150.136.62.38:8880/channel/nd98cd5d/index.m3u8?q=1704444391508
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="FILMES E SERIES",HBO MUNDI
 http://195.128.248.216:8080/tim334/as514d5as/22551
@@ -275,7 +250,7 @@ http://s.apkwuv.xyz:80/demopadexchange/demopad/83274
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/21
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="FILMES E SERIES",Studio Universal
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83258
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
 
 #EXTINF:-1 tvg-id="fox.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83212
