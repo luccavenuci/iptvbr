@@ -179,6 +179,25 @@ http://s.apkwuv.xyz:80/demopadexchange/demopad/83263
 #EXTINF:-1 tvg-logo="https://imgur.com/9dH0iYT" group-title="FILMES E SERIES",Telecine Cult
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83262
 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83572
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 alta definição
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83223
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES", ASSINATURA HBO HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83227
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83224
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83233
+
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83225
 
