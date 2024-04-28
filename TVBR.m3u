@@ -545,17 +545,23 @@ http://176.10.117.3:5000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="ESPORTES",Sky Sports 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73127
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83623
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SPORTV HD
-https://cr7v.short.gy/mano/SporTV-HD/Index.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
+https://cr7v.short.gy/manoiptv/SporTV-HD/Index.m3u8
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83257
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="ESPORTES",SPORTV 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83814
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83255
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83256
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="ESPORTES",OFF HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
