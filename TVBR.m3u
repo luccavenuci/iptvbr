@@ -170,11 +170,17 @@ https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES E SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT SD
+https://cr7v.short.gy/manotv/TNT/Index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD [Alter]
 http://138.255.0.30:80/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="FILMES E SERIES",TNT HD
-https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
 
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="FILMES E SERIES",TNT Séries HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83269
