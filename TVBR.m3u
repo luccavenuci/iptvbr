@@ -237,7 +237,7 @@ http://cdn2.connectbr.com.br:80/Star/tracks-v1a1/mono.m3u8
 http://138.255.1.90:8080/WARNER/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER HD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/89
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31305
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
@@ -545,28 +545,22 @@ http://150.136.62.38:8880/channel/n3ae00fb/index.m3u8?q=1704444391508
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil HD
 https://cr7v.short.gy/manoiptv/ESPN/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil FHD
-http://51.83.238.223:16515/
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD [Alter]
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83209
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3 HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83207
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 SD
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83560
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83217
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 FHD
-http://51.83.238.223:16575/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPORTES",ESPN 5 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPORTES",ESPN 5
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83561
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="ESPORTES",FOX Sports 2
@@ -584,22 +578,16 @@ http://176.10.117.3:5000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="ESPORTES",Sky Sports 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73127
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83623
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV HD
 https://cr7v.short.gy/manoiptv/SporTV-HD/Index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83257
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83814
-
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="ESPORTES",SporTV 2
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83255
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="ESPORTES",SporTV 3
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83256
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="ESPORTES",OFF HD
