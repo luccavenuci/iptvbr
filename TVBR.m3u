@@ -5,13 +5,13 @@
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",Globo RPC TV Maringa
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
-#EXTINF:-1 tvg-id="Globo"  tvg-name="Globo SP" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",Globo SP HD
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",Globo SP HD [Alter]
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",Globo SP HD [Alter]
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",TV TEM
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/TFHu5rS.png" group-title="CANAIS ABERTOS",Globo TV TEM
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="CANAIS ABERTOS",SBT
@@ -35,11 +35,14 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://i.imgur.com/ZoIjN2J.png" group-title="CANAIS ABERTOS",Band RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTOS",RecordTV SP HD
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTOS",Record TV SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="CANAIS ABERTOS",RecordTV TV Conquista
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTOS",Record TV TV Conquista
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTOS",Record TV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/dCjPNVg.jpeg" group-title="CANAIS ABERTOS",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
@@ -235,6 +238,9 @@ http://cdn2.connectbr.com.br:80/Star/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER
 http://138.255.1.90:8080/WARNER/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER [Alter}
+https://watch.vcdn.in/warnerchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER HD
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31305
