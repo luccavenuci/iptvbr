@@ -141,7 +141,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",A&E HD
-http://199.127.60.83:16002/
+https://mycdn.delivery/aee/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
@@ -176,7 +176,7 @@ https://watch.vcdn.in/tnt/index.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",SPACE HD
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",Space HD
 https://watch.vcdn.in/space/index.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FILMES E SERIES",MEGAPIX
@@ -228,10 +228,10 @@ https://watch.vcdn.in/hbomundi/index.m3u8
 https://watch.vcdn.in/hbopop/index.m3u8
 
 #EXTINF:-1 tvg-id="fox.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL
-https://watch.vcdn.in/starchannel/index.m3u8
+http://cdn2.connectbr.com.br:80/Star/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL HD
-http://cdn2.connectbr.com.br:80/Star/tracks-v1a1/mono.m3u8
+https://watch.vcdn.in/starchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",WARNER
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31305
@@ -248,8 +248,8 @@ https://watch.vcdn.in/paramount/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/21
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83274
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/universal/__index.m3u8?mu3zAQc9HC3GbwJq=M7wnOeUYtZ8n1c-SWN7yCQ&3U1G7qaTxrPbalZnEx=1717402309&sv=422
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://i.imgur.com/nTMSyUn.jpg" group-title="FILMES E SERIES",Studio Universal
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31292
@@ -420,7 +420,7 @@ https://watch.vcdn.in/tlc/index.m3u8
 https://watch.vcdn.in/e/index.m3u8
 
 #EXTINF:-1 tvg-id="Trutv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png" group-title="VARIEDADES",Tru TV
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
+https://mycdn.delivery/trutv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="VARIEDADES",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
@@ -434,17 +434,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/
 ################################# VARIEDADES #######################################
 ################################# ANIME E INFANTIL #################################
 
-EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel SD
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31483
-
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel HD
 https://watch.vcdn.in/disneychannel/index.m3u8
-
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="ANIME E INFANTIL",Disney Channel FHD
-http://51.83.238.223:16274/
-
-#EXTINF:-1 tvg-id="CartoonNetworkLive.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="ANIME E INFANTIL",Cartoon Network
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31480
 
 #EXTINF:-1 tvg-id="CartoonNetworkLive2.br" tvg-logo="https://i.imgur.com/Utc0JFe.png" group-title="ANIME E INFANTIL",Cartoon Network HD
 https://watch.vcdn.in/cartoonnetwork/index.m3u8
