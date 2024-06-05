@@ -99,13 +99,13 @@ http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
 ################################# INTERNACIONAL #########################################
 
 #EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NOTÍCIAS",BBC News
-http://livetv.ktv.zone/60/play.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="BBC One" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NOTÍCIAS",BBC One
-http://extraott.com:80/live/7487972181/2633400566/14103.m3u8
+http://live.nettv.pro:80/miralem.vib11/miralem1010/19923
 
 #EXTINF:-1 tvg-id="BBC Two" tvg-logo="https://i.imgur.com/cnlGqcB.png" group-title="NOTÍCIAS",BBC Two
-http://extraott.com:80/live/7487972181/2633400566/14102.m3u8
+http://live.nettv.pro:80/miralem.vib11/miralem1010/19924
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="INTERNACIONAL",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -123,7 +123,10 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="INTERNACIONAL",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS News" tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="INTERNACIONAL",CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
 #EXTINF:-1 tvg-id="tv5-monde.fr" tvg-logo="https://i.imgur.com/6V5YvdC.png" group-title="INTERNACIONAL",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -248,7 +251,7 @@ https://watch.vcdn.in/paramount/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/21
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
 https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4yrrielo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/universal/__index.m3u8?mu3zAQc9HC3GbwJq=M7wnOeUYtZ8n1c-SWN7yCQ&3U1G7qaTxrPbalZnEx=1717402309&sv=422
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://i.imgur.com/nTMSyUn.jpg" group-title="FILMES E SERIES",Studio Universal
@@ -266,7 +269,7 @@ https://watch.vcdn.in/fx/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX
 http://64.31.40.14:14031/
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX HD
 https://watch.vcdn.in/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="" tvg-logo="https://i.imgur.com/OYBQL8G.jpg" group-title="FILMES E SERIES",USA
