@@ -150,7 +150,7 @@ https://mycdn.delivery/aee/index.m3u8
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",AMC HD
-https://watch.vcdn.in/amc/index.m3u8
+https://mycdn.delivery/amc/index.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
@@ -158,10 +158,10 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="FILMES E SERIES",AXN HD
 https://watch.vcdn.in/axn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="FILMES E SERIES",Sony Channel
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="FILMES E SERIES",Sony Channel
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="FILMES E SERIES",Sony Channel HD
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="FILMES E SERIES",Sony Channel HD
 https://watch.vcdn.in/sonychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="FILMES E SERIES",Sony Movies
