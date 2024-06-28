@@ -533,11 +533,14 @@ http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 ################################# CANAIS 24H #################################
 ################################# ESPORTES #################################
 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
+https://brflu.walk-tv.com/5928/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil (HD)
 https://brflu.walk-tv.com/5912/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+https://brflu.walk-tv.com/5910/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3
 https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
@@ -545,14 +548,11 @@ https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="ESPORTES",Band Sports
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 5
+https://brflu.walk-tv.com/5924/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31170
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV HD
-https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV HD
+https://brflu.walk-tv.com/5932/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="ESPORTES",SporTV 2
 https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
