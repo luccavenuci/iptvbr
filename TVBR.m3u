@@ -95,7 +95,7 @@ https://mycdn.delivery/globonews/index.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil"  tvg-logo="https://i.imgur.com/l1ya5bH.png" group-title="NOTÍCIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JP NEWS" tvg-name="Jovem Pan News" tvg-logo="https://i.imgur.com/xV0htSU.png" group-title="NOTÍCIAS",Jovem Pan News
+#EXTINF:-1 tvg-id="JP NEWS" tvg-name="Jovem Pan News" tvg-logo="https://i.imgur.com/xV0htSU.png" group-title="NOTÍCIAS",Jovem Pan NEWS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
 
 ################################# NOTÍCIAS #########################################
@@ -365,7 +365,7 @@ https://mycdn.delivery/history2/index.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="CULTURA",National Geographic (HD)
 https://mycdn.delivery/nationalgeographic/index.m3u8
 
-#EXTINF:-1 tvg-id="Smithsonian.br" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="CULTURA",Smithsonian Channel
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="CULTURA",Smithsonian Channel Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="CULTURA",Discovery World (HD)
@@ -431,7 +431,7 @@ https://mycdn.delivery/e/index.m3u8
 #EXTINF:-1 tvg-id="Canal Brasil" group-title="VARIEDADES",Canal Brasil
 https://mycdn.delivery/canalbrasil/index.m3u8
 
-#EXTINF:-1 tvg-id="PrimeBox.br" tvg-name="Prime Box Brasil" tvg-logo="https://i.imgur.com/CFvvn5K.png" group-title="VARIEDADES",Prime Box
+#EXTINF:-1 tvg-id="PrimeBox.br" tvg-name="Prime Box Brasil" tvg-logo="https://i.imgur.com/CFvvn5K.png" group-title="VARIEDADES",Prime Box Brazil
 http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Trutv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png" group-title="VARIEDADES",Tru TV (HD)
