@@ -656,6 +656,12 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="ESPORTES",SporTV 3
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ESPORTES",CazéTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ESPORTES",CazéTV Mercado Play
+https:\u002F\u002Fdfd7c36b22444b338d40a48628d0ff8f.mediatailor.us-east-1.amazonaws.com\u002Fv1\u002Fmaster\u002F86e0ca1639e63786b645c3182c3728dd0f3f1037\u002Famagi-casetv\u002Fexp=1721064880~id=35805789~hmac=d834c2d354aeb2cf2c24e8c6e5cd59cc\u002F2a4e2b5975d2459aa238f563bb6e6b9e\u002Findex.m3u8
+
 #EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="ESPORTES",Sky Sports 
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
