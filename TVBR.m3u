@@ -33,7 +33,7 @@ https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/529
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV [HD]
-https://mycdn.delivery/record/index.m3u8
+https://abc.embedmax.site/recordSP/video.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV Juara
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -63,7 +63,7 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
 ################################# CANAIS CRISTÃOS #################################
 
 #EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/clSbEnZ.png" group-title="CANAIS CRISTÃOS",TV Evangelizar
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
 #EXTINF:-1 tvg-id="Fonte TV" tvg-name="Fonte TV" tvg-logo="https://i.imgur.com/52I4wxd.png" group-title="CANAIS CRISTÃOS",Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
@@ -135,28 +135,28 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 ################################# FILMES E SERIES PREMIUM #################################
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="FILMES E SERIES PREMIUM",A&E
-https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="FILMES E SERIES PREMIUM",A&E [HD]
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+https://abc.embedmax.site/ae/video.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AMC
-http://148.113.160.49:14008/
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AMC [HD]
 https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AXN
-https://cdn-3.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AMC [HD]
+https://abc.embedmax.site/amc/video.m3u8
 
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AXN
+https://cdn-3.nxplay.com.br/AXN/index.m3u8
+ 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AXN [HD]
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
+https://abc.embedmax.site/axn/video.m3u8
 
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Sony Channel
 https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Sony Channel [HD]
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
+https://abc.embedmax.site/sonychannel/video.m3u8
 
 #EXTINF:-1 tvg-id="Sony Movies" tvg-name="Sony Movies" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Sony Movies
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
@@ -165,22 +165,22 @@ https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="" group-title="FILMES E SERIES PREMIUM",TNT
-https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+https://cdn-3.nxplay.com.br/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="" group-title="FILMES E SERIES PREMIUM",TNT [HD]
-https://anonmedia.eu/tnt/index.m3u8
+https://abc.embedmax.site/tnt/video.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Space
-https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
+https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Space [HD]
-https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
+https://abc.embedmax.site/space/video.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Megapix
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/271
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Megapix [HD]
-https://anonmedia.eu/megapix/index.m3u8
+https://abc.embedmax.site/megapix/video.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Telecine Premium
 http://fzcdn.vood.top:80/hls/633_.m3u8
@@ -237,52 +237,52 @@ https://embedflix.info/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8
 https://abc.embedmax.site/hboplus/video.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Signature
-https://abc.embedmax.site/hbosignature/video.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/262
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Signature [HD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/262
+https://abc.embedmax.site/hbosignature/video.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Family
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/253
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Family [HD]
-https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbofamily/video.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Xtreme
-https://abc.embedmax.site/hboxtreme/video.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/267
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Xtreme [HD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/267
+https://abc.embedmax.site/hboxtreme/video.m3u8
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Mundi
 https://embedflix.info/p2p/hbomundi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjQgMzozNzozNCBQTSZoYXNoX3ZhbHVlPTduanFFSjFDUFdNckhqQm5aUWxIVmc9PSZ2YWxpZG1pbnV0ZXM9MTYw
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Mundi [HD]
-https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mpo1tpa2sw7yeq4ynrjelo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/hbomundi/__index.m3u8?mu3zAQc9HC3GbwJq=uprFEMrlFwkyT7pRYFIjxQ&3U1G7qaTxrPbalZnEx=1722728245&sv=421
+https://abc.embedmax.site/hbomundi/video.m3u8
 
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Pop
 https://embedflix.info/p2p/hbopop/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjQgMzozODo0NiBQTSZoYXNoX3ZhbHVlPXNmVklPUFlkQmx5VlB1N0QxZGRSamc9PSZ2YWxpZG1pbnV0ZXM9MTYw
 
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="" group-title="FILMES E SERIES PREMIUM",HBO Pop [HD]
-https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mpo1tpa2sw7yeq4ynrjelo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/hbopop/__index.m3u8?mu3zAQc9HC3GbwJq=SrrN8bNzZ-p-2PAFJEoxJw&3U1G7qaTxrPbalZnEx=1722728348&sv=421
+https://abc.embedmax.site/hbopop/video.m3u8
 
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Star Channel
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/282
 
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="" group-title="FILMES E SERIES PREMIUM",Star Channel [HD]
-https://abc.embedmax.site/starchannel/tracks-v1/mono.m3u8
+https://abc.embedmax.site/starchannel/video.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES PREMIUM",Warner Channel
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
+https://cdn-3.nxplay.com.br/WARNER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES PREMIUM",Warner Channel [HD]
-https://abc.embedmax.site/warnerchannel/tracks-v1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES PREMIUM",Paramount Network
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES PREMIUM",Paramount Network [HD]
-https://abc.embedmax.site/paramountnetwork/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/paramountnetwork/video.m3u8
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES PREMIUM",Universal Channel
 http://dzcdn.vood.top:80/hls/742_.m3u8
@@ -300,22 +300,19 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/289
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/244
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES PREMIUM",FX [HD]
-https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/fx/video.m3u8
 
 #EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy" tvg-logo="" group-title="FILMES E SERIES PREMIUM",SYFY
-https://brflu.walk-tv.com/5835/index.m3u8
+https://abc.embedmax.site/syfy/video.m3u8
 
 #EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://i.imgur.com/OYBQL8G.jpg" group-title="FILMES E SERIES PREMIUM",USA Network
 https://anonmedia.eu/usa/index.m3u8
-
-#EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://i.imgur.com/OYBQL8G.jpg" group-title="FILMES E SERIES PREMIUM",USA Network [HD]
-https://anonmedia.eu/usa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES PREMIUM",Cinemax
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/240
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES PREMIUM",Cinemax [HD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/239
+https://abc.embedmax.site/cinemax/video.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="FILMES E SERIES PREMIUM",Lifetime
 https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
@@ -324,7 +321,7 @@ https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 https://cdn-4.nxplay.com.br/LIFE_TIME_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cine Canal" group-title="FILMES E SERIES PREMIUM",Cinecanal
-https://abc.embedmax.site/cinecanal/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/cinecanal/video.m3u8
 
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="FILMES E SERIES PREMIUM",TNT Séries
 https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
@@ -408,7 +405,7 @@ https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2" tvg-logo="https://i.imgur.com/CdwVOUC.png" group-title="CULTURA",History 2
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
+https://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2" tvg-logo="https://i.imgur.com/CdwVOUC.png" group-title="CULTURA",History 2 [HD]
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
@@ -585,7 +582,7 @@ http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/121
 
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN Brasil
-http://cdnexpress.homelinux.net/live/67.m3u8
+https://cdn-3.nxplay.com.br/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2
 https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
