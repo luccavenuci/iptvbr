@@ -344,6 +344,9 @@ https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="FILMES E SERIES",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SERIES",TV Osorio
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Spark TV" tvg-logo="https://i.imgur.com/5jwmGK9.png" group-title="FILMES E SERIES",Spark TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 
