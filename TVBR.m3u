@@ -2,17 +2,20 @@
 
 ################################# CANAIS ABERTOS #################################
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo RPC TV Maringa
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo SP [SD]
-https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo TV Tem
-http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo SP [HD]
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo TV Tem SP
+http://cdn-5.nxplay.com.br/TV_TEM_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo MS [HD]
+http://15.235.15.230:14504/
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/naQQQId.png" group-title="CANAIS ABERTOS",Globo BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/SlPcoGY.png" group-title="CANAIS ABERTOS",SBT
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
@@ -26,17 +29,17 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/SlPcoGY.png" group-title="CANAIS ABERTOS",SBT Interior SP [HD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV SP
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV SP [SD]
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV SP [HD]
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV DF
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV Conquista
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS ABERTOS",Record TV Juara
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -99,7 +102,7 @@ https://mycdn.delivery/globonews/index.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="Jovem Pan News" tvg-logo="https://i.imgur.com/xV0htSU.png" group-title="NOTÍCIAS",Jovem Pan NEWS
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
+https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
 
 ################################# NOTÍCIAS #########################################
 ################################# INTERNACIONAL #########################################
@@ -143,11 +146,23 @@ https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="FILMES E SERIES PREMIUM",A&E [HD]
 https://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AMC
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD H265²" tvg-logo="https://img.ip2.digital/amc.png" group-title="FILMES E SERIES PREMIUM",AMC FHD H265²
+http://brqnt.pro:2082/5211959418/8869249333/38775
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AMC [HD]
-https://abc.embedmax.site/amc/video.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AMC FHD H265¹" tvg-logo="https://img.ip2.digital/amc.png" group-title="FILMES E SERIES PREMIUM",AMC FHD H265¹
+http://brqnt.pro:2082/5211959418/8869249333/18108
+
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD²" tvg-logo="https://img.ip2.digital/amc.png" group-title="FILMES E SERIES PREMIUM",AMC HD²
+http://brqnt.pro:2082/5211959418/8869249333/34916
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AMC HD¹" tvg-logo="https://img.ip2.digital/amc.png" group-title="FILMES E SERIES PREMIUMS",AMC HD¹
+http://brqnt.pro:2082/5211959418/8869249333/18205
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AMC SD²" tvg-logo="https://img.ip2.digital/amc.png" group-title="FILMES E SERIES PREMIUM",AMC SD²
+http://brqnt.pro:2082/5211959418/8869249333/35231
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AMC SD¹" tvg-logo="https://img.ip2.digital/amc.png" group-title="FILMES E SERIES PREMIUM",AMC SD¹
+http://brqnt.pro:2082/5211959418/8869249333/17879
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="FILMES E SERIES PREMIUM",AXN
 https://cdn-3.nxplay.com.br/AXN/index.m3u8
@@ -330,60 +345,192 @@ https://abc.embedmax.site/cinecanal/video.m3u8
 https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
 ################################# FILMES E SERIES PREMIUM #################################
-################################# FILMES E SERIES #################################
+################################# FILMES E SERIES GRÁTIS #################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2t7HxbK.png" group-title="FILMES E SERIES",Bora Filmes
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2t7HxbK.png" group-title="FILMES E SERIES GRÁTIS",Bora Filmes
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tQtmEOo.png" group-title="FILMES E SERIES",Entretendo Filmes
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tQtmEOo.png" group-title="FILMES E SERIES GRÁTIS",Entretendo Filmes
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M66M8X4.png" group-title="FILMES E SERIES",CHANNEL 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M66M8X4.png" group-title="FILMES E SERIES GRÁTIS",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="FILMES E SERIES",TV Aracati
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="FILMES E SERIES GRÁTIS",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SERIES",TV Osorio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SERIES GRÁTIS",TV Osorio
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Spark TV" tvg-logo="https://i.imgur.com/5jwmGK9.png" group-title="FILMES E SERIES",Spark TV
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/zXszB4R.png" group-title="FILMES E SERIES",DarkFlix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vila TV" tvg-logo="https://i.imgur.com/lFD9lMf.png" group-title="FILMES E SERIES",Vila TV
+#EXTINF:-1 tvg-id="Vila TV" tvg-logo="https://i.imgur.com/lFD9lMf.png" group-title="FILMES E SERIES GRÁTIS",Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w148848447.m3u8
 
-#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://i.imgur.com/AShLQpl.png" group-title="FILMES E SERIES",MyTime Movie Network
+#EXTINF:-1 tvg-id="Spark TV" tvg-logo="https://i.imgur.com/5jwmGK9.png" group-title="FILMES E SERIES GRÁTIS",Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://i.imgur.com/AShLQpl.png" group-title="FILMES E SERIES GRÁTIS",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="moviespherebrazil" tvg-logo="https://i.imgur.com/lTinUyh.png" group-title="FILMES E SERIES",Moviesphere Brazil
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="moviespherebrazil" tvg-logo="https://i.imgur.com/lTinUyh.png" group-title="FILMES E SERIES GRÁTIS",Moviesphere Brazil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES E SERIES",Cine Brasil
-https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/chunklist_w670523199.m3u8
+#EXTINF:-1 tvg-id="moviespherebrazil" tvg-logo="https://i.imgur.com/lTinUyh.png" group-title="FILMES E SERIES GRÁTIS",Moviesphere Brazil [HD]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrgA0Ib.png" group-title="FILMES E SERIES",Web Tv Clássicos do Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrgA0Ib.png" group-title="FILMES E SERIES GRÁTIS",Web Tv Clássicos do Cinema
 https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://i.imgur.com/rXAMm4B.png" group-title="FILMES E SERIES",Classique TV
+#EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://i.imgur.com/rXAMm4B.png" group-title="FILMES E SERIES GRÁTIS",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 29" tvg-logo="https://i.imgur.com/Ja7J7Hh.png" group-title="FILMES E SERIES",Canal 29
+#EXTINF:-1 tvg-id="Canal 29" tvg-logo="https://i.imgur.com/Ja7J7Hh.png" group-title="FILMES E SERIES GRÁTIS",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/WWzcEey.png" group-title="FILMES E SERIES",CineMonde
+#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/WWzcEey.png" group-title="FILMES E SERIES GRÁTIS",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony One Emoções" tvg-logo="https://i.imgur.com/8QmFtZr.png" group-title="FILMES E SERIES",Sony One Emoções
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/zXszB4R.png" group-title="FILMES E SERIES GRÁTIS",DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony One Emoções" tvg-logo="https://i.imgur.com/8QmFtZr.png" group-title="FILMES E SERIES GRÁTIS",Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony One Classics" tvg-logo="https://i.imgur.com/PIyQTES.png" group-title="FILMES E SERIES",Sony One Classics
+#EXTINF:-1 tvg-id="Sony One Classics" tvg-logo="https://i.imgur.com/PIyQTES.png" group-title="FILMES E SERIES GRÁTIS",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-################################# FILMES E SERIES #################################
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Adrenalina Freezone | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Adrenalina Freezone | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Adrenalina Freezone | Pluto TV Brasil ~ link 3
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Clássicos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Clássicos | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Comédia | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Comédia | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Comédia Romântica | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Comédia Romântica | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Crime | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Crime | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Drama | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Drama | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Família | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Família | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Inspiração | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Inspiração | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Romance | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Romance | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Sucessos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Sucessos | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Terror | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Cine Terror | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Ficção Científica | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Ficção Científica | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmelier | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmelier | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmes Ação | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmes Ação | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmes Nacionais | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmes Nacionais | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmes Suspense | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",Filmes Suspense | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime Ação | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime Ação | Brasil ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime CinEspanto | Suspense e Terror | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime Família | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES E SERIES GRÁTIS",RunTime Romance | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",RunTime TV e Filmes | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="FILMES E SERIES GRÁTIS",RunTime TV e Filmes | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES E SERIES GRÁTIS",Soul Cine Clube | Brasil 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+################################# FILMES E SERIES GRÁTIS #################################
 ################################# CULTURA #######################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="CULTURA",Animal Planet
@@ -639,3 +786,347 @@ http://148.113.160.49:14124/
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/123
 
 ################################# ESPORTES #################################
+################################# ON-DEMAND #################################
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Rebel Ridge
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11301886.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Assassino por Acaso
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt20215968.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Os Novatos
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt21284218.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Liga
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12610390.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Missão Suicida
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt21301418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Deadpool & Wolverine
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6263850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Não Tem Volta
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt29639785.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",DivertidaMente 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt22022452.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",DivertidaMente
+https://msrvplay.top/get.php?username=gdf97214&password=2536897214&type=m3u_plus
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Amigos Sem Compromisso
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt28669770.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Semente do Mal
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt26594993.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Pra Lá de Bagdá 
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0120693.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Pra Lá de Bagdá 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12631486.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Morando com o Crush
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt23456602.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Medidas Extremas
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12330400.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Zoolander
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0196229.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Velozes & Furiosos 10
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt5433140.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Meu Vizinho Mafioso
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0190138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Homem nas Trevas
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Homem nas Trevas 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Free Guy: Assumindo o Controle
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6264654.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Destino de Júpiter
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt1617661.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Goyo
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt32598483.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",MR-9: Missão Mortal
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt9044418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Ataque dos Tubarões
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt21816892.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Treinado Para Matar
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt15029508.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Nikita: Criada para Matar
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0100263.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Garfield Fora d Casa
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt5779228.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Um Tira da Pesada 4: Axel Foley
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt3083016.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Exorcismo
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11240348LEG.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Caçada Fantasma
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt25730490.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Demônio Entre Nós
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt19895130.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Feliz Aniversário Para Mim
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0082498.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Até a Morte: Sobreviver é a Melhor Vingança
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11804152.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Hot Wheels AcceleRacers: Ignição
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt2054778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Hot Wheels AcceleRacers: A Velocidade Do Silêncio
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0836633.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Hot Wheels AcceleRacers: Ponto De Ruptura
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0870671.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Hot Wheels AcceleRacers: A Corrida Final
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0865293.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Um Gato de Sorte
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt7959138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Bad Boys: Até o Fim
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt4919268.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Swingers – Troca de Casais
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10297320.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Relacionamento Aberto
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13868030.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Em Busca do Barco Perdido
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13243448.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Vidas Importam
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8171000.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Valorize ou Morra
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15790974.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Fugindo da Morte
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13852690.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Tentação 
+http://shd1.doramasapp.xyz/sfgerg54yrt/SHD1/76479/4x2.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Mulher nota 1000
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0090305.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",As Vantagens de Ser Invisível
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt1659337.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Homem nas Trevas
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Homem nas Trevas 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Bob Marley: One Love
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Arte d Amar
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28355490.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Assassinato de Elite 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt27028399.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Madame Teia
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Lenda do Cavaleiro Sem Cabeça
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0051850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Retorno dos Thundermans
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt26943420.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Ricky Stanicky
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1660648.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Donzela 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13452446.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Recepcionista
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Xaque Mate
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt30850554.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Guerra do Hambúrguer 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119215.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Guerra do Hambúrguer 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt25289836.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Beekeeper Rede d Vingança 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15314262.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Vale do amor
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13496136.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Belo desastre
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Marcas da Vida
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt20864704.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Leve-me
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6598626.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", 2022 Através da minha Janela
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14463484.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",2023  Através da minha Janela 2: Além do Mar
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21245882.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",2024Através da minha Janela 3: Olho nos olhos 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28105944.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",40 dias e 40 noites
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0243736.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Cherry 2000
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0092746.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Acampamento do pecado
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt8949056.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Ligados pelo Amor
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt2205697.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Volta pra Mim
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6462958.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Os Reis de Dogtown
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0355702.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Paixão Sem Limites 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0106627.mp4
+Belo desastre
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Separados pelo Casamento 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0452594.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Fazendo meu Filme
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15386618.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Mamonas Assassinas O Filme
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29713426.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O Leitor
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Em Ruínas 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Um Verão só para Nós 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Meu Cunhado é um Vampiro 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Última Esperança Soviética 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Rúcula com Tomate Sefo
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Desencaixados
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",É Pura Sorte
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Fale Comigo
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Álibi.com
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Ritual Maldito 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Jogos Mortais 10
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Perfeita Pra Você
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Feriado Sangrento 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Vingadores Ultimato
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Últimos Sobreviventes 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",O matador d aluguel 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Despedida d Solteira 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Os Mercenários 4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Desculpa Mais vou te Matar 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",A Cor da Vingança 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Tudo Sob Descontrole 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Perseguição em Malta
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Tática de Amor 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Tática de Amor 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Os Gatões Uma Nova Balada 
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Os Gatões 2 O Início 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND", Gênio Indomável
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Malibu Crush
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Diário de uma adolescente 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="ON-DEMAND",Diário de um adolescente 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
+
+################################# ON-DEMAND #################################
