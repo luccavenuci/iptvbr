@@ -67,27 +67,20 @@ http://brqnt.pro:2082/5211959418/8869249333/43283
 http://brqnt.pro:2082/5211959418/8869249333/86353
 #EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CAMARA SD" tvg-logo="https://img.ip2.digital/tvcamara.png" group-title="CANAIS | ABERTOS",TV CAMARA SD
 http://brqnt.pro:2082/5211959418/8869249333/18003
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA FHD
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [FHD]
 http://brqnt.pro:2082/5211959418/8869249333/38757
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD¹" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA SD¹
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [SD]
 http://brqnt.pro:2082/5211959418/8869249333/18005
-#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO FHD" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO FHD
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO [FHD]
 http://brqnt.pro:2082/5211959418/8869249333/46004
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO SD" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO SD
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO [SD]
 http://brqnt.pro:2082/5211959418/8869249333/366951
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA HD" tvg-logo="https://img.ip2.digital/escola.png" group-title="CANAIS | ABERTOS",TV ESCOLA HD
-#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA HD" tvg-logo="https://img.ip2.digital/justica.png" group-title="CANAIS | ABERTOS",TV JUSTIÇA HD
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA" tvg-logo="https://img.ip2.digital/justica.png" group-title="CANAIS | ABERTOS",TV JUSTIÇA [HD]
 http://brqnt.pro:2082/5211959418/8869249333/177265
-#EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD²" tvg-logo="https://img.ip2.digital/senado.png" group-title="CANAIS | ABERTOS",TV SENADO HD²
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="https://img.ip2.digital/senado.png" group-title="CANAIS | ABERTOS",TV SENADO [HD]
 http://brqnt.pro:2082/5211959418/8869249333/177262
-#EXTINF:-1 tvg-id="" tvg-name="TV SENADO SD¹" tvg-logo="https://img.ip2.digital/senado.png" group-title="CANAIS | ABERTOS",TV SENADO SD¹
-http://brqnt.pro:2082/5211959418/8869249333/177261
-#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia SD¹" tvg-logo="https://img.ip2.digital/TVE.png" group-title="CANAIS | ABERTOS",TVE Bahia SD¹
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="https://img.ip2.digital/TVE.png" group-title="CANAIS | ABERTOS",TVE Bahia [SD]
 http://brqnt.pro:2082/5211959418/8869249333/200125
-#EXTINF:-1 tvg-id="" tvg-name="VIVA 70 HD" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | ABERTOS",VIVA 70 HD
-http://brqnt.pro:2082/5211959418/8869249333/573610
-#EXTINF:-1 tvg-id="" tvg-name="VIVA 80 HD" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | ABERTOS",VIVA 80 HD
-http://brqnt.pro:2082/5211959418/8869249333/573611
 ######################### CANAIS | ABERTOS ######################################
 ######################### CANAIS | GLOBO ######################################
 #EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS [FHD]
@@ -103,17 +96,19 @@ http://brqnt.pro:2082/5211959418/8869249333/173920
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ [SD]
 http://brqnt.pro:2082/5211959418/8869249333/173917
 #EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA [FHD]
-http://brqnt.pro:2082/5211959418/8869249333/174030
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/12
 #EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA [HD]
-http://brqnt.pro:2082/5211959418/8869249333/174028
+http://15.235.15.230:14487/
 #EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA [SD]
-http://brqnt.pro:2082/5211959418/8869249333/174027
+http://xciptv.aplicativos.top:80/257193/257193/360914
 #EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO SP FHD" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO SP [FHD]
 http://brqnt.pro:2082/5211959418/8869249333/174011
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO SP [HD]
 http://brqnt.pro:2082/5211959418/8869249333/174008
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP SD²" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO SP [SD]
 http://brqnt.pro:2082/5211959418/8869249333/174006
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/2433
 #EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES [HD]
 http://brqnt.pro:2082/5211959418/8869249333/174033
 #EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES [SD]
