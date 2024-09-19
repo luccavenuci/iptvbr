@@ -349,7 +349,7 @@ http://brqnt.pro:2082/5211959418/8869249333/34915
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35061
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [FHD]
-http://brqnt.pro:2082/5211959418/8869249333/38775
+http://xciptv.aplicativos.top:80/257193/257193/284602
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34916
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [SD]
@@ -360,90 +360,48 @@ http://brqnt.pro:2082/5211959418/8869249333/34715
 http://brqnt.pro:2082/5211959418/8869249333/34439
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [SD]
 http://brqnt.pro:2082/5211959418/8869249333/38776
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD H265²" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34659
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD H265¹" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18116
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD²" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD²
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/701
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34995
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD¹" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18210
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD²" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD²
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35282
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD¹" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17891
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD H265²" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34712
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD H265¹" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18118
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD²
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/21231
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34931
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18212
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD²
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35238
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD¹" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17894
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD H265²" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34479
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD H265¹" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18143
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD²" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX HD²
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/21243
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34956
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="FX HD¹" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18237
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD²" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX SD²
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35100
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD¹" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17920
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD H265²" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34676
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD H265¹" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18160
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD²
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/692
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34973
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18254
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD²
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35117
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17942
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD H265²" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34668
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD H265¹" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18169
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD²" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT HD²
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/21265
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34981
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD¹" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18263
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD²" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT SD²
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35126
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD¹" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17954
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD H265²" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34658
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD H265¹" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18179
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD²" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD²
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/21272
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34523
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD¹" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18273
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD²
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35141
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD¹" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17979
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD H265²" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD H265²
-http://brqnt.pro:2082/5211959418/8869249333/34698
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD H265¹" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD H265¹
-http://brqnt.pro:2082/5211959418/8869249333/18138
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL HD²
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [FHD]
+http://xciptv.aplicativos.top:80/257193/257193/598
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34475
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD¹" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL HD¹
-http://brqnt.pro:2082/5211959418/8869249333/18231
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD²" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL SD²
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [SD]
 http://brqnt.pro:2082/5211959418/8869249333/38778
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD¹" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL SD¹
-http://brqnt.pro:2082/5211959418/8869249333/17915
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265²" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD H265²
 http://brqnt.pro:2082/5211959418/8869249333/34654
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265¹" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD H265¹
