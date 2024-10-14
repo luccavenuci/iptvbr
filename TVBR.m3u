@@ -16,17 +16,17 @@ http://xciptv.aplicativos.top:80/257193/257193/360914
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [FHD]
 http://brqnt.pro:2082/5211959418/8869249333/174011
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [HD]
-http://brqnt.pro:2082/5211959418/8869249333/174008
+https://stream1.freetv.fun/globo-sp-2.ctv
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [SD]
-http://brqnt.pro:2082/5211959418/8869249333/174006
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-5.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD [FHD]
-http://brqnt.pro:2082/5211959418/8869249333/43123
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD [HD]
-http://brqnt.pro:2082/5211959418/8869249333/34991
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD [SD]
-http://brqnt.pro:2082/5211959418/8869249333/17970
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [FHD]
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [HD]
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [SD]
+http://cdn.upcinetv.me:80/play/azGmZA_eVK7YaV5kcVGUNoCgcIvyb2zhgmwcXGAOWbU
 #EXTINF:-1 tvg-id="record.br" tvg-name="TV CONQUISTA" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS | ABERTOS",RECORD TV CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="TV CIDADE" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV CIDADE CE [FHD]
@@ -41,12 +41,12 @@ http://brqnt.pro:2082/5211959418/8869249333/379732
 http://brqnt.pro:2082/5211959418/8869249333/379692
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="BEM TV" tvg-logo="https://i.imgur.com/SlPcoGY.png" group-title="CANAIS | ABERTOS",SBT BEM TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND [FHD]
-http://brqnt.pro:2082/5211959418/8869249333/34441
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND [HD]
-http://brqnt.pro:2082/5211959418/8869249333/43136
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND [SD]
-http://brqnt.pro:2082/5211959418/8869249333/175420
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND SP [FHD]
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND SP [HD]
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND SP [SD]
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="TV ARAPUAN" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND TV ARAPUAN [HD]
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="TV ARAPUAN" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND TV ARAPUAN [SD]
@@ -244,9 +244,9 @@ http://xciptv.aplicativos.top:80/257193/257193/665
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35061
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/284602
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [HD]
-http://brqnt.pro:2082/5211959418/8869249333/34916
+https://cdn-2.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35231
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [FHD]
@@ -292,9 +292,9 @@ http://brqnt.pro:2082/5211959418/8869249333/34523
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35141
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/598
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [HD]
-http://brqnt.pro:2082/5211959418/8869249333/34475
+http://cdn.upcinetv.me:80/play/Itf8amitSmj4q3xKk2NgfN-u0hMuNZ76ira57MmKYfs
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [SD]
 http://brqnt.pro:2082/5211959418/8869249333/38778
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [FHD]
@@ -374,13 +374,13 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [FHD]
 http://xciptv.aplicativos.top:80/257193/257193/284597
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [HD]
-http://brqnt.pro:2082/5211959418/8869249333/35008
+http://cdn.upcinetv.me:80/play/Itf8amitSmj4q3xKk2NgfOPWXBxtsT6KF1T20Zpw7IQ
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [SD]
 http://brqnt.pro:2082/5211959418/8869249333/17991
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/284597
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [HD]
-http://brqnt.pro:2082/5211959418/8869249333/34502
+http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/799
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35148
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [FHD]
