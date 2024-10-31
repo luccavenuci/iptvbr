@@ -286,11 +286,11 @@ http://brqnt.pro:2082/5211959418/8869249333/34981
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35126
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/21272
+https://stream1.freetv.fun/space-3.ctv
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [HD]
-http://brqnt.pro:2082/5211959418/8869249333/34523
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
-http://brqnt.pro:2082/5211959418/8869249333/35141
+https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [FHD]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [HD]
@@ -310,11 +310,11 @@ http://brqnt.pro:2082/5211959418/8869249333/35003
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35218
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/733
+https://stream1.freetv.fun/tnt-2.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [HD]
-http://brqnt.pro:2082/5211959418/8869249333/35011
+https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [SD]
-http://brqnt.pro:2082/5211959418/8869249333/17995
+http://dzcdn.vood.top:80/hls/733_.m3u8
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [FHD]
 http://brqnt.pro:2082/5211959418/8869249333/38752
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [HD]
@@ -322,11 +322,11 @@ http://brqnt.pro:2082/5211959418/8869249333/35002
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35217
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/21286
+https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [HD]
-http://brqnt.pro:2082/5211959418/8869249333/35012
+https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [SD]
-http://brqnt.pro:2082/5211959418/8869249333/35156
+https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="trutv" tvg-name="TRUTV" tvg-logo="https://img.ip2.digital/trutv.png" group-title="CANAIS | FILMES E SÉRIES",TRUTV [HD]
 http://brqnt.pro:2082/5211959418/8869249333/38754
 #EXTINF:-1 tvg-id="trutv" tvg-name="TRUTV" tvg-logo="https://img.ip2.digital/trutv.png" group-title="CANAIS | FILMES E SÉRIES",TRUTV [SD]
@@ -344,7 +344,7 @@ http://brqnt.pro:2082/5211959418/8869249333/35001
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [SD]
 http://brqnt.pro:2082/5211959418/8869249333/35146
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [FHD]
-http://xciptv.aplicativos.top:80/257193/257193/21291
+https://stream1.freetv.fun/warner-channel-3.ctv
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [HD]
 http://brqnt.pro:2082/5211959418/8869249333/34538
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [SD]
