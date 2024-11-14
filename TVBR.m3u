@@ -97,12 +97,8 @@ https://stream1.freetv.fun/3dccd2947d2186c065009a90f7a847ee8d667f38bfe71da861b57
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG" tvg-logo="https://img.ip2.digital/bloomberg.png" group-title="CANAIS | INTERNACIONAIS",BLOOMBERG
 https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNINTERNATIONAL" tvg-name="CNN INTERNACIONAL" tvg-logo="https://img.ip2.digital/cnn.png" group-title="CANAIS | INTERNACIONAIS",CNN INTERNACIONAL [FHD]
-
 #EXTINF:-1 tvg-id="CNNINTERNATIONAL" tvg-name="CNN INTERNACIONAL" tvg-logo="https://img.ip2.digital/cnn.png" group-title="CANAIS | INTERNACIONAIS",CNN INTERNACIONAL [HD]
-
-#EXTINF:-1 tvg-id="CNNINTERNATIONAL" tvg-name="CNN INTERNACIONAL" tvg-logo="https://img.ip2.digital/cnn.png" group-title="CANAIS | INTERNACIONAIS",CNN INTERNATIONAL [SD]
-
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN INTERNATIONAL EUROPE" tvg-logo="https://i.imgur.com/vXGkZju.png" group-title="CANAIS | INTERNACIONAIS",CNN INTERNATIONAL EUROPE
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL" tvg-logo="https://img.ip2.digital/cnnbrasil.png" group-title="CANAIS | INTERNACIONAIS",CNN ESPANHOL
@@ -128,11 +124,11 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 ######################### CANAIS | INTERNACIONAIS ######################################
 ######################### CANAIS | ESPORTES ######################################
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [FHD]
-
+https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [HD]
-
+https://stream1.freetv.fun/band-sports-1.ctv
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [SD]
-
+https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [FHD]
 
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [HD]
