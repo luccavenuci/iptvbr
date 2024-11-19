@@ -156,35 +156,35 @@ https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
 ######################### CANAIS | ESPORTES ######################################
 ######################### CANAIS | FILMES E SÉRIES ######################################
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744487.m3u
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [HD]
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+http://dns.6tp.xyz/live/luizneto/997143156/2751833.m3u
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [SD]
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [FHD]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
+http://dns.6tp.xyz/live/luizneto/997143156/2744406.m3u
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [HD]
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [SD]
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744405.m3u
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [HD]
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [SD]
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY [FHD]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/238
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY [HD]
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744385.m3u
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [HD]
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY [SD]
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [SD]
 https://cdn-2.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744411.m3u
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744396.m3u
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744392.m3u
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [FHD]
 
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [HD]
@@ -192,53 +192,53 @@ https://cdn-2.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [SD]
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744401.m3u
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744397.m3u
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744398.m3u
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744409.m3u
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744407.m3u
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744370.m3u
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744372.m3u
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [HD]
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
 https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [FHD]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282
+http://dns.6tp.xyz/live/luizneto/997143156/2744380.m3u
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [HD]
-http://cdn.upcinetv.me:80/play/Itf8amitSmj4q3xKk2NgfN-u0hMuNZ76ira57MmKYfs
+http://dns.6tp.xyz/live/luizneto/997143156/2744388.m3u
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744374.m3u
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744353.m3u
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744365.m3u
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744366.m3u
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744364.m3u
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744350.m3u
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744354.m3u
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [FHD]
-https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
+http://dns.6tp.xyz/live/luizneto/997143156/2744375.m3u
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [HD]
 https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [SD]
-http://dzcdn.vood.top:80/hls/733_.m3u8
+http://dns.6tp.xyz/live/luizneto/997143156/2744390.m3u
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744373.m3u
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744379.m3u
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744371.m3u
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [FHD]
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [HD]
@@ -250,11 +250,11 @@ https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="trutv" tvg-name="TRUTV" tvg-logo="https://img.ip2.digital/trutv.png" group-title="CANAIS | FILMES E SÉRIES",TRUTV [SD]
 
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744355.m3u
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744368.m3u
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744352.m3u
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [FHD]
 
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [HD]
@@ -277,6 +277,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w148848447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/wsbOfsul.png" group-title="CANAIS | FILMES E SÉRIES",UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROPAPLAY" tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="CANAIS | FILMES E SÉRIES",EuropaPlay Nacional 
+https://cdn-2.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/AShLQpl.png" group-title="CANAIS | FILMES E SÉRIES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrgA0Ib.png" group-title="CANAIS | FILMES E SÉRIES",Web Tv Clássicos do Cinema
