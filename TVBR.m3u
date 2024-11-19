@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 ######################### CANAIS | ABERTOS ######################################
-#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO TV VERDES MARES [HD]
-
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RJ [SD]
-https://stream1.freetv.fun/globo-rj-2-1.ctv
 #EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
 http://15.235.15.230:14487/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO MS [FHD]
@@ -15,6 +11,10 @@ http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 http://15.235.15.230:14488/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RJ [SD]
+
+#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO TV VERDES MARES [HD]
+
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [FHD]
 https://stream1.freetv.fun/record-sp-2-3.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [HD]
@@ -45,16 +45,10 @@ https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="RBA TV" tvg-logo="https://i.imgur.com/RdUbLEK.png" group-title="CANAIS | ABERTOS",BAND RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL TV" tvg-logo="https://img.ip2.digital/agrobrasil.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV
-
-#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE FHD" tvg-logo="https://img.ip2.digital/boavontade.png" group-title="CANAIS | ABERTOS",BOA VONTADE
-
 #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://img.ip2.digital/canalbrasil.png" group-title="CANAIS | ABERTOS",CANAL BRASIL 
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA" tvg-logo="https://img.ip2.digital/futura.png" group-title="CANAIS | ABERTOS",CANAL FUTURA
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://img.ip2.digital/rural.png" group-title="CANAIS | ABERTOS",CANAL RURAL
-
 #EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT HD" tvg-logo="https://img.ip2.digital/cnt.png" group-title="CANAIS | ABERTOS",CNT HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA" tvg-logo="https://img.ip2.digital/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA
@@ -63,7 +57,9 @@ https://stream1.freetv.fun/tv-gazeta-1.m3u8
 https://cdn2.easy.tv.br/redetv/index.m3u8
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV" tvg-logo="https://img.ip2.digital/rit.png" group-title="CANAIS | ABERTOS",RIT TV
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [HD]
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [SD]
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO
 
@@ -92,7 +88,7 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 ######################### CANAIS | NOTÍCIAS ######################################
 ######################### CANAIS | INTERNACIONAIS ######################################
 #EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABC NEWS" tvg-logo="" group-title="CANAIS | INTERNACIONAIS",ABC NEWS
-https://stream1.freetv.fun/3dccd2947d2186c065009a90f7a847ee8d667f38bfe71da861b572f762401a03.ctv
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-name="BBC NEWS UK" tvg-logo="https://i.imgur.com/B3uWqMY.png" group-title="CANAIS | INTERNACIONAIS",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG" tvg-logo="https://img.ip2.digital/bloomberg.png" group-title="CANAIS | INTERNACIONAIS",BLOOMBERG
@@ -101,8 +97,6 @@ https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN INTERNATIONAL EUROPE" tvg-logo="https://i.imgur.com/vXGkZju.png" group-title="CANAIS | INTERNACIONAIS",CNN INTERNATIONAL EUROPE
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL" tvg-logo="https://img.ip2.digital/cnnbrasil.png" group-title="CANAIS | INTERNACIONAIS",CNN ESPANHOL
-
 #EXTINF:-1 tvg-id="cbsnews.us" tvg-name="CBS NEWS" tvg-logo="https://i.imgur.com/r0kfbZj.png" group-title="CANAIS | INTERNACIONAIS",CBS NEWS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="CBS NEWS NY" tvg-logo="https://i.imgur.com/Qa9wLEq.png" group-title="CANAIS | INTERNACIONAIS",CBS NEWS NEW YORK
@@ -123,76 +117,40 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 ######################### CANAIS | INTERNACIONAIS ######################################
 ######################### CANAIS | ESPORTES ######################################
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [FHD]
-https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [HD]
-https://stream1.freetv.fun/band-sports-1.ctv
+https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [SD]
 https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [FHD]
-
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [HD]
-
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [SD]
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2
 
 #EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="https://img.ip2.digital/redbulltv.png" group-title="CANAIS | ESPORTES",REDBULL TV [HD]
 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV [FHD]
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV
 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV [HD]
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2
 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV [SD]
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3
 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2 [FHD]
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN
 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2 [HD]
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2
 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2 [SD]
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3
 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3 [FHD]
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4
 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3 [HD]
-
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3 [SD]
-
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN [FHD]
-
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN [HD]
-
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN [SD]
-
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 [FHD]
-
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 [HD]
-
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 [SD]
-
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3 [FHD]
-
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3 [HD]
-
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3 [SD]
-
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4 [FHD]
-
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4 [HD]
-
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4 [SD]
-
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5 [FHD]
-
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5 [HD]
-
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5 [SD]
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5
 
 #EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 1
-http://176.10.117.3:5000/play/a00f/index.m3u8
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 2
+https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 3
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73127
+https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="CANAIS | ESPORTES",OFF
-https://8mwx.short.gy/CANALOFF/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="CANAIS | ESPORTES",Woohoo Surf
 https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
 ######################### CANAIS | ESPORTES ######################################
@@ -246,7 +204,7 @@ https://cdn-2.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [SD]
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [FHD]
-https://stream1.freetv.fun/space-3.ctv
+
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [HD]
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
@@ -270,7 +228,7 @@ http://cdn.upcinetv.me:80/play/Itf8amitSmj4q3xKk2NgfN-u0hMuNZ76ira57MmKYfs
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [SD]
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [FHD]
-https://stream1.freetv.fun/tnt-2.m3u8
+https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [HD]
 https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [SD]
@@ -304,7 +262,7 @@ https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [SD]
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [FHD]
-https://stream1.freetv.fun/warner-channel-3.ctv
+https://stream1.freetv.fun/warner-channel-3.m3u8
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [HD]
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [SD]
@@ -360,7 +318,7 @@ http://15.235.50.113:14010
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [FHD]
 
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [HD]
-https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2399f35d00ed.ctv
+https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2399f35d00ed.m3u8
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [SD]
 
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [FHD]
