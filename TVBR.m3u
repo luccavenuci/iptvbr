@@ -14,7 +14,7 @@ http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SC [HD]
 https://live.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMTQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzMyMTQ0OTMwLCJpYXQiOjE3MzIwNTg1MzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49MzEzOTg0KS9uc2NzY2F0YXJpbmEvcGxheWxpc3QubTN1OCJ9.VyAiKUC7YoccGgRUApokn13zcnJ6ty_FQO1RNuKX5kmF-zqB3hCBe6fldp_G-W39MZyUAbg8tE9KLXMvcSXmIsAxdN-aXI2XXc1X1rwCQg0RKBhzy5cCFpLzfviQtDkdqxiog1LQHR_8f7wydBgbzOi0Zk7EyG5JYdRTiqvsOZpm1F5-IILUzxck9dZQnNNlJ25-kyHOdnzSnXt2QOE5fn9VFsvoJ27I8Slrb9WmluIZD4dzi7w11cCUG733lg9DsZBJt3cOsRCAwoorRlpFNHunZOo9oB2n6G36Zq0Zw0AuRbJHu3PkdKhzGwM_YVWjeTWf-7nnva8eGro1C0ZaxQ/nu/f(bMin=313984)/nscscatarina/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO TV VERDES MARES [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751656.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [FHD]
 https://stream1.freetv.fun/record-sp-2-3.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [HD]
@@ -32,7 +32,7 @@ https://aovivo.maissbt.com/channel_540.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT INTERIOR [SD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="TV JANGADEIRO" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT TV JANGADEIRO [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751582.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="BEM TV" tvg-logo="https://i.imgur.com/SlPcoGY.png" group-title="CANAIS | ABERTOS",SBT BEM TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND SP [FHD]
@@ -62,7 +62,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [SD]
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 ######################### CANAIS | ABERTOS ######################################
 ######################### CANAIS | NOTÍCIAS ######################################
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS" tvg-logo="https://img.ip2.digital/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS [HD]
@@ -103,7 +103,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="https://i.imgur.com/PNrieti.png" group-title="CANAIS | INTERNACIONAIS",RAI 3 IT
 https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="EURONEWS PT" tvg-logo="https://i.imgur.com/vEIllQI.png" group-title="CANAIS | INTERNACIONAIS",EURONEWS PLUTO TV
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/vEIllQI.png" group-title="CANAIS | INTERNACIONAIS",EURONEWS PT
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://i.imgur.com/s6htYdI.png" group-title="CANAIS | INTERNACIONAIS",RTP 1
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
@@ -124,35 +124,31 @@ https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2
 
 #EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="https://img.ip2.digital/redbulltv.png" group-title="CANAIS | ESPORTES",REDBULL TV [HD]
-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743914.m3u8
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743907.m3u8
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751818.m3u8
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743887.m3u8
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743896.m3u8
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743902.m3u8
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743886.m3u8
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5
-
-#EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 
+http://dns.6tp.xyz/live/luizneto/997143156/2743888.m3u8
+#EXTINF:-1 tvg-id="Sky Sports" tvg-name="SKY SPORTS" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 1
+#EXTINF:-1 tvg-id="Sky Sports 1" tvg-name="SKY SPORTS 1" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 1
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 2
+#EXTINF:-1 tvg-id="Sky Sports 2" tvg-name="SKY SPORTS 2" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 2
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 3
+#EXTINF:-1 tvg-id="Sky Sports 3" tvg-name="SKY SPORTS 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 3
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="CANAIS | ESPORTES",OFF
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="CANAIS | ESPORTES",Woohoo Surf
-https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
 ######################### CANAIS | ESPORTES ######################################
 ######################### CANAIS | FILMES E SÉRIES ######################################
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [FHD]
@@ -186,11 +182,11 @@ http://dns.6tp.xyz/live/luizneto/997143156/2744396.m3u8
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [SD]
 http://dns.6tp.xyz/live/luizneto/997143156/2744392.m3u8
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744403.m3u8
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744395.m3u8
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744404.m3u8
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [FHD]
 http://dns.6tp.xyz/live/luizneto/997143156/2744401.m3u8
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [HD]
@@ -245,10 +241,6 @@ https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [SD]
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="trutv" tvg-name="TRUTV" tvg-logo="https://img.ip2.digital/trutv.png" group-title="CANAIS | FILMES E SÉRIES",TRUTV [HD]
-
-#EXTINF:-1 tvg-id="trutv" tvg-name="TRUTV" tvg-logo="https://img.ip2.digital/trutv.png" group-title="CANAIS | FILMES E SÉRIES",TRUTV [SD]
-
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [FHD]
 http://dns.6tp.xyz/live/luizneto/997143156/2744355.m3u8
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [HD]
@@ -256,17 +248,17 @@ http://dns.6tp.xyz/live/luizneto/997143156/2744368.m3u8
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [SD]
 http://dns.6tp.xyz/live/luizneto/997143156/2744352.m3u8
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751978.m3u8
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751979.m3u8
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2751976.m3u8
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [FHD]
 https://stream1.freetv.fun/warner-channel-3.m3u8
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744356.m3u8
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744349.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 1" tvg-logo="https://i.imgur.com/M66M8X4.png" group-title="CANAIS | FILMES E SÉRIES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="CANAIS | FILMES E SÉRIES",TV ARACATI
@@ -277,7 +269,7 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w148848447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/wsbOfsul.png" group-title="CANAIS | FILMES E SÉRIES",UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROPAPLAY" tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="CANAIS | FILMES E SÉRIES",EuropaPlay Nacional 
+#EXTINF:-1 tvg-id="" tvg-name="EUROPAPLAY" tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="CANAIS | FILMES E SÉRIES",EUROPAPLAY
 https://cdn-2.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/AShLQpl.png" group-title="CANAIS | FILMES E SÉRIES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -294,37 +286,37 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 ######################### CANAIS | FILMES E SÉRIES ######################################
 ######################### CANAIS | TELECINE ######################################
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [FHD]
-http://15.235.50.113:14009
+http://dns.6tp.xyz/live/luizneto/997143156/2744322.m3u8
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [HD]
 http://15.235.50.113:14008
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [SD]
 http://15.235.50.113:14007
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744329.m3u8
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744311.m3u8
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744315.m3u8
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [FHD]
-http://15.235.50.113:14018
+http://dns.6tp.xyz/live/luizneto/997143156/2744323.m3u8
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [HD]
 http://15.235.50.113:14017
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [SD]
 http://15.235.50.113:14016
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [FHD]
-http://15.235.50.113:14012
+http://dns.6tp.xyz/live/luizneto/997143156/2744316.m3u8
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [HD]
 http://15.235.50.113:14011
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [SD]
 http://15.235.50.113:14010
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744306.m3u8
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [HD]
 https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2399f35d00ed.m3u8
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744305.m3u8
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [FHD]
-http://15.235.50.113:14015
+http://dns.6tp.xyz/live/luizneto/997143156/2744313.m3u8
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [HD]
 http://15.235.50.113:14014
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [SD]
@@ -332,53 +324,53 @@ http://15.235.50.113:14013
 ######################### CANAIS | TELECINE ######################################
 ######################### CANAIS | HBO ######################################
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744358.m3u8
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744363.m3u8
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744343.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo2.png" group-title="CANAIS | HBO",HBO 2 [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744336.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo2.png" group-title="CANAIS | HBO",HBO 2 [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744346.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO 2 [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744327.m3u8
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [FHD]
-http://168.181.122.234:8000/play/a02x/index.m3u8
+http://dns.6tp.xyz/live/luizneto/997143156/2744326.m3u8
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744330.m3u8
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744328.m3u8
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744348.m3u8
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744337.m3u8
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744344.m3u8
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744338.m3u8
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744347.m3u8
 #EXTINF:-1 tvg-id="hbosignaturer" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744342.m3u8
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744345.m3u8
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744340.m3u8
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744339.m3u8
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744333.m3u8
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744331.m3u8
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744341.m3u8
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744335.m3u8
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744332.m3u8
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744334.m3u8
 ######################### CANAIS | HBO ######################################
 ######################### CANAIS | PLUTO TV ######################################
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Sucessos
@@ -463,220 +455,180 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 ######################### CANAIS | PLUTO TV ######################################
 ######################### CANAIS | DOCUMENTÁRIOS ######################################
+#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE1" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE1 [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743861.m3u8
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743858.m3u8
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743865.m3u8
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743870.m3u8
+#EXTINF:-1 tvg-id="curta" tvg-name="CURTA!" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA! [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743874.m3u8
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [FHD]
-https://varun-iptv.netlify.app/m3u/discoverytelugu.m3u8
+http://dns.6tp.xyz/live/luizneto/997143156/2743868.m3u8
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [HD]
 https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [SD]
 https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744453.m3u8
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744458.m3u8
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744455.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743856.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743866.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743867.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY[FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743843.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY [HD]
 https://cdn-2.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY [SD]
 https://cdn-2.nxplay.com.br/HISTORY_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743839.m3u8
 #EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID [HD]
 https://cdn-2.nxplay.com.br/DISCOVERY_ID_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID [SD]
 https://cdn-2.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743851.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743836.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743852.m3u8
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img.ip2.digital/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743873.m3u8
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img.ip2.digital/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743854.m3u8
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img.ip2.digital/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743869.m3u8
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://img.ip2.digital/discoveryTheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743857.m3u8
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://img.ip2.digital/discoveryTheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743864.m3u8
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://img.ip2.digital/discoveryTheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743853.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://img.ip2.digital/discoveryTurbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744468.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://img.ip2.digital/discoveryTurbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744462.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://img.ip2.digital/discoveryTurbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744464.m3u8
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://img.ip2.digital/discoveryWord.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743862.m3u8
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://img.ip2.digital/discoveryWord.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743877.m3u8
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://img.ip2.digital/discoveryWord.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743855.m3u8
 ######################### CANAIS | DOCUMENTÁRIOS ######################################
 ######################### CANAIS | VARIEDADES ######################################
-#EXTINF:-1 tvg-id="primeboxbrazil" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://img.ip2.digital/primeBoxBrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL [HD]
-
-#EXTINF:-1 tvg-id="" tvg-name="RECEITAS FAST" tvg-logo="https://img.ip2.digital/receitasFast.png" group-title="CANAIS | VARIEDADES",RECEITAS FAST
-
+#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744479.m3u8
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://img.ip2.digital/comedyCentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744463.m3u8
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://img.ip2.digital/canalE.png" group-title="CANAIS | VARIEDADES",E! Brasil [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744473.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="https://img.ip2.digital/food.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744454.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744452.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT [SD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744442.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743849.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://img.ip2.digital/lovenature.png" group-title="CANAIS | VARIEDADES",LOVE NATURE [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2751843.m3u8
+#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744438.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744430.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [SD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744437.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744446.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744441.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [SD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744440.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744433.m3u8
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="TASTEMADE" tvg-logo="https://img.ip2.digital/tastemade.png" group-title="CANAIS | VARIEDADES",TASTEMADE BRASIL
-
+http://dns.6tp.xyz/live/luizneto/997143156/2735542.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.ip2.digital/tlc.png" group-title="CANAIS | VARIEDADES",TLC [HD]
-
-#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA" tvg-logo="https://img.ip2.digital/traceBrazuca.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA [HD]
-
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://img.ip2.digital/travelBoxBrasil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://img.ip2.digital/travelBoxBrasil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744423.m3u8
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1" tvg-logo="https://img.ip2.digital/vh1.png" group-title="CANAIS | VARIEDADES",VH1 [HD]
 
+#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | VARIEDADES",VIVA [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2744427.m3u
 #EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | VARIEDADES",VIVA [HD]
-
-#EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | VARIEDADES",VIVA [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2744419.m3u8
 #EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO [SD]
-
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE1" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | VARIEDADES",ARTE1 [HD]
-
-#EXTINF:-1 tvg-id="arte1" tvg-name="ARTE1" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | VARIEDADES",ARTE1 [SD]
-
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS [HD]
-
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS [SD]
-
-#EXTINF:-1 tvg-id="comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://img.ip2.digital/comedyCentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [HD]
-
-#EXTINF:-1 tvg-id="comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://img.ip2.digital/comedyCentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [SD]
-
-#EXTINF:-1 tvg-id="curta" tvg-name="CURTA!" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | VARIEDADES",CURTA! [HD]
-
-#EXTINF:-1 tvg-id="curta" tvg-name="CURTA!" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | VARIEDADES",CURTA! [SD]
-
-#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://img.ip2.digital/canalE.png" group-title="CANAIS | VARIEDADES",E! Brasil [HD]
-
-#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://img.ip2.digital/canalE.png" group-title="CANAIS | VARIEDADES",E! Brasil [SD]
-
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHION TV" tvg-logo="https://img.ip2.digital/fashiontv.png" group-title="CANAIS | VARIEDADES",FASHION TV [FHD]
-
-#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHION TV" tvg-logo="https://img.ip2.digital/fashiontv.png" group-title="CANAIS | VARIEDADES",FASHION TV [HD]
-
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://img.ip2.digital/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV [HD]
-
-#EXTINF:-1 tvg-id="fishtv" tvg-name="FISH TV" tvg-logo="https://img.ip2.digital/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV [SD]
-
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="https://img.ip2.digital/food.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [HD]
-
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="https://img.ip2.digital/food.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [SD]
-
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT [HD]
-
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT [SD]
-
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV [FHD]
-
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV [SD]
-
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME [HD]
-
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME [SD]
-
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://img.ip2.digital/lovenature.png" group-title="CANAIS | VARIEDADES",LOVE NATURE [FHD]
-
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM [HD]
-
-#EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM [SD]
-
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [HD]
-
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [SD]
-
-#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV LIVE" tvg-logo="https://img.ip2.digital/mtvlive.png" group-title="CANAIS | VARIEDADES",MTV LIVE [FHD]
-
-#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV LIVE" tvg-logo="https://img.ip2.digital/mtvlive.png" group-title="CANAIS | VARIEDADES",MTV LIVE [HD]
-
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [FHD]
-
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [HD]
-
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [SD]
-
-#EXTINF:-1 tvg-id="musicboxbrazil" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://img.ip2.digital/musicbox.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL [HD]
-
-#EXTINF:-1 tvg-id="musicboxbrazil" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://img.ip2.digital/musicbox.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL [SD]
-
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF [HD]
-
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF [SD]
-
+https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
 ######################### CANAIS | VARIEDADES ######################################
 ######################### CANAIS | INFANTIS ######################################
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://img.ip2.digital/babytv.png" group-title="CANAIS | INFANTIS",BABY TV [HD]
-
-#EXTINF:-1 tvg-id="" tvg-name="BOX KIDS TV" tvg-logo="https://img.ip2.digital/boxkids.png" group-title="CANAIS | INFANTIS",BOX KIDS TV [FHD]
-
+#EXTINF:-1 tvg-id="" tvg-name="BOX KIDS TV" tvg-logo="https://img.ip2.digital/boxkids.png" group-title="CANAIS | INFANTIS",BOX KIDS TV [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743787.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://img.ip2.digital/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743850.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://img.ip2.digital/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743835.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://img.ip2.digital/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743840.m3u8
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://img.ip2.digital/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743846.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://img.ip2.digital/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743831.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://img.ip2.digital/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743816.m3u8
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743824.m3u8
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743815.m3u8
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743828.m3u8
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743826.m3u8
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743817.m3u8
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743818.m3u8
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743822.m3u8
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743830.m3u8
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743834.m3u8
 #EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743811.m3u8
 #EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743820.m3u8
 #EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743819.m3u8
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON [FHD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743827.m3u8
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON [HD]
-
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON [SD]
-
-#EXTINF:-1 tvg-id="ratimbum" tvg-name="RA TIM BUM" tvg-logo="https://img.ip2.digital/ratimbum.png" group-title="CANAIS | INFANTIS",RA TIM BUM [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743814.m3u8
+#EXTINF:-1 tvg-id="ratimbum" tvg-name="RA TIM BUM" tvg-logo="https://img.ip2.digital/ratimbum.png" group-title="CANAIS | INFANTIS",TV RÁ TIM BUM [HD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743802.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST [hD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743812.m3u8
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST [SD]
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [FHD]
+http://dns.6tp.xyz/live/luizneto/997143156/2743823.m3u8
 #EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [HD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743825.m3u8
 #EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [SD]
-
+http://dns.6tp.xyz/live/luizneto/997143156/2743829.m3u8
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://img.ip2.digital/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO [HD]
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RETRÔ CARTOON" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS | INFANTIS", Retrô Cartoon
@@ -688,7 +640,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 ######################### CANAIS | INFANTIS ######################################
 ######################### CANAIS | COMBATE ######################################
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [HD]
-https://stream.ads.ottera.tv/cl/241114csr6e9u809qvtdc9q49g/1280x720_3071200_0_f.m3u8?i=475_960
+http://dns.6tp.xyz/live/luizneto/997143156/2743991.m3u8
 #EXTINF:-1 tvg-id="combate" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [SD]
 https://stream.ads.ottera.tv/cl/241114csr6e9u809qvtdc9q49g/960x540_1927200_1_f.m3u8?i=475_960
 #EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [SD] 2
@@ -708,11 +660,61 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GOSPELMOVIES" tvg-name="GOSPEL MOVIES" tvg-logo="https://i.imgur.com/tcgcjkp.png" group-title="CANAIS | RELIGIOSOS",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ######################### CANAIS | RELIGIOSOS ######################################
-#EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="https://image.tmdb.org/t/p/w400/mx0CB8H78PQu0g9YUWG47hdi93S.jpg" group-title="🎬 Filmes | Ação 💥🔥",+ Velozes + Furiosos
-http://dns.6tp.xyz/movie/luizneto/997143156/3012510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="🎬 Filmes | Lançamentos 2023 🎥✨",10 Dias de um Homem Bom (2023)
-http://dns.6tp.xyz/movie/luizneto/997143156/2784046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="https://image.tmdb.org/t/p/w780/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="🎬 Filmes | Ação 💥🔥",47 Ronins (2013)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785374.mp4
-#EXTINF:-1 tvg-id="16" tvg-name="Paramount Network FHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/paramountchannel.png" group-title="📺 Canais | Filmes e Séries 🎬📽️",Paramount Network FHD
-http://dns.6tp.xyz/live/luizneto/997143156/2744409.m3u
+######################### FILMES | ON DEMAND ######################################
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w780/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="FILMES | ON DEMAND",007: Cassino Royale (2006)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w780/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="FILMES | ON DEMAND",007: Contra Spectre (2015)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg" group-title="FILMES | ON DEMAND",007: Operação Skyfall (2012)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace (2008)" tvg-logo="https://image.tmdb.org/t/p/w780/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="FILMES | ON DEMAND",007: Quantum of Solace (2008)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer" tvg-logo="https://image.tmdb.org/t/p/w400/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="FILMES | ON DEMAND",007: Sem Tempo para Morrer
+http://dns.6tp.xyz/movie/luizneto/997143156/2803339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Horas para o Natal (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/zQF84E6xXSPur1gEbyKJ2P1BECp.jpg" group-title="FILMES | ON DEMAND",10 Horas para o Natal (2020)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas (1996)" tvg-logo="https://image.tmdb.org/t/p/w780/fz6rT9M05abWXlU964qJ151On47.jpg" group-title="FILMES | ON DEMAND",101 Dálmatas (1996)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg" group-title="FILMES | ON DEMAND",17 Outra Vez (2009)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chefa (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/jEfzaXdgglZFIkJY7pmiEj1YufE.jpg" group-title="FILMES | ON DEMAND",A Chefa (2016)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É o Bicho! (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/oNjj2sW0zpg5aa8bzsv8HDxmDPs.jpg" group-title="FILMES | ON DEMAND",É o Bicho! (2017)
+http://dns.6tp.xyz/movie/luizneto/997143156/2787259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chamada (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eqaSh2PjYcGpS6rybz6UjLNuvrg.jpg" group-title="FILMES | ON DEMAND",A Chamada (2023)
+http://dns.6tp.xyz/movie/luizneto/997143156/2784460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama do Silêncio: La Mataviejitas (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fd5B1I6riT7oze7FntN51RvTPyn.jpg" group-title="FILMES | ON DEMAND",A Dama do Silêncio: La Mataviejitas (2023)
+http://dns.6tp.xyz/movie/luizneto/997143156/2784053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era de Ouro (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg" group-title="FILMES | ON DEMAND",A Era de Ouro (2023)
+http://dns.6tp.xyz/movie/luizneto/997143156/2784455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w780/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo (2002)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w780/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo 2 (2006)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo 3 (2009)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo 4 (2012)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo: As Aventuras de Buck (2022)
+http://dns.6tp.xyz/movie/luizneto/997143156/2784861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: O Big Bang (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo: O Big Bang (2016)
+http://dns.6tp.xyz/movie/luizneto/997143156/2786227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/waeKG2ZoXh2FcxP2JbyzlG7LQ0k.jpg" group-title="FILMES | ON DEMAND",A Escolha (2016)
+http://dns.6tp.xyz/movie/luizneto/997143156/2790695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outro Conto da Nova Cinderela (2008)" tvg-logo="https://image.tmdb.org/t/p/w780/9QEVz90ufqCdKcaKFwTipmq2VmD.jpg" group-title="FILMES | ON DEMAND",Outro Conto da Nova Cinderela (2008)
+http://dns.6tp.xyz/movie/luizneto/997143156/2787639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P.S. Eu Te Amo (2007)" tvg-logo="https://image.tmdb.org/t/p/w780/4AZq74AdUrSeaqDVHq7bJg9tlKZ.jpg" group-title="FILMES | ON DEMAND",P.S. Eu Te Amo (2007)
+http://dns.6tp.xyz/movie/luizneto/997143156/2790863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacto de Fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/ziao1KWNkw4X5qL7rWCSJ6lyjX9.jpg" group-title="FILMES | ON DEMAND",Pacto de Fuga (2020)
+http://dns.6tp.xyz/movie/luizneto/997143156/2793778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="FILMES | ON DEMAND",Panamá (2022)
+http://dns.6tp.xyz/movie/luizneto/997143156/2783807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre" tvg-logo="https://image.tmdb.org/t/p/w400/nj9cgMhqXQJkXutKmvVelKNP1Aa.jpg" group-title="FILMES | ON DEMAND",Pantera Negra: Wakanda para Sempre
+http://dns.6tp.xyz/movie/luizneto/997143156/3014885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="FILMES | ON DEMAND",Pantera Negra: Wakanda para Sempre (2022)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Par Perfeito (2010)" tvg-logo="https://image.tmdb.org/t/p/w780/9xFcKDY9RFUidat3VU8QIlSrZmf.jpg" group-title="FILMES | ON DEMAND",Par Perfeito (2010)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Salvar Uma Vida (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/gcKveDUjTSEQgnjwwa2Lqzlyrye.jpg" group-title="FILMES | ON DEMAND",Para Salvar Uma Vida (2009)
+http://dns.6tp.xyz/movie/luizneto/997143156/2788737.mp4
+######################### FILMES | ON DEMAND ######################################
