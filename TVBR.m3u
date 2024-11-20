@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 ######################### CANAIS | ABERTOS ######################################
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
 http://15.235.15.230:14487/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO MS [FHD]
 http://15.235.15.230:14504/
@@ -11,8 +11,8 @@ http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 http://15.235.15.230:14488/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RJ [SD]
-
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SC [HD]
+https://live.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMTQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzMyMTQ0OTMwLCJpYXQiOjE3MzIwNTg1MzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49MzEzOTg0KS9uc2NzY2F0YXJpbmEvcGxheWxpc3QubTN1OCJ9.VyAiKUC7YoccGgRUApokn13zcnJ6ty_FQO1RNuKX5kmF-zqB3hCBe6fldp_G-W39MZyUAbg8tE9KLXMvcSXmIsAxdN-aXI2XXc1X1rwCQg0RKBhzy5cCFpLzfviQtDkdqxiog1LQHR_8f7wydBgbzOi0Zk7EyG5JYdRTiqvsOZpm1F5-IILUzxck9dZQnNNlJ25-kyHOdnzSnXt2QOE5fn9VFsvoJ27I8Slrb9WmluIZD4dzi7w11cCUG733lg9DsZBJt3cOsRCAwoorRlpFNHunZOo9oB2n6G36Zq0Zw0AuRbJHu3PkdKhzGwM_YVWjeTWf-7nnva8eGro1C0ZaxQ/nu/f(bMin=313984)/nscscatarina/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO TV VERDES MARES [HD]
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [FHD]
@@ -708,3 +708,9 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GOSPELMOVIES" tvg-name="GOSPEL MOVIES" tvg-logo="https://i.imgur.com/tcgcjkp.png" group-title="CANAIS | RELIGIOSOS",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ######################### CANAIS | RELIGIOSOS ######################################
+#EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="https://image.tmdb.org/t/p/w400/mx0CB8H78PQu0g9YUWG47hdi93S.jpg" group-title="🎬 Filmes | Ação 💥🔥",+ Velozes + Furiosos
+http://dns.6tp.xyz/movie/luizneto/997143156/3012510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="🎬 Filmes | Lançamentos 2023 🎥✨",10 Dias de um Homem Bom (2023)
+http://dns.6tp.xyz/movie/luizneto/997143156/2784046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="https://image.tmdb.org/t/p/w780/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="🎬 Filmes | Ação 💥🔥",47 Ronins (2013)
+http://dns.6tp.xyz/movie/luizneto/997143156/2785374.mp4
