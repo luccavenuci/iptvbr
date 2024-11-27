@@ -118,29 +118,25 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 ######################### CANAIS | INTERNACIONAIS ######################################
 ######################### CANAIS | ESPORTES ######################################
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [HD]
-https://stream1.freetv.fun/band-sports-3.m3u8
+http://acessolite.top:80/057548607/500728747/1092393
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [SD]
 https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://img.ip2.digital/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2
-
-#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="https://img.ip2.digital/redbulltv.png" group-title="CANAIS | ESPORTES",REDBULL TV [HD]
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV
-http://dns.6tp.xyz/live/luizneto/997143156/2743914.m3u8
+http://acessolite.top:80/057548607/500728747/239689
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2
-http://dns.6tp.xyz/live/luizneto/997143156/2743907.m3u8
+http://acessolite.top:80/057548607/500728747/239680
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3
-http://dns.6tp.xyz/live/luizneto/997143156/2751818.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN
-http://dns.6tp.xyz/live/luizneto/997143156/2743887.m3u8
+http://acessolite.top:80/057548607/500728747/239683
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN BRASIL
+http://acessolite.top:80/057548607/500728747/1627714
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2
-http://dns.6tp.xyz/live/luizneto/997143156/2743896.m3u8
+http://acessolite.top:80/057548607/500728747/1627717
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3
-http://dns.6tp.xyz/live/luizneto/997143156/2743902.m3u8
+http://acessolite.top:80/057548607/500728747/1627720
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4
-http://dns.6tp.xyz/live/luizneto/997143156/2743886.m3u8
+http://acessolite.top:80/057548607/500728747/1092411
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5
-http://dns.6tp.xyz/live/luizneto/997143156/2743888.m3u8
+http://acessolite.top:80/057548607/500728747/1627725
 #EXTINF:-1 tvg-id="Sky Sports" tvg-name="SKY SPORTS" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports 1" tvg-name="SKY SPORTS 1" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 1
@@ -276,37 +272,37 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 ######################### CANAIS | FILMES E SÉRIES ######################################
 ######################### CANAIS | TELECINE ######################################
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [FHD]
-http://15.235.50.113:14009
+http://acessolite.top:80/057548607/500728747/240353
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [HD]
 http://15.235.50.113:14008
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [SD]
 http://15.235.50.113:14007
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744329.m3u8
+http://acessolite.top:80/057548607/500728747/240341
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744311.m3u8
+http://acessolite.top:80/057548607/500728747/240342
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744315.m3u8
+http://acessolite.top:80/057548607/500728747/240343
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [FHD]
-http://15.235.50.113:14018
+http://acessolite.top:80/057548607/500728747/240347
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [HD]
 http://15.235.50.113:14017
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [SD]
 http://15.235.50.113:14016
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [FHD]
-http://15.235.50.113:14012
+http://acessolite.top:80/057548607/500728747/240356
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [HD]
 http://15.235.50.113:14011
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [SD]
 http://15.235.50.113:14010
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744306.m3u8
+http://acessolite.top:80/057548607/500728747/240350
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [HD]
-https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2399f35d00ed.m3u8
+http://acessolite.top:80/057548607/500728747/240351
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744305.m3u8
+http://acessolite.top:80/057548607/500728747/240352
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [FHD]
-http://15.235.50.113:14015
+http://acessolite.top:80/057548607/500728747/240344
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [HD]
 http://15.235.50.113:14014
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [SD]
@@ -446,195 +442,193 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 ######################### CANAIS | PLUTO TV ######################################
 ######################### CANAIS | DOCUMENTÁRIOS ######################################
 #EXTINF:-1 tvg-id="arte1" tvg-name="ARTE1" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE1 [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743861.m3u8
+http://acessolite.top:80/057548607/500728747/240222
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743858.m3u8
+http://acessolite.top:80/057548607/500728747/239583
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743865.m3u8
+http://acessolite.top:80/057548607/500728747/239584
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743870.m3u8
-#EXTINF:-1 tvg-id="curta" tvg-name="CURTA!" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA! [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743874.m3u8
+http://acessolite.top:80/057548607/500728747/239585
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743868.m3u8
+http://acessolite.top:80/057548607/500728747/239586
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [HD]
-https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+http://acessolite.top:80/057548607/500728747/239587
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [SD]
 https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744453.m3u8
+http://acessolite.top:80/057548607/500728747/239589
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744458.m3u8
+http://acessolite.top:80/057548607/500728747/239590
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744455.m3u8
+http://acessolite.top:80/057548607/500728747/239591
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743856.m3u8
+http://acessolite.top:80/057548607/500728747/239607
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743866.m3u8
+http://acessolite.top:80/057548607/500728747/239611
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743867.m3u8
+http://acessolite.top:80/057548607/500728747/239612
 #EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY[FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743843.m3u8
+http://acessolite.top:80/057548607/500728747/239613
 #EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY [HD]
-https://cdn-2.nxplay.com.br/HISTORY_TK/index.m3u8
+http://acessolite.top:80/057548607/500728747/239614
 #EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://img.ip2.digital/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY [SD]
 https://cdn-2.nxplay.com.br/HISTORY_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743839.m3u8
+
 #EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID [HD]
-https://cdn-2.nxplay.com.br/DISCOVERY_ID_NX/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERY ID" tvg-logo="https://img.ip2.digital/discoveryId.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID [SD]
 https://cdn-2.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743851.m3u8
+http://acessolite.top:80/057548607/500728747/239620
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743836.m3u8
+http://acessolite.top:80/057548607/500728747/239621
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://img.ip2.digital/natgeo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743852.m3u8
+http://acessolite.top:80/057548607/500728747/239622
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img.ip2.digital/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743873.m3u8
+http://acessolite.top:80/057548607/500728747/239592
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img.ip2.digital/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743854.m3u8
+http://acessolite.top:80/057548607/500728747/239593
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img.ip2.digital/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743869.m3u8
+http://acessolite.top:80/057548607/500728747/239594
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://img.ip2.digital/discoveryTheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743857.m3u8
+http://acessolite.top:80/057548607/500728747/239595
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://img.ip2.digital/discoveryTheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743864.m3u8
+http://acessolite.top:80/057548607/500728747/239596
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="DISCOVERY THEATER" tvg-logo="https://img.ip2.digital/discoveryTheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743853.m3u8
+http://acessolite.top:80/057548607/500728747/239597
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://img.ip2.digital/discoveryTurbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744468.m3u8
+http://acessolite.top:80/057548607/500728747/239598
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://img.ip2.digital/discoveryTurbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744462.m3u8
+http://acessolite.top:80/057548607/500728747/239599
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://img.ip2.digital/discoveryTurbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744464.m3u8
+http://acessolite.top:80/057548607/500728747/239600
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://img.ip2.digital/discoveryWord.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743862.m3u8
+http://acessolite.top:80/057548607/500728747/239601
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://img.ip2.digital/discoveryWord.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743877.m3u8
+http://acessolite.top:80/057548607/500728747/239602
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="DISCOVERY WORLD" tvg-logo="https://img.ip2.digital/discoveryWord.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743855.m3u8
+http://acessolite.top:80/057548607/500728747/239603
 ######################### CANAIS | DOCUMENTÁRIOS ######################################
 ######################### CANAIS | VARIEDADES ######################################
-#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744479.m3u8
-#EXTINF:-1 tvg-id="comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://img.ip2.digital/comedyCentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744463.m3u8
+#EXTINF:-1 tvg-id="bis" tvg-name="BIS" tvg-logo="https://img.ip2.digital/bis.png" group-title="CANAIS | VARIEDADES",BIS [FHD]
+http://acessolite.top:80/057548607/500728747/240225
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="COMEDY CENTRAL" tvg-logo="https://img.ip2.digital/comedyCentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [FHD]
+http://acessolite.top:80/057548607/500728747/240255
+#EXTINF:-1 tvg-id="curta" tvg-name="CURTA!" tvg-logo="https://img.ip2.digital/curta.png" group-title="CANAIS | VARIEDADES",CURTA! [HD]
+http://acessolite.top:80/057548607/500728747/240259
 #EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://img.ip2.digital/canalE.png" group-title="CANAIS | VARIEDADES",E! Brasil [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744473.m3u8
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="https://img.ip2.digital/food.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744454.m3u8
+http://acessolite.top:80/057548607/500728747/240264
+#EXTINF:-1 tvg-id="FashionTV.br" tvg-name="FASHION TV" tvg-logo="https://meuplayer.tv.br/lgs_btv/fashion1.png" group-title="CANAIS | VARIEDADES",FASHION TV [HD]
+http://acessolite.top:80/057548607/500728747/240266
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="https://img.ip2.digital/food.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [FHD]
+http://acessolite.top:80/057548607/500728747/240267
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744452.m3u8
+http://acessolite.top:80/057548607/500728747/240271
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://img.ip2.digital/gnt.png" group-title="CANAIS | VARIEDADES",GNT [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744442.m3u8
+http://acessolite.top:80/057548607/500728747/240273
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743849.m3u8
+http://acessolite.top:80/057548607/500728747/239609
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://img.ip2.digital/lovenature.png" group-title="CANAIS | VARIEDADES",LOVE NATURE [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751843.m3u8
+http://acessolite.top:80/057548607/500728747/239488
 #EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744438.m3u8
+http://acessolite.top:80/057548607/500728747/240277
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [FHD]
+http://acessolite.top:80/057548607/500728747/240282
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744430.m3u8
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744437.m3u8
+http://acessolite.top:80/057548607/500728747/240283
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744446.m3u8
+http://acessolite.top:80/057548607/500728747/240288
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744441.m3u8
+http://acessolite.top:80/057548607/500728747/240289
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744440.m3u8
+http://acessolite.top:80/057548607/500728747/240290
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744433.m3u8
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="TASTEMADE" tvg-logo="https://img.ip2.digital/tastemade.png" group-title="CANAIS | VARIEDADES",TASTEMADE BRASIL
-http://dns.6tp.xyz/live/luizneto/997143156/2735542.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.ip2.digital/tlc.png" group-title="CANAIS | VARIEDADES",TLC [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744413.m3u8
+http://acessolite.top:80/057548607/500728747/239678
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.ip2.digital/tlc.png" group-title="CANAIS | VARIEDADES",TLC [FHD]
+http://acessolite.top:80/057548607/500728747/239623
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://img.ip2.digital/travelBoxBrasil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744423.m3u8
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1" tvg-logo="https://img.ip2.digital/vh1.png" group-title="CANAIS | VARIEDADES",VH1 [HD]
-
+http://acessolite.top:80/057548607/500728747/240308
 #EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | VARIEDADES",VIVA [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744427.m3u
+http://acessolite.top:80/057548607/500728747/240319
 #EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | VARIEDADES",VIVA [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744419.m3u8
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO [SD]
-https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
+http://acessolite.top:80/057548607/500728747/240320
+#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO [FHD]
+http://acessolite.top:80/057548607/500728747/239449
 ######################### CANAIS | VARIEDADES ######################################
 ######################### CANAIS | INFANTIS ######################################
 #EXTINF:-1 tvg-id="" tvg-name="BOX KIDS TV" tvg-logo="https://img.ip2.digital/boxkids.png" group-title="CANAIS | INFANTIS",BOX KIDS TV [HD]
 http://dns.6tp.xyz/live/luizneto/997143156/2743787.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://img.ip2.digital/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743850.m3u8
+http://acessolite.top:80/057548607/500728747/239921
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://img.ip2.digital/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743835.m3u8
+http://acessolite.top:80/057548607/500728747/1805953
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CARTOON NETWORK" tvg-logo="https://img.ip2.digital/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743840.m3u8
+http://acessolite.top:80/057548607/500728747/1805954
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://img.ip2.digital/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743846.m3u8
+http://acessolite.top:80/057548607/500728747/1805950
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://img.ip2.digital/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743831.m3u8
+http://acessolite.top:80/057548607/500728747/1805951
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="CARTOONITO" tvg-logo="https://img.ip2.digital/cartoonito.png" group-title="CANAIS | INFANTIS",CARTOONITO [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743816.m3u8
+http://acessolite.top:80/057548607/500728747/1805952
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743824.m3u8
+http://acessolite.top:80/057548607/500728747/1805955
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743815.m3u8
+http://acessolite.top:80/057548607/500728747/1805956
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743828.m3u8
+http://acessolite.top:80/057548607/500728747/1805957
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743826.m3u8
+http://acessolite.top:80/057548607/500728747/1805958
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743817.m3u8
+http://acessolite.top:80/057548607/500728747/1805959
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743818.m3u8
+http://acessolite.top:80/057548607/500728747/1805960
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743822.m3u8
+http://acessolite.top:80/057548607/500728747/1805964
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743830.m3u8
+http://acessolite.top:80/057548607/500728747/1805965
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743834.m3u8
+http://acessolite.top:80/057548607/500728747/1805966
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [FHD]
+http://acessolite.top:80/057548607/500728747/1805961
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [HD]
+http://acessolite.top:80/057548607/500728747/1805962
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [SD]
+http://acessolite.top:80/057548607/500728747/1805963
 #EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743811.m3u8
+http://acessolite.top:80/057548607/500728747/1805970
 #EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743820.m3u8
+http://acessolite.top:80/057548607/500728747/1805971
 #EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://img.ip2.digital/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743819.m3u8
+http://acessolite.top:80/057548607/500728747/1805972
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743827.m3u8
+http://acessolite.top:80/057548607/500728747/1805967
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON" tvg-logo="https://img.ip2.digital/nicklodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743814.m3u8
-#EXTINF:-1 tvg-id="ratimbum" tvg-name="RA TIM BUM" tvg-logo="https://img.ip2.digital/ratimbum.png" group-title="CANAIS | INFANTIS",TV RÁ TIM BUM [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743802.m3u8
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST [hD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743812.m3u8
+http://acessolite.top:80/057548607/500728747/1805968
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST [FHD]
+http://acessolite.top:80/057548607/500728747/1805973
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST [HD]
+http://acessolite.top:80/057548607/500728747/1805974
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="https://img.ip2.digital/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST [SD]
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743823.m3u8
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743825.m3u8
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="GLOOBINHO" tvg-logo="https://img.ip2.digital/tvglobinho.png" group-title="CANAIS | INFANTIS",TV GLOOBINHO [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743829.m3u8
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://img.ip2.digital/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO [HD]
-https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+#EXTINF:-1 tvg-id="tvratimbum.br" tvg-name="TV RÁ TIM BUM" tvg-logo="http://meuplayer.tv.br/lgs_btv/tvratimbum.png" group-title="CANAIS | INFANTIS",TV RÁ TIM BUM [FHD]
+http://acessolite.top:80/057548607/500728747/1805976
 #EXTINF:-1 tvg-id="" tvg-name="RETRÔ CARTOON" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS | INFANTIS", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWING" tvg-logo=""  group-title="CANAIS | INFANTIS",Adult Swim [HD]
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWING" tvg-logo="http://meuplayer.tv.br/lgs_btv/adultswin.png"  group-title="CANAIS | INFANTIS",Adult Swim [HD]
 http://45.235.0.78/ADULTSWIM-HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV LOADING" tvg-logo="" group-title="CANAIS | INFANTIS",TV LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS" tvg-logo="http://img.ip2.digital/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO KIDS [HD]
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 ######################### CANAIS | INFANTIS ######################################
 ######################### CANAIS | COMBATE ######################################
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2743991.m3u8
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [SD]
-https://stream.ads.ottera.tv/cl/241114csr6e9u809qvtdc9q49g/960x540_1927200_1_f.m3u8?i=475_960
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [SD] 2
-https://stream.ads.ottera.tv/cl/241114csr6e9u809qvtdc9q49g/640x360_1126400_3_f.m3u8?i=475_960
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [FHD]
+http://acessolite.top:80/057548607/500728747/239671
+#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [HD]
+http://acessolite.top:80/057548607/500728747/1092402
+#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [SD]
+http://acessolite.top:80/057548607/500728747/239673
 ######################### CANAIS | COMBATE ######################################
 ######################### CANAIS | RELIGIOSOS ######################################
 #EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA [HD]" tvg-logo="https://img.ip2.digital/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA
@@ -655,10 +649,6 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 http://24hrs.homelinux.com:80/24H-dragon.ball/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",NARUTO 24H [HD]
 http://24hrs.homelinux.com:80/24H-naruto.txt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",CHAVES 24H [HD]
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POKÉMON 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",POKÉMON 24H [HD]
-http://24hrs.homelinux.com:80/24H-pokemon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MICKEY E DONALD 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",MICKEY E DONALD 24H [HD]
 http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",LULUZINHA 24H [HD]
@@ -667,8 +657,6 @@ http://24hrs.homelinux.com:80/24H-luluzinha/playlist.m3u8
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",SCOOBY-DOO 24H [HD]
 http://24hrs.homelinux.com:80/24H-scoobdoo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POPEYE 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",POPEYE 24H [HD]
-http://24hrs.homelinux.com:80/24H-Popeye.S01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",OS SIMPSONS 24H [HD]
 http://24hrs.homelinux.com:80/24H-ossimpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",X-MEN EVOLUTION 24H [HD]
@@ -677,6 +665,12 @@ http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/playlist.m3u8
 http://24hrs.homelinux.com:80/24H-picapau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",OS FLINTSTONES 24H [HD]
 http://24hrs.homelinux.com:80/24H-osflistony/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",CHAVES 24H [HD]
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Visões da Raven 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",As Visões da Raven 24H
+http://acessolite.top:80/057548607/500728747/1254747
+#EXTINF:-1 tvg-id="" tvg-name="iCarly Revival 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",iCarly Revival 24H
+http://acessolite.top:80/057548607/500728747/1254729
 #EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",UM MALUCO NO PEDAÇO 24H [HD]
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2 HOMENS E MEIO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",2 HOMENS E MEIO 24H [HD]
@@ -743,4 +737,25 @@ http://dns.6tp.xyz/movie/luizneto/997143156/2785302.mp4
 http://dns.6tp.xyz/movie/luizneto/997143156/2785952.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Para Salvar Uma Vida (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/gcKveDUjTSEQgnjwwa2Lqzlyrye.jpg" group-title="FILMES | ON DEMAND",Para Salvar Uma Vida (2009)
 http://dns.6tp.xyz/movie/luizneto/997143156/2788737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia - 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg" group-title="FILMES | ON DEMAND",A Pequena Sereia - 2023
+http://acessolite.top:80/movie/057548607/500728747/2031356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada Era Uma Vez - 2023" tvg-logo="http://5ce.co:80/images/pfMgyj2afebT8LVrDVYHniDk3XJ_big.jpg" group-title="FILMES | ON DEMAND",A Princesa Encantada Era Uma Vez - 2023
+http://acessolite.top:80/movie/057548607/500728747/2031473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mumias e o Anel Perdido - 2023" tvg-logo="http://5ce.co:80/images/AmfGIGm5SzcBynum9roCNSAzoyD_big.jpg" group-title="FILMES | ON DEMAND",As Mumias e o Anel Perdido - 2023
+http://acessolite.top:80/movie/057548607/500728747/2031589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luther O Cair da Noite - 2023" tvg-logo="http://5ce.co:80/images/dX7vIS0HfCIJ4l1VEBoSLs9DnLe_big.jpg" group-title="FILMES | ON DEMAND",Luther O Cair da Noite - 2023
+http://acessolite.top:80/movie/057548607/500728747/2032014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estrangulador de Boston - 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="FILMES | ON DEMAND",O Estrangulador de Boston - 2023
+http://acessolite.top:80/movie/057548607/500728747/2032173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcista do Papa - 2023 " tvg-logo="http://5ce.co:80/images/rBDAkmDdRv1bG996JPPNq0cMOVG_big.jpg" group-title="FILMES | ON DEMAND",O Exorcista do Papa - 2023 
+http://acessolite.top:80/movie/057548607/500728747/2032175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Falsificador - 2023" tvg-logo="http://5ce.co:80/images/2Es52cS0Cu44UxpeICzN1GxFmnF_big.jpg" group-title="FILMES | ON DEMAND",O Falsificador - 2023
+http://acessolite.top:80/movie/057548607/500728747/2032177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan and Wendy - 2023" tvg-logo="http://5ce.co:80/images/xuI60N007L9x3r46paOZarUj2f3_big.jpg" group-title="FILMES | ON DEMAND",Peter Pan and Wendy - 2023
+http://acessolite.top:80/movie/057548607/500728747/2032272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querido David - 2023" tvg-logo="http://5ce.co:80/images/f3HkD0GxSuOZehm370aSAdgpGet_big.jpg" group-title="FILMES | ON DEMAND",Querido David - 2023
+http://acessolite.top:80/movie/057548607/500728747/2032329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainhas em Fuga - 2023" tvg-logo="http://5ce.co:80/images/iL0hVqtK0NUa6B9UJXkoq5jSXAz_big.jpg" group-title="FILMES | ON DEMAND",Rainhas em Fuga - 2023
+#EXTINF:-1 tvg-id="" tvg-name="Resgate 2 - 2023" tvg-logo="http://5ce.co:80/images/AfwqKLQwjgPu8bIL1mqhHTlnQv0_big.jpg" group-title="FILMES | ON DEMAND",Resgate 2 - 2023
+http://acessolite.top:80/movie/057548607/500728747/2032361.mp4
 ######################### FILMES | ON DEMAND ######################################
