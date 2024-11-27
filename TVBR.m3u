@@ -11,30 +11,30 @@ http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 http://15.235.15.230:14488/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SC [HD]
-https://live.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMTQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzMyMTQ0OTMwLCJpYXQiOjE3MzIwNTg1MzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49MzEzOTg0KS9uc2NzY2F0YXJpbmEvcGxheWxpc3QubTN1OCJ9.VyAiKUC7YoccGgRUApokn13zcnJ6ty_FQO1RNuKX5kmF-zqB3hCBe6fldp_G-W39MZyUAbg8tE9KLXMvcSXmIsAxdN-aXI2XXc1X1rwCQg0RKBhzy5cCFpLzfviQtDkdqxiog1LQHR_8f7wydBgbzOi0Zk7EyG5JYdRTiqvsOZpm1F5-IILUzxck9dZQnNNlJ25-kyHOdnzSnXt2QOE5fn9VFsvoJ27I8Slrb9WmluIZD4dzi7w11cCUG733lg9DsZBJt3cOsRCAwoorRlpFNHunZOo9oB2n6G36Zq0Zw0AuRbJHu3PkdKhzGwM_YVWjeTWf-7nnva8eGro1C0ZaxQ/nu/f(bMin=313984)/nscscatarina/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="TV VERDES MARES" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO TV VERDES MARES [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751656.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO BA [HD]
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [FHD]
 https://stream1.freetv.fun/record-sp-2-3.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [HD]
 https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD SP [SD]
 https://stream1.freetv.fun/record-sp-2-1.m3u8
-#EXTINF:-1 tvg-id="record.br" tvg-name="TV CONQUISTA" tvg-logo="https://i.imgur.com/CqX5l7t.png" group-title="CANAIS | ABERTOS",RECORD TV CONQUISTA
+#EXTINF:-1 tvg-id="record.br" tvg-name="TV CONQUISTA" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="TV JUARA" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV JUARA
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT [FHD]
 https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT [HD]
 https://aovivo.maissbt.com/channel_540.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT INTERIOR [SD]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV JANGADEIRO" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT TV JANGADEIRO [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751582.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="BEM TV" tvg-logo="https://i.imgur.com/SlPcoGY.png" group-title="CANAIS | ABERTOS",SBT BEM TV
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT BA [FHD]
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="BEM TV" tvg-logo="https://i.imgur.com/SlPcoGY.png" group-title="CANAIS | ABERTOS",SBT BEM TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV CIDADE VERDE" tvg-logo="https://img.ip2.digital/sbt.png" group-title="CANAIS | ABERTOS",SBT CIDADE VERDE [FHD]
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND SP [FHD]
 https://stream1.freetv.fun/band-1.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="https://img.ip2.digital/band.png" group-title="CANAIS | ABERTOS",BAND SP [HD]
@@ -660,6 +660,10 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GOSPELMOVIES" tvg-name="GOSPEL MOVIES" tvg-logo="https://i.imgur.com/tcgcjkp.png" group-title="CANAIS | RELIGIOSOS",GOSPEL MOVIES
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ######################### CANAIS | RELIGIOSOS ######################################
+######################### CANAIS | 24 HORAS ######################################
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",DRAGON BALL 24H
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8
+######################### CANAIS | 24 HORAS ######################################
 ######################### FILMES | ON DEMAND ######################################
 #EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w780/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="FILMES | ON DEMAND",007: Cassino Royale (2006)
 http://dns.6tp.xyz/movie/luizneto/997143156/2785359.mp4
