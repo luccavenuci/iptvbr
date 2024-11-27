@@ -267,8 +267,8 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w148848447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/wsbOfsul.png" group-title="CANAIS | FILMES E SÉRIES",UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROPAPLAY" tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="CANAIS | FILMES E SÉRIES",EUROPAPLAY
-https://cdn-2.nxplay.com.br/europaplay/index.m3u8
+#EXTINF:-1 tvg-id="cinebrasil.br" tvg-name="CINE BRASIL" tvg-logo="https://i.imgur.com/yrzQyEu.png" group-title="CANAIS | FILMES E SÉRIES",CINE BRASIL [HD]
+https://cdn-2.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/AShLQpl.png" group-title="CANAIS | FILMES E SÉRIES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrgA0Ib.png" group-title="CANAIS | FILMES E SÉRIES",Web Tv Clássicos do Cinema
@@ -376,7 +376,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Sucessos 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Ação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Ação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Adrenalina Freezone
