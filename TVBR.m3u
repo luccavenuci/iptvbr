@@ -661,8 +661,40 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ######################### CANAIS | RELIGIOSOS ######################################
 ######################### CANAIS | 24 HORAS ######################################
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",DRAGON BALL 24H
-http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",DRAGON BALL Z 24H [HD]
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",NARUTO 24H [HD]
+http://24hrs.homelinux.com:80/24H-naruto.txt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",CHAVES 24H [HD]
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POKÉMON 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",POKÉMON 24H [HD]
+http://24hrs.homelinux.com:80/24H-pokemon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY E DONALD 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",MICKEY E DONALD 24H [HD]
+http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",LULUZINHA 24H [HD]
+http://24hrs.homelinux.com:80/24H-luluzinha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",TOM E JERRY 24H [HD]
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",SCOOBY-DOO 24H [HD]
+http://24hrs.homelinux.com:80/24H-scoobdoo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",POPEYE 24H [HD]
+http://24hrs.homelinux.com:80/24H-Popeye.S01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",OS SIMPSONS 24H [HD]
+http://24hrs.homelinux.com:80/24H-ossimpsons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",X-MEN EVOLUTION 24H [HD]
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PICAPAU 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",PICAPAU 24H [HD]
+http://24hrs.homelinux.com:80/24H-picapau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",OS FLINTSTONES 24H [HD]
+http://24hrs.homelinux.com:80/24H-osflistony/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",UM MALUCO NO PEDAÇO 24H [HD]
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="2 HOMENS E MEIO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",2 HOMENS E MEIO 24H [HD]
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",TODO MUNDO ODEIA O CHRIS 24H [HD]
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",EU A PATROA E AS CRIANÇAS 24H [HD]
+http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/playlist.m3u8
 ######################### CANAIS | 24 HORAS ######################################
 ######################### FILMES | ON DEMAND ######################################
 #EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w780/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="FILMES | ON DEMAND",007: Cassino Royale (2006)
