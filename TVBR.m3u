@@ -263,8 +263,6 @@ http://dns.6tp.xyz/live/luizneto/997143156/2744349.m3u8
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="CANAIS | FILMES E SÉRIES",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV OSÓRIO" tvg-logo="https://i.imgur.com/XQGxmEb.jpeg" group-title="CANAIS | FILMES E SÉRIES",TV OSÓRIO
-https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VILA TV" tvg-logo="https://i.imgur.com/lFD9lMf.png" group-title="CANAIS | FILMES E SÉRIES",VILA TV
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w148848447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/wsbOfsul.png" group-title="CANAIS | FILMES E SÉRIES",UMA TV
@@ -286,7 +284,7 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 ######################### CANAIS | FILMES E SÉRIES ######################################
 ######################### CANAIS | TELECINE ######################################
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744322.m3u8
+http://15.235.50.113:14009
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [HD]
 http://15.235.50.113:14008
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [SD]
@@ -298,13 +296,13 @@ http://dns.6tp.xyz/live/luizneto/997143156/2744311.m3u8
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [SD]
 http://dns.6tp.xyz/live/luizneto/997143156/2744315.m3u8
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744323.m3u8
+http://15.235.50.113:14018
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [HD]
 http://15.235.50.113:14017
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [SD]
 http://15.235.50.113:14016
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744316.m3u8
+http://15.235.50.113:14012
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [HD]
 http://15.235.50.113:14011
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [SD]
@@ -316,7 +314,7 @@ https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [SD]
 http://dns.6tp.xyz/live/luizneto/997143156/2744305.m3u8
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744313.m3u8
+http://15.235.50.113:14015
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [HD]
 http://15.235.50.113:14014
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [SD]
