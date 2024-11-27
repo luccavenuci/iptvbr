@@ -662,7 +662,7 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ######################### CANAIS | RELIGIOSOS ######################################
 ######################### CANAIS | 24 HORAS ######################################
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",DRAGON BALL Z 24H [HD]
-http://24hrs.homelinux.com:80/24H-dragon.ball.z/playlist.m3u8
+http://24hrs.homelinux.com:80/24H-dragon.ball/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",NARUTO 24H [HD]
 http://24hrs.homelinux.com:80/24H-naruto.txt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",CHAVES 24H [HD]
