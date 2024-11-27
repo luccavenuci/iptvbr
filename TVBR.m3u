@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+  #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 ######################### CANAIS | ABERTOS ######################################
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
@@ -152,113 +152,105 @@ https://7pal.short.gy/skyspt3nz
 ######################### CANAIS | ESPORTES ######################################
 ######################### CANAIS | FILMES E SÉRIES ######################################
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744487.m3u8
+http://acessolite.top:80/057548607/500728747/239470
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751833.m3u8
+http://acessolite.top:80/057548607/500728747/239471
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [SD]
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744406.m3u8
+http://acessolite.top:80/057548607/500728747/239473
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [HD]
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+http://acessolite.top:80/057548607/500728747/239474
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [SD]
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744405.m3u8
+http://acessolite.top:80/057548607/500728747/239476
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [HD]
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+http://acessolite.top:80/057548607/500728747/239477
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [SD]
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [FHD]
+http://acessolite.top:80/057548607/500728747/239479
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [HD]
+http://acessolite.top:80/057548607/500728747/1092400
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [SD]
+http://acessolite.top:80/057548607/500728747/239481
+#EXTINF:-1 tvg-id="br#film-arts-hd" tvg-name="FILM&ARTS" tvg-logo="https://meuplayer.tv.br/lgs_btv/filmearts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS [FHD]
+http://acessolite.top:80/057548607/500728747/239482
+#EXTINF:-1 tvg-id="br#film-arts-hd" tvg-name="FILM&ARTS" tvg-logo="https://meuplayer.tv.br/lgs_btv/filmearts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS [HD]
+http://acessolite.top:80/057548607/500728747/239483
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [FHD]
+http://acessolite.top:80/057548607/500728747/239484
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [HD]
+http://acessolite.top:80/057548607/500728747/1092413
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [SD]
+http://acessolite.top:80/057548607/500728747/239487
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [FHD]
+http://acessolite.top:80/057548607/500728747/239491
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [HD]
+http://acessolite.top:80/057548607/500728747/1092417
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [SD]
+http://acessolite.top:80/057548607/500728747/239493
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [FHD]
+http://acessolite.top:80/057548607/500728747/239494
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [HD]
+http://acessolite.top:80/057548607/500728747/239495
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [SD]
+http://acessolite.top:80/057548607/500728747/239496
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744385.m3u8
+http://acessolite.top:80/057548607/500728747/239497
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [HD]
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+http://acessolite.top:80/057548607/500728747/239498
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [SD]
 https://cdn-2.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744411.m3u8
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744396.m3u8
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744392.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744403.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744395.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744404.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744401.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744397.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744398.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744409.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744407.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744370.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744372.m3u8
+http://acessolite.top:80/057548607/500728747/239500
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [HD]
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+http://acessolite.top:80/057548607/500728747/239501
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
 https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744380.m3u8
+http://acessolite.top:80/057548607/500728747/239503
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744388.m3u8
+http://acessolite.top:80/057548607/500728747/239504
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744374.m3u8
+http://acessolite.top:80/057548607/500728747/239505
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744353.m3u8
+http://acessolite.top:80/057548607/500728747/239509
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744365.m3u8
+http://acessolite.top:80/057548607/500728747/239510
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744366.m3u8
+http://acessolite.top:80/057548607/500728747/239511
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744364.m3u8
+http://acessolite.top:80/057548607/500728747/239518
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744350.m3u8
+http://acessolite.top:80/057548607/500728747/239519
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744354.m3u8
+http://acessolite.top:80/057548607/500728747/239520
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744375.m3u8
+http://acessolite.top:80/057548607/500728747/239521
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [HD]
-https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
+http://acessolite.top:80/057548607/500728747/239522
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744390.m3u8
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744373.m3u8
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744379.m3u8
-#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT NOVELAS" tvg-logo="https://img.ip2.digital/tntnovelas.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744371.m3u8
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [FHD]
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [HD]
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT SÉRIES" tvg-logo="https://img.ip2.digital/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SÉRIES [SD]
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
+http://acessolite.top:80/057548607/500728747/239523
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744355.m3u8
+http://acessolite.top:80/057548607/500728747/239529
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744368.m3u8
+http://acessolite.top:80/057548607/500728747/239530
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744352.m3u8
+http://acessolite.top:80/057548607/500728747/239531
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [FHD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751978.m3u8
+http://acessolite.top:80/057548607/500728747/239512
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751979.m3u8
+http://acessolite.top:80/057548607/500728747/1092430
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2751976.m3u8
+http://acessolite.top:80/057548607/500728747/239514
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [FHD]
-https://stream1.freetv.fun/warner-channel-3.m3u8
+http://acessolite.top:80/057548607/500728747/239532
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [HD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744356.m3u8
+http://acessolite.top:80/057548607/500728747/239533
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [SD]
-http://dns.6tp.xyz/live/luizneto/997143156/2744349.m3u8
+http://acessolite.top:80/057548607/500728747/239534
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 1" tvg-logo="https://i.imgur.com/M66M8X4.png" group-title="CANAIS | FILMES E SÉRIES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="CANAIS | FILMES E SÉRIES",TV ARACATI
