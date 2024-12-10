@@ -2,9 +2,9 @@
 
 ######################### CANAIS | ABERTOS ######################################
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [FHD]
-http://acessolite.top:80/057548607/500728747/1082892
+http://198.57.27.86:14500/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [HD]
-http://acessolite.top:80/057548607/500728747/1092425
+http://15.235.15.230:14783/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
 http://15.235.15.230:14487/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO MS [FHD]
@@ -14,11 +14,9 @@ http://15.235.15.230:14488/
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV SP [FHD]
-http://acessolite.top:80/057548607/500728747/1086658
+http://15.235.50.115:14538/
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV SP [HD]
-http://acessolite.top:80/057548607/500728747/1086659
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV SP [SD]
-http://acessolite.top:80/057548607/500728747/1086660
+http://199.127.60.136:14381
 #EXTINF:-1 tvg-id="record.br" tvg-name="TV CONQUISTA" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="TV JUARA" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV JUARA
@@ -45,8 +43,6 @@ https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="RBA TV" tvg-logo="https://i.imgur.com/RdUbLEK.png" group-title="CANAIS | ABERTOS",BAND RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://img.ip2.digital/canalbrasil.png" group-title="CANAIS | ABERTOS",CANAL BRASIL 
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA" tvg-logo="https://img.ip2.digital/futura.png" group-title="CANAIS | ABERTOS",CANAL FUTURA
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT HD" tvg-logo="https://img.ip2.digital/cnt.png" group-title="CANAIS | ABERTOS",CNT HD
@@ -61,8 +57,6 @@ https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [SD]
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO" tvg-logo="https://img.ip2.digital/diario.png" group-title="CANAIS | ABERTOS",TV DIARIO
-http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 ######################### CANAIS | ABERTOS ######################################
 ######################### CANAIS | NOTÍCIAS ######################################
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS" tvg-logo="https://img.ip2.digital/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS [HD]
@@ -70,17 +64,17 @@ https://cdn-5.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS" tvg-logo="https://img.ip2.digital/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS [SD]
 https://cdn-2.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="https://img.ip2.digital/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL [FHD]
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+http://84.17.40.54:14251/
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="https://img.ip2.digital/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL [HD]
-https://cdn-2.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
+https://cdn-1.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="https://img.ip2.digital/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL [SD]
 https://cdn-1.nxplay.com.br/CNN_FAST/index.m3u8
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS" tvg-logo="https://img.ip2.digital/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS [FHD]
-https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS" tvg-logo="https://img.ip2.digital/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS [FHD] 2
-https://stream1.freetv.fun/globo-news-2.m3u8
+http://199.127.62.125:14164
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS" tvg-logo="https://img.ip2.digital/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS [HD]
+http://199.127.62.125:14164
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="https://img.ip2.digital/jovempannews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS [FHD]
-https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+http://38.99.238.68:14441/
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS" tvg-logo="https://img.ip2.digital/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS [FHD]
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H NEWS" tvg-logo="https://img.ip2.digital/foxnews.png" group-title="CANAIS | NOTÍCIAS",24H NEWS [FHD]
@@ -117,136 +111,142 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 ######################### CANAIS | INTERNACIONAIS ######################################
 ######################### CANAIS | ESPORTES ######################################
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [FHD]
+http://199.127.60.138:14039
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [HD]
-http://acessolite.top:80/057548607/500728747/1092393
+http://199.127.60.138:14039
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://img.ip2.digital/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS [SD]
 https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | ESPORTES",COMBATE [FHD]
+http://108.181.39.189:14045/
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | ESPORTES",COMBATE [HD]
+http://64.31.53.206:14306/
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | ESPORTES",COMBATE [SD]
+http://79.127.243.211:14449/
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | ESPORTES",OFF [FHD]
+http://143.244.35.166:14344/
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="https://img.ip2.digital/sportv.png" group-title="CANAIS | ESPORTES",SporTV
-http://acessolite.top:80/057548607/500728747/239689
+http://38.114.122.93:14409/
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://img.ip2.digital/sportv2.png" group-title="CANAIS | ESPORTES",SporTV 2
-http://acessolite.top:80/057548607/500728747/239680
+http://38.99.238.72:14647/
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://img.ip2.digital/sportv3.png" group-title="CANAIS | ESPORTES",SporTV 3
-http://acessolite.top:80/057548607/500728747/239683
+http://38.99.238.72:14651/
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-logo="https://img.ip2.digital/espn.png" group-title="CANAIS | ESPORTES",ESPN BRASIL
-http://acessolite.top:80/057548607/500728747/1627714
+http://38.99.238.72:14179/
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://img.ip2.digital/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2
-http://acessolite.top:80/057548607/500728747/1627717
+http://38.99.238.72:14184/
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://img.ip2.digital/espn3.png" group-title="CANAIS | ESPORTES",ESPN 3
-http://acessolite.top:80/057548607/500728747/1627720
+http://38.99.238.72:14186/
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://img.ip2.digital/espn4.png" group-title="CANAIS | ESPORTES",ESPN 4
-http://acessolite.top:80/057548607/500728747/1092411
+http://38.99.238.72:14192/
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 5" tvg-logo="https://img.ip2.digital/espnextra.png" group-title="CANAIS | ESPORTES",ESPN 5
-http://acessolite.top:80/057548607/500728747/1627725
+http://143.244.35.166:14520/
 #EXTINF:-1 tvg-id="Sky Sports" tvg-name="SKY SPORTS" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports 1" tvg-name="SKY SPORTS 1" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 1
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="Sky Sports 2" tvg-name="SKY SPORTS 2" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 2
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="Sky Sports 3" tvg-name="SKY SPORTS 3" tvg-logo="https://i.imgur.com/BZfGX98.png" group-title="CANAIS | ESPORTES",Sky Sports 3
-https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | ESPORTES",WOOHOO [FHD]
+http://143.244.35.166:14367/
 ######################### CANAIS | ESPORTES ######################################
 ######################### CANAIS | FILMES E SÉRIES ######################################
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [FHD]
-http://acessolite.top:80/057548607/500728747/239470
+http://golden.voxcloud.org:80/593441232/287778399/341
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [HD]
-http://acessolite.top:80/057548607/500728747/239471
+http://212.102.60.196:14563/
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E" tvg-logo="https://img.ip2.digital/aee.png" group-title="CANAIS | FILMES E SÉRIES",A&E [SD]
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [FHD]
-http://acessolite.top:80/057548607/500728747/239473
+http://67.220.74.123:14700/
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [HD]
-http://acessolite.top:80/057548607/500728747/239474
+http://46.4.95.144:14221/
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://img.ip2.digital/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC [SD]
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [FHD]
-http://acessolite.top:80/057548607/500728747/239476
+http://89.187.177.194:14570/
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [HD]
-http://acessolite.top:80/057548607/500728747/239477
+http://79.127.243.211:14569/
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://img.ip2.digital/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN [SD]
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [FHD]
-http://acessolite.top:80/057548607/500728747/239479
+http://89.187.177.194:14577/
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [HD]
-http://acessolite.top:80/057548607/500728747/1092400
+http://89.187.177.194:14577/
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-logo="https://img.ip2.digital/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX [SD]
-http://acessolite.top:80/057548607/500728747/239481
-#EXTINF:-1 tvg-id="br#film-arts-hd" tvg-name="FILM&ARTS" tvg-logo="https://meuplayer.tv.br/lgs_btv/filmearts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS [FHD]
-http://acessolite.top:80/057548607/500728747/239482
-#EXTINF:-1 tvg-id="br#film-arts-hd" tvg-name="FILM&ARTS" tvg-logo="https://meuplayer.tv.br/lgs_btv/filmearts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS [HD]
-http://acessolite.top:80/057548607/500728747/239483
+http://212.102.60.196:14578/
+#EXTINF:-1 tvg-id="filmarts.br" tvg-name="FILM&ARTS" tvg-logo="https://meuplayer.tv.br/lgs_btv/filmearts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS [FHD]
+http://199.127.62.125:14131
+#EXTINF:-1 tvg-id="filmarts.br" tvg-name="FILM&ARTS" tvg-logo="https://meuplayer.tv.br/lgs_btv/filmearts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS [HD]
+
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [FHD]
-http://acessolite.top:80/057548607/500728747/239484
+http://172.93.111.244:14336/
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [HD]
-http://acessolite.top:80/057548607/500728747/1092413
+http://103.195.102.196:14336/
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://img.ip2.digital/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX [SD]
-http://acessolite.top:80/057548607/500728747/239487
+http://207.188.6.50:14337/
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [FHD]
-http://acessolite.top:80/057548607/500728747/239491
+http://89.187.177.194:14585/
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [HD]
-http://acessolite.top:80/057548607/500728747/1092417
+http://212.102.60.196:14586/
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-logo="https://img.ip2.digital/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX [SD]
-http://acessolite.top:80/057548607/500728747/239493
+http://38.99.238.71:14450/
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [FHD]
-http://acessolite.top:80/057548607/500728747/239494
+http://185.236.183.118:16497/
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [HD]
-http://acessolite.top:80/057548607/500728747/239495
+http://89.187.177.194:14588/
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT" tvg-logo="https://img.ip2.digital/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK [SD]
-http://acessolite.top:80/057548607/500728747/239496
+http://198.57.27.86:14679/
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [FHD]
-http://acessolite.top:80/057548607/500728747/239497
+http://89.187.177.194:14592/
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [HD]
-http://acessolite.top:80/057548607/500728747/239498
+http://38.99.238.68:14636/
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://img.ip2.digital/sony.png" group-title="CANAIS | FILMES E SÉRIES",SONY CHANNEL [SD]
 https://cdn-2.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [FHD]
-http://acessolite.top:80/057548607/500728747/239500
+http://38.99.238.68:14639/
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [HD]
-http://acessolite.top:80/057548607/500728747/239501
+http://89.187.177.194:14596/
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://img.ip2.digital/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE [SD]
 https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [FHD]
-http://acessolite.top:80/057548607/500728747/239503
+http://207.188.6.50:14048/
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [HD]
-http://acessolite.top:80/057548607/500728747/239504
+http://64.31.53.206:14324/
 #EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL" tvg-logo="https://img.ip2.digital/starchannel.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL [SD]
-http://acessolite.top:80/057548607/500728747/239505
+http://79.127.243.211:14690/
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [FHD]
-http://acessolite.top:80/057548607/500728747/239509
+http://38.114.122.93:14719/
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [HD]
-http://acessolite.top:80/057548607/500728747/239510
+http://38.114.122.93:14719/
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img.ip2.digital/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL [SD]
-http://acessolite.top:80/057548607/500728747/239511
+http://207.188.6.50:14584/
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [FHD]
-http://acessolite.top:80/057548607/500728747/239518
+http://208.115.234.42:14753/
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [HD]
-http://acessolite.top:80/057548607/500728747/239519
+http://208.115.234.42:14753/
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://img.ip2.digital/tcm.png" group-title="CANAIS | FILMES E SÉRIES",TCM [SD]
-http://acessolite.top:80/057548607/500728747/239520
+http://208.115.234.42:14753/
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [FHD]
-http://acessolite.top:80/057548607/500728747/239521
+http://38.99.238.71:14704/
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [HD]
-http://acessolite.top:80/057548607/500728747/239522
+http://89.187.177.194:14616/
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://img.ip2.digital/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT [SD]
-http://acessolite.top:80/057548607/500728747/239523
+http://212.102.60.196:14617/
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [FHD]
-http://acessolite.top:80/057548607/500728747/239529
+http://67.220.74.123:14628/
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [HD]
-http://acessolite.top:80/057548607/500728747/239530
+http://212.102.60.196:14625/
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://img.ip2.digital/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL [SD]
-http://acessolite.top:80/057548607/500728747/239531
-#EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [FHD]
-http://acessolite.top:80/057548607/500728747/239512
-#EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [HD]
-http://acessolite.top:80/057548607/500728747/1092430
-#EXTINF:-1 tvg-id="usa" tvg-name="USA" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [SD]
-http://acessolite.top:80/057548607/500728747/239514
+http://79.127.243.211:14623/
+#EXTINF:-1 tvg-id="usa" tvg-name="USA NETWORK" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [FHD]
+http://67.220.74.123:14625/
+#EXTINF:-1 tvg-id="usa" tvg-name="USA NETWORK" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [HD]
+http://103.195.102.196:14593/
+#EXTINF:-1 tvg-id="usa" tvg-name="USA NETWORK" tvg-logo="https://img.ip2.digital/usachannel.png" group-title="CANAIS | FILMES E SÉRIES",USA TV NETWORK [SD]
+http://212.102.60.196:14605/
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [FHD]
-http://acessolite.top:80/057548607/500728747/239532
+http://172.93.111.244:14641/
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [HD]
-http://acessolite.top:80/057548607/500728747/239533
+http://89.187.177.194:14629/
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="WARNER CHANNEL" tvg-logo="https://img.ip2.digital/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL [SD]
-http://acessolite.top:80/057548607/500728747/239534
+http://212.102.60.196:14630/
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 1" tvg-logo="https://i.imgur.com/M66M8X4.png" group-title="CANAIS | FILMES E SÉRIES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ARACATI" tvg-logo="https://i.imgur.com/Bz6aqwT.png" group-title="CANAIS | FILMES E SÉRIES",TV ARACATI
@@ -272,37 +272,37 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 ######################### CANAIS | FILMES E SÉRIES ######################################
 ######################### CANAIS | TELECINE ######################################
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [FHD]
-http://acessolite.top:80/057548607/500728747/240353
+http://15.235.50.113:14009/
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [HD]
 http://15.235.50.113:14008
 #EXTINF:-1 tvg-id="telecinepremium" tvg-name="TELECINE PREMIUM" tvg-logo="https://img.ip2.digital/telecinePREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [SD]
 http://15.235.50.113:14007
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [FHD]
-http://acessolite.top:80/057548607/500728747/240341
+http://38.114.123.112:14610/
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [HD]
-http://acessolite.top:80/057548607/500728747/240342
+http://79.127.243.211:14632/
 #EXTINF:-1 tvg-id="telecineaction" tvg-name="TELECINE ACTION" tvg-logo="https://img.ip2.digital/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION [SD]
-http://acessolite.top:80/057548607/500728747/240343
+http://212.102.60.196:14634/
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [FHD]
-http://acessolite.top:80/057548607/500728747/240347
+http://212.102.60.196:14642/
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [HD]
 http://15.235.50.113:14017
 #EXTINF:-1 tvg-id="telecinefun" tvg-name="TELECINE FUN" tvg-logo="https://img.ip2.digital/telecineFAN.png" group-title="CANAIS | TELECINE",TELECINE FUN [SD]
 http://15.235.50.113:14016
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [FHD]
-http://acessolite.top:80/057548607/500728747/240356
+http://15.235.50.113:14012/
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [HD]
 http://15.235.50.113:14011
 #EXTINF:-1 tvg-id="telecinetouch" tvg-name="TELECINE TOUCH" tvg-logo="https://img.ip2.digital/telecineTOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [SD]
 http://15.235.50.113:14010
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [FHD]
-http://acessolite.top:80/057548607/500728747/240350
+http://38.99.238.71:14682/
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [HD]
-http://acessolite.top:80/057548607/500728747/240351
+http://38.114.122.93:14607/
 #EXTINF:-1 tvg-id="telecinepipoca" tvg-name="TELECINE PIPOCA" tvg-logo="https://img.ip2.digital/telecinePIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [SD]
-http://acessolite.top:80/057548607/500728747/240352
+http://89.187.177.194:14645/
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [FHD]
-http://acessolite.top:80/057548607/500728747/240344
+http://212.102.60.196:14638/
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [HD]
 http://15.235.50.113:14014
 #EXTINF:-1 tvg-id="telecinecult" tvg-name="TELECINE CULT" tvg-logo="https://img.ip2.digital/telecineCULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [SD]
@@ -310,135 +310,119 @@ http://15.235.50.113:14013
 ######################### CANAIS | TELECINE ######################################
 ######################### CANAIS | HBO ######################################
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO [FHD]
-http://acessolite.top:80/057548607/500728747/239632
+http://38.99.238.71:14395/
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO [HD]
-http://acessolite.top:80/057548607/500728747/239633
+http://79.127.243.211:14668/
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO [SD]
-http://acessolite.top:80/057548607/500728747/239640
+http://67.220.74.123:14634/
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo2.png" group-title="CANAIS | HBO",HBO 2 [FHD]
-http://acessolite.top:80/057548607/500728747/239626
+http://67.220.74.123:14637/
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo2.png" group-title="CANAIS | HBO",HBO 2 [HD]
-http://acessolite.top:80/057548607/500728747/239627
+http://79.127.243.211:14660/
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO 2 [SD]
-http://acessolite.top:80/057548607/500728747/239628
+http://89.187.177.194:14661/
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [FHD]
-http://acessolite.top:80/057548607/500728747/239647
+
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [HD]
-http://acessolite.top:80/057548607/500728747/239648
+
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [SD]
-http://acessolite.top:80/057548607/500728747/239649
+
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [FHD]
-http://acessolite.top:80/057548607/500728747/1092415
+http://38.99.238.71:14405/
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [HD]
-http://acessolite.top:80/057548607/500728747/239630
+http://89.187.177.194:14665/
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [SD]
-http://acessolite.top:80/057548607/500728747/239631
+http://212.102.60.196:14666/
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [FHD]
-http://acessolite.top:80/057548607/500728747/239641
+http://38.99.238.71:14421/
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [HD]
-http://acessolite.top:80/057548607/500728747/239642
+http://89.187.177.194:14681/
 #EXTINF:-1 tvg-id="hbosignaturer" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [SD]
-http://acessolite.top:80/057548607/500728747/239643
+http://64.31.53.206:14322/
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [FHD]
-http://acessolite.top:80/057548607/500728747/239634
+http://38.99.238.71:14410/
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [HD]
-http://acessolite.top:80/057548607/500728747/239635
+http://103.195.102.196:14885/
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [SD]
-http://acessolite.top:80/057548607/500728747/239636
+http://79.127.243.211:14672/
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [FHD]
-http://acessolite.top:80/057548607/500728747/239644
+http://38.99.238.71:14424/
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [HD]
-http://acessolite.top:80/057548607/500728747/239645
+http://38.99.238.71:14422/
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [SD]
-http://acessolite.top:80/057548607/500728747/239646
+http://212.102.60.196:14686/
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [FHD]
-http://acessolite.top:80/057548607/500728747/239637
+http://89.187.177.194:14677/
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [HD]
-http://acessolite.top:80/057548607/500728747/239638
+http://103.195.102.196:14908/
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [SD]
-http://acessolite.top:80/057548607/500728747/239639
+http://172.93.111.244:14908/
 ######################### CANAIS | HBO ######################################
 ######################### CANAIS | PLUTO TV ######################################
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Sucessos
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Sucessos 2
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Ação
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Ação 2
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Adrenalina Freezone
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Adrenalina Freezone
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Adrenalina Freezone 2
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Adrenalina Freezone
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Comédia
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Comédia 2
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica"  tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Comédia Romântica
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica"  tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Comédia Romântica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Comédia Romântica 2
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Comédia Romântica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Drama
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Drama 2
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmelier 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmelier 2
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmelier
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Romance
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Romance
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Romance 2
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Romance
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Suspense
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Pluto TV Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Suspense 2
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Pluto TV Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Crime
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Crime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Crime 2
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Crime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Terror
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Terror 2
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Ficção Científica
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Ficção Científica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Ficção Científica 2
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Ficção Científica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Família
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Família
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Família 2
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Família
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Clássicos
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Clássicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Clássicos 2
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine Clássicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Inspiração
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine InspiraçãO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Inspiração 2
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Cine InspiraçãO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Nacionais
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Nacionais
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Filmes Nacionais 2
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",Pluto TV Filmes Nacionais
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="2967" tvg-name="Runtime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime TV e Filmes
-https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
-#EXTINF:-1 tvg-id="4675" tvg-name="Runtime Ação" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-id="4675" tvg-name="Runtime Ação" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime Ação 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-id="6800" tvg-name="Runtime CinEspanto" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime CinEspanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-id="4677" tvg-name="Runtime Comédia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-id="6802" tvg-name="Runtime Crime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-id="6806" tvg-name="Runtime Família" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-id="6804" tvg-name="Runtime Romance" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS | PLUTO TV",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 ######################### CANAIS | PLUTO TV ######################################
 ######################### CANAIS | DOCUMENTÁRIOS ######################################
 #EXTINF:-1 tvg-id="arte1" tvg-name="ARTE1" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE1 [HD]
@@ -530,7 +514,7 @@ http://acessolite.top:80/057548607/500728747/240273
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://img.ip2.digital/hgtv.png" group-title="CANAIS | VARIEDADES",HGTV [FHD]
 http://acessolite.top:80/057548607/500728747/239609
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="https://img.ip2.digital/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME [HD]
-http://acessolite.top:80/057548607/500728747/239488
+http://103.195.102.196:14782/
 #EXTINF:-1 tvg-id="modoviagem" tvg-name="MODO VIAGEM" tvg-logo="https://img.ip2.digital/modoviagem.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM [HD]
 http://acessolite.top:80/057548607/500728747/240277
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://img.ip2.digital/mtv.png" group-title="CANAIS | VARIEDADES",MTV [FHD]
@@ -543,8 +527,6 @@ http://acessolite.top:80/057548607/500728747/240288
 http://acessolite.top:80/057548607/500728747/240289
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW" tvg-logo="https://img.ip2.digital/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW [SD]
 http://acessolite.top:80/057548607/500728747/240290
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://img.ip2.digital/off.png" group-title="CANAIS | VARIEDADES",OFF [HD]
-http://acessolite.top:80/057548607/500728747/239678
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.ip2.digital/tlc.png" group-title="CANAIS | VARIEDADES",TLC [FHD]
 http://acessolite.top:80/057548607/500728747/239623
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://img.ip2.digital/travelBoxBrasil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL [FHD]
@@ -553,8 +535,6 @@ http://acessolite.top:80/057548607/500728747/240308
 http://acessolite.top:80/057548607/500728747/240319
 #EXTINF:-1 tvg-id="viva" tvg-name="VIVA" tvg-logo="https://img.ip2.digital/viva.png" group-title="CANAIS | VARIEDADES",VIVA [HD]
 http://acessolite.top:80/057548607/500728747/240320
-#EXTINF:-1 tvg-id="woohoo" tvg-name="WOOHOO" tvg-logo="https://img.ip2.digital/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO [FHD]
-http://acessolite.top:80/057548607/500728747/239449
 ######################### CANAIS | VARIEDADES ######################################
 ######################### CANAIS | INFANTIS ######################################
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="http://meuplayer.tv.br/lgs_btv/adultswin.png"  group-title="CANAIS | INFANTIS",ADULT SWIM [FHD]
@@ -580,11 +560,11 @@ http://acessolite.top:80/057548607/500728747/1805956
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="DISCOVERY KIDS" tvg-logo="https://img.ip2.digital/discoveryKids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS [SD]
 http://acessolite.top:80/057548607/500728747/1805957
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [FHD]
-http://acessolite.top:80/057548607/500728747/1805958
+http://172.93.111.244:14775/
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [HD]
-http://acessolite.top:80/057548607/500728747/1805959
+http://38.99.238.68:14172/
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="DISNEY CHANNEL" tvg-logo="https://img.ip2.digital/disneyChannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL [SD]
-http://acessolite.top:80/057548607/500728747/1805960
+http://103.195.102.196:14775/
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [FHD]
 http://acessolite.top:80/057548607/500728747/1805964
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB" tvg-logo="https://img.ip2.digital/gloob.png" group-title="CANAIS | INFANTIS",GLOOB [HD]
@@ -622,14 +602,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS" tvg-logo="http://img.ip2.digital/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO KIDS [HD]
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 ######################### CANAIS | INFANTIS ######################################
-######################### CANAIS | COMBATE ######################################
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [FHD]
-http://acessolite.top:80/057548607/500728747/239671
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE HD" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [HD]
-http://acessolite.top:80/057548607/500728747/1092402
-#EXTINF:-1 tvg-id="combate" tvg-name="COMBATE" tvg-logo="https://img.ip2.digital/combate.png" group-title="CANAIS | COMBATE",COMBATE [SD]
-http://acessolite.top:80/057548607/500728747/239673
-######################### CANAIS | COMBATE ######################################
 ######################### CANAIS | RELIGIOSOS ######################################
 #EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA [HD]" tvg-logo="https://img.ip2.digital/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
@@ -645,112 +617,188 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 ######################### CANAIS | RELIGIOSOS ######################################
 ######################### CANAIS | 24 HORAS ######################################
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",DRAGON BALL Z 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",DRAGON BALL Z 24H [HD]
 http://24hrs.homelinux.com:80/24H-dragon.ball/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",NARUTO 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",NARUTO 24H [HD]
 http://24hrs.homelinux.com:80/24H-naruto.txt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MICKEY E DONALD 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",MICKEY E DONALD 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY E DONALD 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",MICKEY E DONALD 24H [HD]
 http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",LULUZINHA 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",LULUZINHA 24H [HD]
 http://24hrs.homelinux.com:80/24H-luluzinha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",SCOOBY-DOO 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",SCOOBY-DOO 24H [HD]
 http://24hrs.homelinux.com:80/24H-scoobdoo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",OS SIMPSONS 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",OS SIMPSONS 24H [HD]
 http://24hrs.homelinux.com:80/24H-ossimpsons/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",X-MEN EVOLUTION 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",X-MEN EVOLUTION 24H [HD]
 http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PICAPAU 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",PICAPAU 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="PICAPAU 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",PICAPAU 24H [HD]
 http://24hrs.homelinux.com:80/24H-picapau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",OS FLINTSTONES 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",OS FLINTSTONES 24H [HD]
 http://24hrs.homelinux.com:80/24H-osflistony/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",CHAVES 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",CHAVES 24H [HD]
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="iCarly Revival 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",iCarly Revival 24H
-http://acessolite.top:80/057548607/500728747/1254729
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",UM MALUCO NO PEDAÇO 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",UM MALUCO NO PEDAÇO 24H [HD]
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2 HOMENS E MEIO 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",2 HOMENS E MEIO 24H [HD]
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",TODO MUNDO ODEIA O CHRIS 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",TODO MUNDO ODEIA O CHRIS 24H [HD]
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24H" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="CANAIS | 24 HORAS",EU A PATROA E AS CRIANÇAS 24H [HD]
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24H" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS | 24 HORAS",EU A PATROA E AS CRIANÇAS 24H [HD]
 http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/playlist.m3u8
 ######################### CANAIS | 24 HORAS ######################################
 ######################### FILMES | ON DEMAND ######################################
-#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w780/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="FILMES | ON DEMAND",007: Cassino Royale (2006)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w780/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="FILMES | ON DEMAND",007: Contra Spectre (2015)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg" group-title="FILMES | ON DEMAND",007: Operação Skyfall (2012)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace (2008)" tvg-logo="https://image.tmdb.org/t/p/w780/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="FILMES | ON DEMAND",007: Quantum of Solace (2008)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer" tvg-logo="https://image.tmdb.org/t/p/w400/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="FILMES | ON DEMAND",007: Sem Tempo para Morrer
-http://dns.6tp.xyz/movie/luizneto/997143156/2803339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Horas para o Natal (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/zQF84E6xXSPur1gEbyKJ2P1BECp.jpg" group-title="FILMES | ON DEMAND",10 Horas para o Natal (2020)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas (1996)" tvg-logo="https://image.tmdb.org/t/p/w780/fz6rT9M05abWXlU964qJ151On47.jpg" group-title="FILMES | ON DEMAND",101 Dálmatas (1996)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg" group-title="FILMES | ON DEMAND",17 Outra Vez (2009)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chefa (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/jEfzaXdgglZFIkJY7pmiEj1YufE.jpg" group-title="FILMES | ON DEMAND",A Chefa (2016)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="É o Bicho! (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/oNjj2sW0zpg5aa8bzsv8HDxmDPs.jpg" group-title="FILMES | ON DEMAND",É o Bicho! (2017)
-http://dns.6tp.xyz/movie/luizneto/997143156/2787259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chamada (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eqaSh2PjYcGpS6rybz6UjLNuvrg.jpg" group-title="FILMES | ON DEMAND",A Chamada (2023)
-http://dns.6tp.xyz/movie/luizneto/997143156/2784460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama do Silêncio: La Mataviejitas (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fd5B1I6riT7oze7FntN51RvTPyn.jpg" group-title="FILMES | ON DEMAND",A Dama do Silêncio: La Mataviejitas (2023)
-http://dns.6tp.xyz/movie/luizneto/997143156/2784053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era de Ouro (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg" group-title="FILMES | ON DEMAND",A Era de Ouro (2023)
-http://dns.6tp.xyz/movie/luizneto/997143156/2784455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w780/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo (2002)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w780/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo 2 (2006)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo 3 (2009)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo 4 (2012)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo: As Aventuras de Buck (2022)
-http://dns.6tp.xyz/movie/luizneto/997143156/2784861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: O Big Bang (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg" group-title="FILMES | ON DEMAND",A Era do Gelo: O Big Bang (2016)
-http://dns.6tp.xyz/movie/luizneto/997143156/2786227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolha (2016)" tvg-logo="https://image.tmdb.org/t/p/w780/waeKG2ZoXh2FcxP2JbyzlG7LQ0k.jpg" group-title="FILMES | ON DEMAND",A Escolha (2016)
-http://dns.6tp.xyz/movie/luizneto/997143156/2790695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outro Conto da Nova Cinderela (2008)" tvg-logo="https://image.tmdb.org/t/p/w780/9QEVz90ufqCdKcaKFwTipmq2VmD.jpg" group-title="FILMES | ON DEMAND",Outro Conto da Nova Cinderela (2008)
-http://dns.6tp.xyz/movie/luizneto/997143156/2787639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="P.S. Eu Te Amo (2007)" tvg-logo="https://image.tmdb.org/t/p/w780/4AZq74AdUrSeaqDVHq7bJg9tlKZ.jpg" group-title="FILMES | ON DEMAND",P.S. Eu Te Amo (2007)
-http://dns.6tp.xyz/movie/luizneto/997143156/2790863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pacto de Fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/ziao1KWNkw4X5qL7rWCSJ6lyjX9.jpg" group-title="FILMES | ON DEMAND",Pacto de Fuga (2020)
-http://dns.6tp.xyz/movie/luizneto/997143156/2793778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="FILMES | ON DEMAND",Panamá (2022)
-http://dns.6tp.xyz/movie/luizneto/997143156/2783807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre" tvg-logo="https://image.tmdb.org/t/p/w400/nj9cgMhqXQJkXutKmvVelKNP1Aa.jpg" group-title="FILMES | ON DEMAND",Pantera Negra: Wakanda para Sempre
-http://dns.6tp.xyz/movie/luizneto/997143156/3014885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="FILMES | ON DEMAND",Pantera Negra: Wakanda para Sempre (2022)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Par Perfeito (2010)" tvg-logo="https://image.tmdb.org/t/p/w780/9xFcKDY9RFUidat3VU8QIlSrZmf.jpg" group-title="FILMES | ON DEMAND",Par Perfeito (2010)
-http://dns.6tp.xyz/movie/luizneto/997143156/2785952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Para Salvar Uma Vida (2009)" tvg-logo="https://image.tmdb.org/t/p/w780/gcKveDUjTSEQgnjwwa2Lqzlyrye.jpg" group-title="FILMES | ON DEMAND",Para Salvar Uma Vida (2009)
-http://dns.6tp.xyz/movie/luizneto/997143156/2788737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia - 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg" group-title="FILMES | ON DEMAND",A Pequena Sereia - 2023
-http://acessolite.top:80/movie/057548607/500728747/2031356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada Era Uma Vez - 2023" tvg-logo="http://5ce.co:80/images/pfMgyj2afebT8LVrDVYHniDk3XJ_big.jpg" group-title="FILMES | ON DEMAND",A Princesa Encantada Era Uma Vez - 2023
-http://acessolite.top:80/movie/057548607/500728747/2031473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Mumias e o Anel Perdido - 2023" tvg-logo="http://5ce.co:80/images/AmfGIGm5SzcBynum9roCNSAzoyD_big.jpg" group-title="FILMES | ON DEMAND",As Mumias e o Anel Perdido - 2023
-http://acessolite.top:80/movie/057548607/500728747/2031589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther O Cair da Noite - 2023" tvg-logo="http://5ce.co:80/images/dX7vIS0HfCIJ4l1VEBoSLs9DnLe_big.jpg" group-title="FILMES | ON DEMAND",Luther O Cair da Noite - 2023
-http://acessolite.top:80/movie/057548607/500728747/2032014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Estrangulador de Boston - 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="FILMES | ON DEMAND",O Estrangulador de Boston - 2023
-http://acessolite.top:80/movie/057548607/500728747/2032173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Exorcista do Papa - 2023 " tvg-logo="http://5ce.co:80/images/rBDAkmDdRv1bG996JPPNq0cMOVG_big.jpg" group-title="FILMES | ON DEMAND",O Exorcista do Papa - 2023 
-http://acessolite.top:80/movie/057548607/500728747/2032175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Falsificador - 2023" tvg-logo="http://5ce.co:80/images/2Es52cS0Cu44UxpeICzN1GxFmnF_big.jpg" group-title="FILMES | ON DEMAND",O Falsificador - 2023
-http://acessolite.top:80/movie/057548607/500728747/2032177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan and Wendy - 2023" tvg-logo="http://5ce.co:80/images/xuI60N007L9x3r46paOZarUj2f3_big.jpg" group-title="FILMES | ON DEMAND",Peter Pan and Wendy - 2023
-http://acessolite.top:80/movie/057548607/500728747/2032272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querido David - 2023" tvg-logo="http://5ce.co:80/images/f3HkD0GxSuOZehm370aSAdgpGet_big.jpg" group-title="FILMES | ON DEMAND",Querido David - 2023
-http://acessolite.top:80/movie/057548607/500728747/2032329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resgate 2 - 2023" tvg-logo="http://5ce.co:80/images/AfwqKLQwjgPu8bIL1mqhHTlnQv0_big.jpg" group-title="FILMES | ON DEMAND",Resgate 2 - 2023
-http://acessolite.top:80/movie/057548607/500728747/2032361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" group-title="FILMES | ON DEMAND",Criptofraude - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epdREWqn5CAvpBNtGS9jXb4Se3S.jpg" group-title="FILMES | ON DEMAND",Liga da Justica Crise nas Infinitas Terras  Parte 1 - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Ruinas - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT3xahepzP796ei0NiZIZ6t8vsl.jpg" group-title="FILMES | ON DEMAND",Em Ruinas - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5wjsuYh954HLagCnqrLpPT8xi7.jpg" group-title="FILMES | ON DEMAND",60 Minutos - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite que Mudou o Pop - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg" group-title="FILMES | ON DEMAND",A Noite que Mudou o Pop - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Amor - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r43jx9Km2ONGa8sFuzXFWM3iDhp.jpg" group-title="FILMES | ON DEMAND",Jogos de Amor - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Aprendiz do Tigre - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg" group-title="FILMES | ON DEMAND",O Aprendiz do Tigre - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nocaute - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7x801yu8OjB16DRxIiEZS7W8yY.jpg" group-title="FILMES | ON DEMAND",Nocaute - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica Jovem Reflexos do Medo - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBIyjl6kVxPmyPSUWhlk4PINxz5.jpg" group-title="FILMES | ON DEMAND",Turma da Monica Jovem Reflexos do Medo - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome e Loh Kiwan - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CsqXfzKFwlZmL6Beq5tIIutLnP.jpg" group-title="FILMES | ON DEMAND",Meu Nome e Loh Kiwan - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saudade Que Fica - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPxtPgWMB6jCazp3TYWAMp3ThZw.jpg" group-title="FILMES | ON DEMAND",A Saudade Que Fica - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beekeeper Rede de Vinganca - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg" group-title="FILMES | ON DEMAND",Beekeeper Rede de Vinganca - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Corra - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5f0J6hKQV1jVkTeAkn72dotVYed.jpg" group-title="FILMES | ON DEMAND",Apenas Corra - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Risco - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg" group-title="FILMES | ON DEMAND",Zona de Risco - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mea Culpa - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="FILMES | ON DEMAND",Mea Culpa - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Clarence - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SuEJPQZiP9Hzgzl2NJ9YFIefdn.jpg" group-title="FILMES | ON DEMAND",O Livro de Clarence - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedido Irlandes - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmTxQvHnsLpiZQiIZu2hsmZSqR8.jpg" group-title="FILMES | ON DEMAND",Pedido Irlandes - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madame Teia - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" group-title="FILMES | ON DEMAND",Madame Teia - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley One Love - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jygn5S047IWPq5uhXwOtvymZIrY.jpg" group-title="FILMES | ON DEMAND",Bob Marley One Love - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gato Galactico e o feitico do tempo - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSoanhLW3APZ8O1FRinDP3a2Fax.jpg" group-title="FILMES | ON DEMAND",Gato Galactico e o feitico do tempo - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato de Elite - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmFJKTkwNBEcz5R099ELCVLfFKb.jpg" group-title="FILMES | ON DEMAND",Assassinato de Elite - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Interesse - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg" group-title="FILMES | ON DEMAND",Zona de Interesse - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megamente Vs O Sindicato da Perdicao - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60x76Yb6nMPFwEZ3um5yhUwCga.jpg" group-title="FILMES | ON DEMAND",Megamente Vs O Sindicato da Perdicao - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Pressao - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctmyqZcsM6jAR4DLWqAf4L2RUxb.jpg" group-title="FILMES | ON DEMAND",Sem Pressao - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descanse em Paz - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3TFEdIpzNC609G0pEV6FOlHCAg.jpg" group-title="FILMES | ON DEMAND",Descanse em Paz - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Frio - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwM2wYUoTSvCHKPLJESfHeknoWm.jpg" group-title="FILMES | ON DEMAND",Sangue Frio - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Entrevista - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg" group-title="FILMES | ON DEMAND",A Grande Entrevista - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Principe Lu e a Lenda do Dragao - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg" group-title="FILMES | ON DEMAND",Principe Lu e a Lenda do Dragao - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Musica - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daGipOKcJQrDsiLdxwfr1iKp04a.jpg" group-title="FILMES | ON DEMAND",Musica - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaginario Brinquedo Diabolico - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWmBAbqUIgn2Ysy513rqSYE0fYk.jpg" group-title="FILMES | ON DEMAND",Imaginario Brinquedo Diabolico - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica Crise nas Infinitas Terras  Parte 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg" group-title="FILMES | ON DEMAND",Liga da Justica Crise nas Infinitas Terras  Parte 2 - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Teoria da Popularidade - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg" group-title="FILMES | ON DEMAND",Minha Teoria da Popularidade - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 2 A Marcadora de Cicatrizes - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="FILMES | ON DEMAND",Rebel Moon - Parte 2 A Marcadora de Cicatrizes - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Entregador - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5Z8cj0dyKzT7PrVvneknsm0X41.jpg" group-title="FILMES | ON DEMAND",O Entregador - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="FILMES | ON DEMAND",Kung Fu Panda 4 - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder Policial - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nYbyTa3w8Ijid53exglHX25A3x.jpg" group-title="FILMES | ON DEMAND",Poder Policial - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Duble - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtmzcE5Pfk5ZXnPHRAUPZnrq5U0.jpg" group-title="FILMES | ON DEMAND",O Duble - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furiosa Uma Saga Mad Max - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHD1aBR8VaZxGQWKwXr9oHMGe0s.jpg" group-title="FILMES | ON DEMAND",Furiosa Uma Saga Mad Max - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orgulho  Revolucao - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3TSLkDi7WInUFF2gn88k9d4Jtl.jpg" group-title="FILMES | ON DEMAND",Orgulho  Revolucao - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 4 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84cX5hBdCE6c90GZNEhSTiYYwIl.jpg" group-title="FILMES | ON DEMAND",Meu Malvado Favorito 4 - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1oh7Os4AU5PhT3D3myN64crigJ.jpg" group-title="FILMES | ON DEMAND",O Resgate - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bangkok no Limite Entre o Inferno e o Paraiso - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpcWDfyval6VfOUacRBFS0gNDVO.jpg" group-title="FILMES | ON DEMAND",Bangkok no Limite Entre o Inferno e o Paraiso - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apartamento 7A - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxGNUNCGGawAq1IQ9hCQMfthBpo.jpg" group-title="FILMES | ON DEMAND",Apartamento 7A - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolica - 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYVhzSnAbAPswYJVdjBICheMKbd.jpg" group-title="FILMES | ON DEMAND",Diabolica - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vitima Invisivel O Caso Eliza Samudio - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT1RYNqASGR4QEi5mJNbFz754d3.jpg" group-title="FILMES | ON DEMAND",A Vitima Invisivel O Caso Eliza Samudio - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Solta Amor em Fuga - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbyFNHS0IluRYKwvwFepnzQPY3t.jpg" group-title="FILMES | ON DEMAND",A Solta Amor em Fuga - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nascida para Cantar - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKd6YAy8KjbKkGZle7pkoqPcbsR.jpg" group-title="FILMES | ON DEMAND",Nascida para Cantar - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Touch - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDdLtBgNG3FiHqeOEKIdC8zCHFw.jpg" group-title="FILMES | ON DEMAND",Touch - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vingador da Iugoslavia 2 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg" group-title="FILMES | ON DEMAND",O Vingador da Iugoslavia 2 - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Assim Que Acaba - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYzTDYmiTVfVzsPtXLMPqrk4t6V.jpg" group-title="FILMES | ON DEMAND",E Assim Que Acaba - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Francesa - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DUeMtypGaIO9T3sxGePSFrOLbl.jpg" group-title="FILMES | ON DEMAND",A Garota Francesa - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Setor 36 - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PHGnl1VfJxD1E6k53lBJ3foG34.jpg" group-title="FILMES | ON DEMAND",Setor 36 - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agente Faixa Preta - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amy9rY0rR5y6fHNYlLVXVmFEGUi.jpg" group-title="FILMES | ON DEMAND",O Agente Faixa Preta - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Inseparaveis - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agmVK43JaFqp7P9dALQyJnCg66T.jpg" group-title="FILMES | ON DEMAND",Os Inseparaveis - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caso dos Irmaos Menendez - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aQTjPdFXgxgJxOBENA5L7cURGE.jpg" group-title="FILMES | ON DEMAND",O Caso dos Irmaos Menendez - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sugar Baby - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xeklWZwfu91tNzbl4bcYnrXEEB.jpg" group-title="FILMES | ON DEMAND",Sugar Baby - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Sacrificio - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJnnyuD4ljDg0lqiIheReDubPM4.jpg" group-title="FILMES | ON DEMAND",O Ultimo Sacrificio - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fugindo da Terra do Nunca - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt3YBqWGtklmsTRiUrJAmnsHPQu.jpg" group-title="FILMES | ON DEMAND",Fugindo da Terra do Nunca - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Corvo - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNflUElL8Bp7pp5j8sQR2Z9qNZX.jpg" group-title="FILMES | ON DEMAND",O Corvo - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Crime Nao Tira Ferias - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRusSJ8Fu1vy9tgACbvGeo9AUQd.jpg" group-title="FILMES | ON DEMAND",O Crime Nao Tira Ferias - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clube do Tesouro - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shKztvANU0Lqo1WB4QU6wT0cuft.jpg" group-title="FILMES | ON DEMAND",O Clube do Tesouro - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pisque Duas Vezes - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BCZ1rOI41cGkae6RZgLVVmYczE.jpg" group-title="FILMES | ON DEMAND",Pisque Duas Vezes - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Sentimentos - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpZgJHBTG7GRr6BpmIhrKfq8BpP.jpg" group-title="FILMES | ON DEMAND",13 Sentimentos - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="To de Graca O Filme - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPdJRN1Pp5SJOIDXV26Mu74vDuV.jpg" group-title="FILMES | ON DEMAND",To de Graca O Filme - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Tras Da Verdade - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hJanArB0xDGwAi7L9ZBFGzGwnS.jpg" group-title="FILMES | ON DEMAND",Por Tras Da Verdade - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo pelo Divorcio - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGo8LmLGwBY2DucU4DgUTq06pEW.jpg" group-title="FILMES | ON DEMAND",Tudo pelo Divorcio - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Vez - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHKgmaKVxypPbKGyILXbS2SfY9C.jpg" group-title="FILMES | ON DEMAND",A Garota da Vez - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Marvel Vingadores Missao Demolicao - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nylT8v3H6Amnc7UakIp8ZhIAZXj.jpg" group-title="FILMES | ON DEMAND",LEGO Marvel Vingadores Missao Demolicao - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Lugar da Outra - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2gA2dkhJVvM5i4Sd91SuTg9J35.jpg" group-title="FILMES | ON DEMAND",No Lugar da Outra - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maniaco do Parque - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vytA7BTXLBD4UjXOVUh2pPBTlUQ.jpg" group-title="FILMES | ON DEMAND",Maniaco do Parque - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estomago 2 O Poderoso Chef - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21zKw6hhZaJxFyCDRHcS3E3BUzd.jpg" group-title="FILMES | ON DEMAND",Estomago 2 O Poderoso Chef - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto Brutal - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEpydgURgNqyYMLH6u7CG4y9N6v.jpg" group-title="FILMES | ON DEMAND",Assalto Brutal - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Pinguim - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftNBZMJWl9ECHtOwZ8p5Lmkksc5.jpg" group-title="FILMES | ON DEMAND",Meu Amigo Pinguim - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Vizinhos Green O Filme Ferispaco - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anymw1udcCIdBstKbxMp77cwFyy.jpg" group-title="FILMES | ON DEMAND",Os Vizinhos Green O Filme Ferispaco - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacto de Redencao - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg" group-title="FILMES | ON DEMAND",Pacto de Redencao - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face da Vinganca - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlMVU37EuUzgfc737cuusJMTQlr.jpg" group-title="FILMES | ON DEMAND",A Face da Vinganca - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Infiltrado - 2024" tvg-logo="http://makeatake.live:80/images/74jKQES20eONbHJmFSOGWkHJyje_big.jpg" group-title="FILMES | ON DEMAND",O Infiltrado - 2024
+http://golden.voxcloud.org:80/movie/593441232/287778399/416636.mp4
 ######################### FILMES | ON DEMAND ######################################
