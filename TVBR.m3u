@@ -1,16 +1,16 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml"
 
 ######################### CANAIS | ABERTOS ######################################
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [FHD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/284587
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [HD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/289881
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [SD]
+http://204.12.227.194:80/4/live.m3u8
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
-http://15.235.15.230:14487/
+
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO MS [FHD]
-http://15.235.15.230:14504/
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SANTOS [SD]
-http://15.235.15.230:14488/
+
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV SP [4K]
