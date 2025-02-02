@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 ######################### CANAIS | ABERTOS ######################################
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [FHD]
