@@ -4,13 +4,11 @@
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [FHD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/284587
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/289881
+http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [SD]
-http://204.12.227.194:80/4/live.m3u8
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RPC" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RPC CURITIBA [HD]
-
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO MS [FHD]
-
+https://new.m3u8.one/globosp/index.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO RJ [FHD]
+https://lvstr.cfd/globorj-globorio/index.m3u8
 #EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="i.https://imgur.com/naQQQId.png" group-title="CANAIS | ABERTOS",GLOBO TV TEM SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD" tvg-logo="https://img.ip2.digital/record.png" group-title="CANAIS | ABERTOS",RECORD TV SP [4K]
@@ -58,6 +56,14 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA" tvg-logo="https://img.ip2.digital/tvcultura.png" group-title="CANAIS | ABERTOS",TV CULTURA [SD]
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 ######################### CANAIS | ABERTOS ######################################
+######################### CANAIS | BBB ######################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="CANAIS | BBB",BBB Cam 1
+https://cr7v.short.gy/BBB1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="CANAIS | BBB",BBB Cam 2
+https://cr7v.short.gy/BBB2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="CANAIS | BBB",Mosaico
+https://cr7v.short.gy/MOSAICO/index.m3u8
+######################### CANAIS | BBB ######################################
 ######################### CANAIS | NOTÍCIAS ######################################
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS" tvg-logo="https://i.imgur.com/vnlq8Ym.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS [HD]
 https://cdn-5.nxplay.com.br/BAND_NEWS_TK/index.m3u8
@@ -318,65 +324,55 @@ https://lvstr.cfd/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo2.png" group-title="CANAIS | HBO",HBO 2 [FHD]
 https://lvstr.cfd/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo2.png" group-title="CANAIS | HBO",HBO 2 [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18756
+
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.ip2.digital/hbo.png" group-title="CANAIS | HBO",HBO 2 [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18758
+
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18763
+https://lvstr.cfd/hboplus/index.m3u8
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [UHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/21249
+
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO PLUS" tvg-logo="https://img.ip2.digital/hboplus.png" group-title="CANAIS | HBO",HBO+ [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18766
+
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18759
+https://lvstr.cfd/hbofamily/index.m3u8
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [HD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18760
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY" tvg-logo="https://img.ip2.digital/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY [SD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18762
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18767
+https://lvstr.cfd/hbosignature/index.m3u8
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18768
+
 #EXTINF:-1 tvg-id="hbosignaturer" tvg-name="HBO SIGNATURE" tvg-logo="https://img.ip2.digital/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18770
+
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18771
+https://lvstr.cfd/hbomundi/index.m3u8
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [HD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18772
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO MUNDI" tvg-logo="https://img.ip2.digital/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18774
+
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18775
+https://lvstr.cfd/hboxtreme/index.m3u8
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18776
+
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO XTREME" tvg-logo="https://img.ip2.digital/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18778
+
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18779
+https://lvstr.cfd/hbopop/index.m3u8
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18780
+
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.ip2.digital/hbopop.png" group-title="CANAIS | HBO",HBO POP [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/18782
+
 ######################### CANAIS | HBO ######################################
 ######################### CANAIS | DOCUMENTÁRIOS ######################################
 #EXTINF:-1 tvg-id="arte1" tvg-name="ARTE1" tvg-logo="https://img.ip2.digital/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE1 [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2607
+https://lvstr.cfd/arte1/index.m3u8
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2602
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/365234
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://img.ip2.digital/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/365235
+https://lvstr.cfd/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2577
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [HD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2575
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://img.ip2.digital/discoveryChannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [SD]
-https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+https://lvstr.cfd/discoverychannel/index.m3u8
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [FHD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2572
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISC. HOME & HEALTH" tvg-logo="https://img.ip2.digital/discoveryheh.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [SD]
-http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2570
+https://lvstr.cfd/discoveryhomehealth/index.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [FHD]
 http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/2622
 #EXTINF:-1 tvg-id="history2" tvg-name="H2" tvg-logo="https://img.ip2.digital/history2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [HD]
