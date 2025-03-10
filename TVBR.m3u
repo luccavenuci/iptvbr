@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://img.ip2.digital/globo.png" group-title="CANAIS | ABERTOS",GLOBO SP [HD]
+http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD" tvg-logo="" group-title="CANAIS | DISCOVERY",Discovery Channel HD
 http://ativa.6667.lat:80/871597036/111285370/7557809.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel SD" tvg-logo="http://ativa.6667.lat:80/images/18bb271fe2fe850308af43365c5cf5f0.png" group-title="CANAIS | DISCOVERY",Discovery Channel SD
